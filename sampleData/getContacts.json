@@ -1,1 +1,2841 @@
-
+[
+  {
+    "firstName": "Abou",
+    "gender": "LNG_REFERENCE_DATA_CATEGORY_GENDER_MALE",
+    "safeBurial": false,
+    "wasCase": false,
+    "active": true,
+    "id": "f08f3f60-79b6-48f2-8932-bef3b7a365a4",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "visualId": "CONTACT-2020-0046",
+    "age": {
+      "years": 81
+    },
+    "dateOfReporting": "2020-04-15T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfLastContact": "2020-06-22T00:00:00.000Z",
+    "followUpHistory": [
+      {
+        "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_UNDER_FOLLOW_UP",
+        "startDate": "2020-06-08T00:00:00.000Z",
+        "endDate": null
+      }
+    ],
+    "followUp": {
+      "originalStartDate": "2020-05-14T00:00:00.000Z",
+      "startDate": "2020-06-23T00:00:00.000Z",
+      "endDate": "2020-07-06T00:00:00.000Z",
+      "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_UNDER_FOLLOW_UP"
+    },
+    "hasRelationships": true,
+    "relationshipsRepresentation": [
+      {
+        "id": "37f499d1-71be-4a6b-9a74-06f1fe08c620",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CASE",
+        "otherParticipantId": "1d9e88f8-75ca-4763-bb06-752c467f6c08",
+        "target": true
+      }
+    ],
+    "usualPlaceOfResidenceLocationId": null,
+    "createdAt": "2020-06-08T12:49:18.770Z",
+    "createdBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "updatedAt": "2020-08-21T09:58:06.035Z",
+    "updatedBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "Adama",
+    "gender": "LNG_REFERENCE_DATA_CATEGORY_GENDER_MALE",
+    "safeBurial": false,
+    "wasCase": false,
+    "active": true,
+    "id": "794c6a32-cf1f-4d3c-8b73-7bfb5922ed7b",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "visualId": "CONTACT-2020-0015",
+    "age": {
+      "years": 56
+    },
+    "dateOfReporting": "2020-04-16T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfLastContact": "2020-08-13T00:00:00.000Z",
+    "followUpHistory": [
+      {
+        "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_UNDER_FOLLOW_UP",
+        "startDate": "2020-06-08T00:00:00.000Z",
+        "endDate": "2020-06-23T00:00:00.000Z"
+      },
+      {
+        "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_LOST_TO_FOLLOW_UP",
+        "startDate": "2020-06-23T00:00:00.000Z",
+        "endDate": null
+      }
+    ],
+    "followUp": {
+      "originalStartDate": "2020-05-07T00:00:00.000Z",
+      "startDate": "2020-06-17T00:00:00.000Z",
+      "endDate": "2020-06-30T00:00:00.000Z",
+      "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_LOST_TO_FOLLOW_UP"
+    },
+    "hasRelationships": true,
+    "relationshipsRepresentation": [
+      {
+        "id": "b57dd903-1c32-4ce7-bd93-637bcbe733b0",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CASE",
+        "otherParticipantId": "79cee4f8-6c47-45d6-aa2c-1cc2ed8eb4eb",
+        "target": true
+      },
+      {
+        "id": "1ebb19ef-f626-457f-9063-eeff2c09c292",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CASE",
+        "otherParticipantId": "23449e30-522d-4948-bb6b-76b4a25881de",
+        "target": true
+      }
+    ],
+    "usualPlaceOfResidenceLocationId": null,
+    "createdAt": "2020-06-08T12:49:22.673Z",
+    "createdBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "updatedAt": "2020-08-21T09:58:08.601Z",
+    "updatedBy": "adf6e5ca-77ac-4eaa-84fb-4be588c5d74a",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "Adja",
+    "gender": "LNG_REFERENCE_DATA_CATEGORY_GENDER_MALE",
+    "safeBurial": false,
+    "wasCase": false,
+    "active": true,
+    "id": "efd9e740-71db-44ad-a3f9-6f072afbb604",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "visualId": "CONTACT-2020-0043",
+    "age": {
+      "years": 47
+    },
+    "dateOfReporting": "2020-04-15T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfLastContact": "2020-08-13T00:00:00.000Z",
+    "followUpHistory": [
+      {
+        "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_UNDER_FOLLOW_UP",
+        "startDate": "2020-06-08T00:00:00.000Z",
+        "endDate": null
+      }
+    ],
+    "followUp": {
+      "originalStartDate": "2020-05-14T00:00:00.000Z",
+      "startDate": "2020-06-23T00:00:00.000Z",
+      "endDate": "2020-07-06T00:00:00.000Z",
+      "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_UNDER_FOLLOW_UP"
+    },
+    "hasRelationships": true,
+    "relationshipsRepresentation": [
+      {
+        "id": "507aed50-692c-44f5-a680-b2c92f5347a1",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CASE",
+        "otherParticipantId": "2c5ac1ac-4a31-424a-a306-905e51bd2807",
+        "target": true
+      },
+      {
+        "id": "a2d18f30-cd74-4f1b-bf6d-469d8f9de94c",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CASE",
+        "otherParticipantId": "23449e30-522d-4948-bb6b-76b4a25881de",
+        "target": true
+      }
+    ],
+    "usualPlaceOfResidenceLocationId": null,
+    "createdAt": "2020-06-08T12:49:24.602Z",
+    "createdBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "updatedAt": "2020-08-21T09:58:08.620Z",
+    "updatedBy": "adf6e5ca-77ac-4eaa-84fb-4be588c5d74a",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "Alfa",
+    "gender": "LNG_REFERENCE_DATA_CATEGORY_GENDER_FEMALE",
+    "safeBurial": false,
+    "wasCase": false,
+    "active": true,
+    "id": "245d864a-34df-46be-a93e-f96e95673d7c",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "visualId": "CONTACT-2020-0012",
+    "age": {
+      "years": 34
+    },
+    "dateOfReporting": "2020-04-15T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfLastContact": "2020-06-15T00:00:00.000Z",
+    "followUpHistory": [
+      {
+        "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_UNDER_FOLLOW_UP",
+        "startDate": "2020-06-08T00:00:00.000Z",
+        "endDate": "2020-06-23T00:00:00.000Z"
+      },
+      {
+        "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_LOST_TO_FOLLOW_UP",
+        "startDate": "2020-06-23T00:00:00.000Z",
+        "endDate": null
+      }
+    ],
+    "followUp": {
+      "originalStartDate": "2020-05-07T00:00:00.000Z",
+      "startDate": "2020-06-16T00:00:00.000Z",
+      "endDate": "2020-06-29T00:00:00.000Z",
+      "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_LOST_TO_FOLLOW_UP"
+    },
+    "hasRelationships": true,
+    "relationshipsRepresentation": [
+      {
+        "id": "f8994843-fc28-49b2-9e2e-2229c9bf3c22",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CASE",
+        "otherParticipantId": "2126ab3a-84f3-404a-a0fb-f1631db1517c",
+        "target": true
+      }
+    ],
+    "usualPlaceOfResidenceLocationId": null,
+    "createdAt": "2020-06-08T12:49:26.813Z",
+    "createdBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "updatedAt": "2020-08-21T09:58:08.350Z",
+    "updatedBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "Alimatou",
+    "gender": "LNG_REFERENCE_DATA_CATEGORY_GENDER_MALE",
+    "safeBurial": false,
+    "wasCase": false,
+    "active": true,
+    "id": "0c63a125-8474-439b-af1c-4d12d8b9c6b3",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "visualId": "CONTACT-2020-0054",
+    "age": {
+      "years": 8
+    },
+    "dateOfReporting": "2020-04-15T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfLastContact": "2020-06-17T00:00:00.000Z",
+    "followUpHistory": [
+      {
+        "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_UNDER_FOLLOW_UP",
+        "startDate": "2020-06-08T00:00:00.000Z",
+        "endDate": null
+      }
+    ],
+    "followUp": {
+      "originalStartDate": "2020-05-09T00:00:00.000Z",
+      "startDate": "2020-06-18T00:00:00.000Z",
+      "endDate": "2020-07-01T00:00:00.000Z",
+      "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_UNDER_FOLLOW_UP"
+    },
+    "hasRelationships": true,
+    "relationshipsRepresentation": [
+      {
+        "id": "8bc5d1c3-a3b7-44ff-81e6-a2a3721b4071",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CASE",
+        "otherParticipantId": "2387c42d-1367-41f5-a64e-9843f360aa20",
+        "target": true
+      }
+    ],
+    "usualPlaceOfResidenceLocationId": null,
+    "createdAt": "2020-06-08T12:49:28.956Z",
+    "createdBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "updatedAt": "2020-08-21T09:58:07.116Z",
+    "updatedBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "Amath",
+    "gender": "LNG_REFERENCE_DATA_CATEGORY_GENDER_MALE",
+    "safeBurial": false,
+    "wasCase": false,
+    "active": true,
+    "id": "661e3539-77f6-4fc3-b664-ef8c51228e10",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "visualId": "CONTACT-2020-0056",
+    "age": {
+      "years": 54,
+      "months": null
+    },
+    "dateOfReporting": "2020-04-15T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfLastContact": "2020-06-15T00:00:00.000Z",
+    "followUpHistory": [
+      {
+        "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_UNDER_FOLLOW_UP",
+        "startDate": "2020-06-08T00:00:00.000Z",
+        "endDate": "2020-06-23T00:00:00.000Z"
+      },
+      {
+        "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_FOLLOW_UP_COMPLETED",
+        "startDate": "2020-06-23T00:00:00.000Z",
+        "endDate": null
+      }
+    ],
+    "followUp": {
+      "originalStartDate": "2020-05-27T00:00:00.000Z",
+      "startDate": "2020-06-16T00:00:00.000Z",
+      "endDate": "2020-06-29T00:00:00.000Z",
+      "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_FOLLOW_UP_COMPLETED"
+    },
+    "hasRelationships": true,
+    "relationshipsRepresentation": [
+      {
+        "id": "90f72cac-4bb8-47bb-89f5-9d510dc426fb",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CASE",
+        "otherParticipantId": "3d0fd453-b271-4b35-bcfc-7c49d87737d0",
+        "target": true
+      }
+    ],
+    "usualPlaceOfResidenceLocationId": null,
+    "createdAt": "2020-06-08T12:49:34.588Z",
+    "createdBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "updatedAt": "2020-08-21T09:58:07.309Z",
+    "updatedBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "Aminata",
+    "gender": "LNG_REFERENCE_DATA_CATEGORY_GENDER_FEMALE",
+    "safeBurial": false,
+    "wasCase": false,
+    "active": false,
+    "id": "09014c56-e25e-4563-b93f-f880922f9ed4",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "visualId": "CONTACT-2020-0030",
+    "age": {
+      "years": 36,
+      "months": null
+    },
+    "dateOfReporting": "2020-04-15T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfLastContact": "2020-05-15T00:00:00.000Z",
+    "followUpHistory": [
+      {
+        "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_UNDER_FOLLOW_UP",
+        "startDate": "2020-06-08T00:00:00.000Z",
+        "endDate": "2020-06-23T00:00:00.000Z"
+      },
+      {
+        "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_FOLLOW_UP_COMPLETED",
+        "startDate": "2020-06-23T00:00:00.000Z",
+        "endDate": null
+      }
+    ],
+    "followUp": {
+      "originalStartDate": null,
+      "startDate": null,
+      "endDate": null,
+      "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_FOLLOW_UP_COMPLETED"
+    },
+    "hasRelationships": false,
+    "relationshipsRepresentation": [],
+    "usualPlaceOfResidenceLocationId": null,
+    "createdAt": "2020-06-08T12:49:37.292Z",
+    "createdBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "updatedAt": "2020-07-30T17:38:58.833Z",
+    "updatedBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "Armand Contact",
+    "safeBurial": false,
+    "wasCase": false,
+    "active": true,
+    "vaccinesReceived": [],
+    "id": "14784694-05f0-4651-a14f-13f5dfec4cbf",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "visualId": "C-0001-12345678AB",
+    "age": {
+      "years": 0,
+      "months": 0
+    },
+    "documents": [],
+    "addresses": [
+      {
+        "typeId": "LNG_REFERENCE_DATA_CATEGORY_ADDRESS_TYPE_USUAL_PLACE_OF_RESIDENCE",
+        "locationId": "SN001014002000000000",
+        "geoLocationAccurate": false,
+        "date": "2020-11-11T00:00:00.000Z",
+        "geoLocation": {
+          "lat": 80.420333,
+          "lng": 49.422998
+        }
+      }
+    ],
+    "dateOfReporting": "2020-11-15T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfLastContact": "2020-11-15T00:00:00.000Z",
+    "followUpHistory": [
+      {
+        "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_UNDER_FOLLOW_UP",
+        "startDate": "2020-11-16T08:27:45.087Z",
+        "endDate": null
+      }
+    ],
+    "followUp": {
+      "originalStartDate": "2020-11-16T00:00:00.000Z",
+      "startDate": "2020-11-16T00:00:00.000Z",
+      "endDate": "2020-11-29T00:00:00.000Z",
+      "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_UNDER_FOLLOW_UP"
+    },
+    "hasRelationships": true,
+    "relationshipsRepresentation": [
+      {
+        "id": "89e1f36e-cda9-41c3-b334-0e8ee23850f0",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CASE",
+        "otherParticipantId": "36fea3b9-0a96-4881-8036-e9eff8ab6ba9",
+        "target": true
+      }
+    ],
+    "usualPlaceOfResidenceLocationId": "SN001014002000000000",
+    "createdAt": "2020-11-16T08:27:44.557Z",
+    "createdBy": "0c82815e-26d7-44ed-a234-a84301b4cc2c",
+    "updatedAt": "2020-11-16T08:27:45.087Z",
+    "updatedBy": "0c82815e-26d7-44ed-a234-a84301b4cc2c",
+    "createdOn": "API",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "Binette",
+    "gender": "LNG_REFERENCE_DATA_CATEGORY_GENDER_FEMALE",
+    "safeBurial": false,
+    "wasCase": false,
+    "active": true,
+    "id": "aff64c8f-32e1-428d-82a4-527f2b16d1d5",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "visualId": "CONTACT-2020-0060",
+    "age": {
+      "years": 34,
+      "months": null
+    },
+    "dateOfReporting": "2020-04-15T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfLastContact": "2020-06-16T00:00:00.000Z",
+    "followUpHistory": [
+      {
+        "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_UNDER_FOLLOW_UP",
+        "startDate": "2020-06-08T00:00:00.000Z",
+        "endDate": "2020-06-23T00:00:00.000Z"
+      },
+      {
+        "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_LOST_TO_FOLLOW_UP",
+        "startDate": "2020-06-23T00:00:00.000Z",
+        "endDate": null
+      }
+    ],
+    "followUp": {
+      "originalStartDate": "2020-05-28T00:00:00.000Z",
+      "startDate": "2020-06-17T00:00:00.000Z",
+      "endDate": "2020-06-30T00:00:00.000Z",
+      "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_LOST_TO_FOLLOW_UP"
+    },
+    "hasRelationships": true,
+    "relationshipsRepresentation": [
+      {
+        "id": "f668a1a4-1e75-499c-95f1-e034aea423a6",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CASE",
+        "otherParticipantId": "3083e9b6-9d56-4eed-931a-c3aad508de3f",
+        "target": true
+      }
+    ],
+    "usualPlaceOfResidenceLocationId": null,
+    "createdAt": "2020-06-08T12:49:39.411Z",
+    "createdBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "updatedAt": "2020-08-21T09:58:08.293Z",
+    "updatedBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "Bintou",
+    "gender": "LNG_REFERENCE_DATA_CATEGORY_GENDER_FEMALE",
+    "safeBurial": false,
+    "wasCase": false,
+    "active": true,
+    "id": "c6a11bd1-7c47-4429-9069-cf8cf2a28d92",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "visualId": "CONTACT-2020-0059",
+    "age": {
+      "years": 97
+    },
+    "dateOfReporting": "2020-04-15T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfLastContact": "2020-06-20T00:00:00.000Z",
+    "followUpHistory": [
+      {
+        "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_UNDER_FOLLOW_UP",
+        "startDate": "2020-06-08T00:00:00.000Z",
+        "endDate": null
+      }
+    ],
+    "followUp": {
+      "originalStartDate": "2020-05-12T00:00:00.000Z",
+      "startDate": "2020-06-21T00:00:00.000Z",
+      "endDate": "2020-07-04T00:00:00.000Z",
+      "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_UNDER_FOLLOW_UP"
+    },
+    "hasRelationships": true,
+    "relationshipsRepresentation": [
+      {
+        "id": "19afcffa-ed35-4dc5-b4a7-9b49b932a09c",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CASE",
+        "otherParticipantId": "3083e9b6-9d56-4eed-931a-c3aad508de3f",
+        "target": true
+      }
+    ],
+    "usualPlaceOfResidenceLocationId": null,
+    "createdAt": "2020-06-08T12:49:46.272Z",
+    "createdBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "updatedAt": "2020-08-21T09:58:05.685Z",
+    "updatedBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "Birima",
+    "gender": "LNG_REFERENCE_DATA_CATEGORY_GENDER_MALE",
+    "safeBurial": false,
+    "wasCase": false,
+    "active": true,
+    "id": "95941c2d-b94a-4c10-b518-59444cf3ab01",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "visualId": "CONTACT-2020-0005",
+    "age": {
+      "years": 3,
+      "months": null
+    },
+    "occupation": "LNG_REFERENCE_DATA_CATEGORY_OCCUPATION_CHILD",
+    "addresses": [
+      {
+        "typeId": "LNG_REFERENCE_DATA_CATEGORY_ADDRESS_TYPE_USUAL_PLACE_OF_RESIDENCE",
+        "country": "Trainingland",
+        "geoLocationAccurate": false
+      }
+    ],
+    "dateOfReporting": "2020-03-22T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfLastContact": "2020-06-07T00:00:00.000Z",
+    "followUpHistory": [
+      {
+        "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_UNDER_FOLLOW_UP",
+        "startDate": "2020-06-08T00:00:00.000Z",
+        "endDate": "2020-06-23T00:00:00.000Z"
+      },
+      {
+        "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_FOLLOW_UP_COMPLETED",
+        "startDate": "2020-06-23T00:00:00.000Z",
+        "endDate": null
+      }
+    ],
+    "followUp": {
+      "originalStartDate": "2020-05-19T00:00:00.000Z",
+      "startDate": "2020-06-08T00:00:00.000Z",
+      "endDate": "2020-06-21T00:00:00.000Z",
+      "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_FOLLOW_UP_COMPLETED"
+    },
+    "hasRelationships": true,
+    "relationshipsRepresentation": [
+      {
+        "id": "3eebedb4-d086-4a42-b086-70af25b77d1a",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CASE",
+        "otherParticipantId": "418e1595-db57-462c-b167-7c8a03bb295b",
+        "target": true
+      }
+    ],
+    "usualPlaceOfResidenceLocationId": null,
+    "createdAt": "2020-06-08T12:49:48.461Z",
+    "createdBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "updatedAt": "2020-08-21T09:58:06.450Z",
+    "updatedBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "Birima",
+    "gender": "LNG_REFERENCE_DATA_CATEGORY_GENDER_MALE",
+    "safeBurial": false,
+    "wasCase": false,
+    "active": true,
+    "id": "d7cf1ed1-13c1-4182-83c2-9d0d9c2aec34",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "visualId": "CONTACT-2020-0053",
+    "age": {
+      "years": 3,
+      "months": null
+    },
+    "dateOfReporting": "2020-04-15T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfLastContact": "2020-06-05T00:00:00.000Z",
+    "followUpHistory": [
+      {
+        "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_UNDER_FOLLOW_UP",
+        "startDate": "2020-06-08T00:00:00.000Z",
+        "endDate": "2020-06-23T00:00:00.000Z"
+      },
+      {
+        "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_FOLLOW_UP_COMPLETED",
+        "startDate": "2020-06-23T00:00:00.000Z",
+        "endDate": null
+      }
+    ],
+    "followUp": {
+      "originalStartDate": "2020-05-17T00:00:00.000Z",
+      "startDate": "2020-06-06T00:00:00.000Z",
+      "endDate": "2020-06-19T00:00:00.000Z",
+      "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_FOLLOW_UP_COMPLETED"
+    },
+    "hasRelationships": true,
+    "relationshipsRepresentation": [
+      {
+        "id": "42e8d11d-4c34-4fee-9705-22c2dd845f00",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CASE",
+        "otherParticipantId": "2387c42d-1367-41f5-a64e-9843f360aa20",
+        "target": true
+      }
+    ],
+    "usualPlaceOfResidenceLocationId": null,
+    "createdAt": "2020-06-08T12:49:53.373Z",
+    "createdBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "updatedAt": "2020-08-21T09:58:06.451Z",
+    "updatedBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "Birima",
+    "gender": "LNG_REFERENCE_DATA_CATEGORY_GENDER_MALE",
+    "safeBurial": false,
+    "wasCase": false,
+    "active": true,
+    "id": "d82e5d0b-a572-46e5-96ac-cb09b8b72ffb",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "visualId": "CONTACT-2020-0024",
+    "age": {
+      "years": 3,
+      "months": null
+    },
+    "dateOfReporting": "2020-04-15T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfLastContact": "2020-06-05T00:00:00.000Z",
+    "followUpHistory": [
+      {
+        "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_UNDER_FOLLOW_UP",
+        "startDate": "2020-06-08T00:00:00.000Z",
+        "endDate": "2020-06-23T00:00:00.000Z"
+      },
+      {
+        "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_FOLLOW_UP_COMPLETED",
+        "startDate": "2020-06-23T00:00:00.000Z",
+        "endDate": null
+      }
+    ],
+    "followUp": {
+      "originalStartDate": "2020-05-17T00:00:00.000Z",
+      "startDate": "2020-06-06T00:00:00.000Z",
+      "endDate": "2020-06-19T00:00:00.000Z",
+      "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_FOLLOW_UP_COMPLETED"
+    },
+    "hasRelationships": true,
+    "relationshipsRepresentation": [
+      {
+        "id": "9b284be7-4e39-4b5e-9f6f-a39851d48767",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CASE",
+        "otherParticipantId": "3d0fd453-b271-4b35-bcfc-7c49d87737d0",
+        "target": true
+      }
+    ],
+    "usualPlaceOfResidenceLocationId": null,
+    "createdAt": "2020-06-08T12:49:50.818Z",
+    "createdBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "updatedAt": "2020-08-21T09:58:07.294Z",
+    "updatedBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "Bransan  ",
+    "gender": "LNG_REFERENCE_DATA_CATEGORY_GENDER_FEMALE",
+    "safeBurial": false,
+    "wasCase": false,
+    "active": true,
+    "id": "9a5976d8-b474-48bf-a9ee-ae1ae89afd88",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "visualId": "CONTACT-2020-0058",
+    "age": {
+      "years": 23
+    },
+    "dateOfReporting": "2020-04-15T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfLastContact": "2020-06-22T00:00:00.000Z",
+    "followUpHistory": [
+      {
+        "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_UNDER_FOLLOW_UP",
+        "startDate": "2020-06-08T00:00:00.000Z",
+        "endDate": null
+      }
+    ],
+    "followUp": {
+      "originalStartDate": "2020-05-14T00:00:00.000Z",
+      "startDate": "2020-06-23T00:00:00.000Z",
+      "endDate": "2020-07-06T00:00:00.000Z",
+      "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_UNDER_FOLLOW_UP"
+    },
+    "hasRelationships": true,
+    "relationshipsRepresentation": [
+      {
+        "id": "faafb68b-5ba8-45b3-b675-c888874739aa",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CASE",
+        "otherParticipantId": "3083e9b6-9d56-4eed-931a-c3aad508de3f",
+        "target": true
+      }
+    ],
+    "usualPlaceOfResidenceLocationId": null,
+    "createdAt": "2020-06-08T12:49:56.859Z",
+    "createdBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "updatedAt": "2020-08-21T09:58:08.349Z",
+    "updatedBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "Cheik",
+    "gender": "LNG_REFERENCE_DATA_CATEGORY_GENDER_MALE",
+    "safeBurial": false,
+    "wasCase": false,
+    "active": true,
+    "id": "7cf8fded-44d7-42f1-a218-d8b8f5d62078",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "visualId": "CONTACT-2020-0001",
+    "age": {
+      "years": 12,
+      "months": null
+    },
+    "occupation": "LNG_REFERENCE_DATA_CATEGORY_OCCUPATION_CHILD",
+    "addresses": [
+      {
+        "typeId": "LNG_REFERENCE_DATA_CATEGORY_ADDRESS_TYPE_USUAL_PLACE_OF_RESIDENCE",
+        "country": "Trainingland",
+        "geoLocationAccurate": false
+      }
+    ],
+    "dateOfReporting": "2020-03-22T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfLastContact": "2020-06-07T00:00:00.000Z",
+    "followUpHistory": [
+      {
+        "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_UNDER_FOLLOW_UP",
+        "startDate": "2020-06-08T00:00:00.000Z",
+        "endDate": "2020-06-23T00:00:00.000Z"
+      },
+      {
+        "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_FOLLOW_UP_COMPLETED",
+        "startDate": "2020-06-23T00:00:00.000Z",
+        "endDate": null
+      }
+    ],
+    "followUp": {
+      "originalStartDate": "2020-05-19T00:00:00.000Z",
+      "startDate": "2020-06-08T00:00:00.000Z",
+      "endDate": "2020-06-21T00:00:00.000Z",
+      "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_FOLLOW_UP_COMPLETED"
+    },
+    "hasRelationships": true,
+    "relationshipsRepresentation": [
+      {
+        "id": "c41484a1-0a6f-4364-a7aa-facad78db837",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CASE",
+        "otherParticipantId": "418e1595-db57-462c-b167-7c8a03bb295b",
+        "target": true
+      }
+    ],
+    "usualPlaceOfResidenceLocationId": null,
+    "createdAt": "2020-06-08T12:50:00.497Z",
+    "createdBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "updatedAt": "2020-08-21T09:58:07.786Z",
+    "updatedBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "Cheik",
+    "gender": "LNG_REFERENCE_DATA_CATEGORY_GENDER_MALE",
+    "safeBurial": false,
+    "wasCase": false,
+    "active": true,
+    "id": "b6b2d286-6a91-4bb7-a65d-90353ada5d2c",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "visualId": "CONTACT-2020-0003",
+    "age": {
+      "years": 12,
+      "months": null
+    },
+    "occupation": "LNG_REFERENCE_DATA_CATEGORY_OCCUPATION_CHILD",
+    "addresses": [
+      {
+        "typeId": "LNG_REFERENCE_DATA_CATEGORY_ADDRESS_TYPE_USUAL_PLACE_OF_RESIDENCE",
+        "country": "Trainingland",
+        "geoLocationAccurate": false
+      }
+    ],
+    "dateOfReporting": "2020-03-22T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfLastContact": "2020-06-07T00:00:00.000Z",
+    "followUpHistory": [
+      {
+        "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_UNDER_FOLLOW_UP",
+        "startDate": "2020-06-08T00:00:00.000Z",
+        "endDate": "2020-06-23T00:00:00.000Z"
+      },
+      {
+        "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_FOLLOW_UP_COMPLETED",
+        "startDate": "2020-06-23T00:00:00.000Z",
+        "endDate": null
+      }
+    ],
+    "followUp": {
+      "originalStartDate": "2020-05-19T00:00:00.000Z",
+      "startDate": "2020-06-08T00:00:00.000Z",
+      "endDate": "2020-06-21T00:00:00.000Z",
+      "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_FOLLOW_UP_COMPLETED"
+    },
+    "hasRelationships": true,
+    "relationshipsRepresentation": [
+      {
+        "id": "6d3b7d85-c923-44c5-aa61-973ecadcf09d",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CASE",
+        "otherParticipantId": "418e1595-db57-462c-b167-7c8a03bb295b",
+        "target": true
+      }
+    ],
+    "usualPlaceOfResidenceLocationId": null,
+    "createdAt": "2020-06-08T12:49:58.502Z",
+    "createdBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "updatedAt": "2020-08-21T09:58:06.812Z",
+    "updatedBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "Coura",
+    "gender": "LNG_REFERENCE_DATA_CATEGORY_GENDER_MALE",
+    "safeBurial": false,
+    "wasCase": false,
+    "active": true,
+    "id": "a3a7cacb-96fb-4f8e-8870-2817c38b2272",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "visualId": "CONTACT-2020-0029",
+    "dateOfReporting": "2020-04-15T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfLastContact": "2020-06-17T00:00:00.000Z",
+    "followUpHistory": [
+      {
+        "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_UNDER_FOLLOW_UP",
+        "startDate": "2020-06-08T00:00:00.000Z",
+        "endDate": "2020-06-23T00:00:00.000Z"
+      },
+      {
+        "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_DIED",
+        "startDate": "2020-06-23T00:00:00.000Z",
+        "endDate": null
+      }
+    ],
+    "followUp": {
+      "originalStartDate": "2020-05-29T00:00:00.000Z",
+      "startDate": "2020-06-18T00:00:00.000Z",
+      "endDate": "2020-07-01T00:00:00.000Z",
+      "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_DIED"
+    },
+    "hasRelationships": true,
+    "relationshipsRepresentation": [
+      {
+        "id": "a1e22064-f93a-4c8c-a679-63f75444c625",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CASE",
+        "otherParticipantId": "c498a75c-3684-4cef-b707-f0c0a3b0af08",
+        "target": true
+      },
+      {
+        "id": "30a058f7-a739-453d-8c7b-70adbfadd93c",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CASE",
+        "otherParticipantId": "277c283b-9ae2-445b-91fb-c2d0588c6df1",
+        "target": true
+      }
+    ],
+    "usualPlaceOfResidenceLocationId": null,
+    "createdAt": "2020-06-08T12:50:10.728Z",
+    "createdBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "updatedAt": "2020-08-21T09:58:07.294Z",
+    "updatedBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "Dicory",
+    "gender": "LNG_REFERENCE_DATA_CATEGORY_GENDER_MALE",
+    "safeBurial": false,
+    "wasCase": false,
+    "active": true,
+    "id": "4b501c81-7dab-4de7-b8a7-3124c55ac17f",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "visualId": "CONTACT-2020-0042",
+    "age": {
+      "years": 15,
+      "months": null
+    },
+    "dateOfReporting": "2020-04-15T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfLastContact": "2020-06-16T00:00:00.000Z",
+    "followUpHistory": [
+      {
+        "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_UNDER_FOLLOW_UP",
+        "startDate": "2020-06-08T00:00:00.000Z",
+        "endDate": "2020-06-23T00:00:00.000Z"
+      },
+      {
+        "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_FOLLOW_UP_COMPLETED",
+        "startDate": "2020-06-23T00:00:00.000Z",
+        "endDate": null
+      }
+    ],
+    "followUp": {
+      "originalStartDate": "2020-05-28T00:00:00.000Z",
+      "startDate": "2020-06-17T00:00:00.000Z",
+      "endDate": "2020-06-30T00:00:00.000Z",
+      "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_FOLLOW_UP_COMPLETED"
+    },
+    "hasRelationships": true,
+    "relationshipsRepresentation": [
+      {
+        "id": "3db80f8b-a81e-487d-bd7a-235e18c94208",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CASE",
+        "otherParticipantId": "2c5ac1ac-4a31-424a-a306-905e51bd2807",
+        "target": true
+      }
+    ],
+    "usualPlaceOfResidenceLocationId": null,
+    "createdAt": "2020-06-08T12:50:13.589Z",
+    "createdBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "updatedAt": "2020-08-21T09:58:06.220Z",
+    "updatedBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "Djeynaba",
+    "gender": "LNG_REFERENCE_DATA_CATEGORY_GENDER_FEMALE",
+    "safeBurial": false,
+    "wasCase": false,
+    "active": true,
+    "id": "01be9322-7ecd-4d8d-858c-49dc048aabe5",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "visualId": "CONTACT-2020-0055",
+    "age": {
+      "years": 54,
+      "months": null
+    },
+    "dateOfReporting": "2020-04-15T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfLastContact": "2020-06-20T00:00:00.000Z",
+    "followUpHistory": [
+      {
+        "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_UNDER_FOLLOW_UP",
+        "startDate": "2020-06-08T00:00:00.000Z",
+        "endDate": "2020-06-23T00:00:00.000Z"
+      },
+      {
+        "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_DIED",
+        "startDate": "2020-06-23T00:00:00.000Z",
+        "endDate": null
+      }
+    ],
+    "followUp": {
+      "originalStartDate": "2020-06-01T00:00:00.000Z",
+      "startDate": "2020-06-21T00:00:00.000Z",
+      "endDate": "2020-07-04T00:00:00.000Z",
+      "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_DIED"
+    },
+    "hasRelationships": true,
+    "relationshipsRepresentation": [
+      {
+        "id": "f10bb017-fd2e-47fc-8948-15e7db34c6f8",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CASE",
+        "otherParticipantId": "3d0fd453-b271-4b35-bcfc-7c49d87737d0",
+        "target": true
+      }
+    ],
+    "usualPlaceOfResidenceLocationId": null,
+    "createdAt": "2020-06-08T13:01:37.254Z",
+    "createdBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "updatedAt": "2020-08-21T09:58:08.218Z",
+    "updatedBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "Djiby",
+    "gender": "LNG_REFERENCE_DATA_CATEGORY_GENDER_FEMALE",
+    "safeBurial": false,
+    "wasCase": false,
+    "active": true,
+    "id": "2cf4928b-2899-45ad-9cc4-6663e5964aea",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "visualId": "CONTACT-2020-0036",
+    "age": {
+      "years": 45
+    },
+    "dateOfReporting": "2020-04-15T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfLastContact": "2020-06-19T00:00:00.000Z",
+    "followUpHistory": [
+      {
+        "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_UNDER_FOLLOW_UP",
+        "startDate": "2020-06-08T00:00:00.000Z",
+        "endDate": null
+      }
+    ],
+    "followUp": {
+      "originalStartDate": "2020-05-11T00:00:00.000Z",
+      "startDate": "2020-06-20T00:00:00.000Z",
+      "endDate": "2020-07-03T00:00:00.000Z",
+      "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_UNDER_FOLLOW_UP"
+    },
+    "hasRelationships": true,
+    "relationshipsRepresentation": [
+      {
+        "id": "38d8ce8d-7c36-4d2c-b1b0-90da21b9c5a9",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CASE",
+        "otherParticipantId": "ee334fea-ee55-499d-adf8-74e25cfa7a8b",
+        "target": true
+      }
+    ],
+    "usualPlaceOfResidenceLocationId": null,
+    "createdAt": "2020-06-08T12:50:20.680Z",
+    "createdBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "updatedAt": "2020-08-21T09:58:06.036Z",
+    "updatedBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "El Hadj",
+    "gender": "LNG_REFERENCE_DATA_CATEGORY_GENDER_MALE",
+    "safeBurial": false,
+    "wasCase": false,
+    "active": false,
+    "id": "0ebf4b5d-127b-44bd-a4ee-f7ffb5dfaf06",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "visualId": "CONTACT-2020-0032",
+    "age": {
+      "years": 21,
+      "months": null
+    },
+    "dateOfReporting": "2020-04-15T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfLastContact": "2020-05-10T00:00:00.000Z",
+    "followUpHistory": [
+      {
+        "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_UNDER_FOLLOW_UP",
+        "startDate": "2020-06-08T00:00:00.000Z",
+        "endDate": "2020-06-23T00:00:00.000Z"
+      },
+      {
+        "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_FOLLOW_UP_COMPLETED",
+        "startDate": "2020-06-23T00:00:00.000Z",
+        "endDate": null
+      }
+    ],
+    "followUp": {
+      "originalStartDate": null,
+      "startDate": null,
+      "endDate": null,
+      "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_FOLLOW_UP_COMPLETED"
+    },
+    "hasRelationships": false,
+    "relationshipsRepresentation": [],
+    "usualPlaceOfResidenceLocationId": null,
+    "createdAt": "2020-06-08T12:50:22.491Z",
+    "createdBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "updatedAt": "2020-07-30T17:39:09.338Z",
+    "updatedBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "James",
+    "gender": "LNG_REFERENCE_DATA_CATEGORY_GENDER_FEMALE",
+    "safeBurial": false,
+    "wasCase": false,
+    "active": true,
+    "id": "aeb0f75d-255a-4f54-a900-9f404e3af7b1",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "visualId": "CONTACT-2020-0039",
+    "age": {
+      "years": 17
+    },
+    "dateOfReporting": "2020-04-15T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfLastContact": "2020-06-24T00:00:00.000Z",
+    "followUpHistory": [
+      {
+        "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_UNDER_FOLLOW_UP",
+        "startDate": "2020-06-08T00:00:00.000Z",
+        "endDate": "2020-06-23T00:00:00.000Z"
+      },
+      {
+        "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_LOST_TO_FOLLOW_UP",
+        "startDate": "2020-06-23T00:00:00.000Z",
+        "endDate": null
+      }
+    ],
+    "followUp": {
+      "originalStartDate": "2020-05-16T00:00:00.000Z",
+      "startDate": "2020-06-25T00:00:00.000Z",
+      "endDate": "2020-07-08T00:00:00.000Z",
+      "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_LOST_TO_FOLLOW_UP"
+    },
+    "hasRelationships": true,
+    "relationshipsRepresentation": [
+      {
+        "id": "bc596e11-b694-45f5-886e-59858bfa3086",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CASE",
+        "otherParticipantId": "02f3ae04-e879-4c75-9eb5-08404b95eb5b",
+        "target": true
+      }
+    ],
+    "usualPlaceOfResidenceLocationId": null,
+    "createdAt": "2020-06-08T12:47:13.621Z",
+    "createdBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "updatedAt": "2020-11-26T17:00:07.005Z",
+    "updatedBy": "0c82815e-26d7-44ed-a234-a84301b4cc2c",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "John",
+    "safeBurial": false,
+    "wasCase": false,
+    "active": true,
+    "vaccinesReceived": [],
+    "id": "104cdefc-fa09-4d79-8fa1-bbccb6d7bb8b",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "visualId": "C-1234ABC",
+    "age": {
+      "years": 0,
+      "months": 0
+    },
+    "documents": [],
+    "addresses": [
+      {
+        "typeId": "LNG_REFERENCE_DATA_CATEGORY_ADDRESS_TYPE_USUAL_PLACE_OF_RESIDENCE",
+        "locationId": "SN001014002000000000",
+        "geoLocationAccurate": false,
+        "date": "2020-11-11T00:00:00.000Z",
+        "geoLocation": {
+          "lat": 80.420333,
+          "lng": 49.422998
+        }
+      }
+    ],
+    "dateOfReporting": "2020-11-09T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfLastContact": "2020-11-10T00:00:00.000Z",
+    "followUpHistory": [
+      {
+        "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_UNDER_FOLLOW_UP",
+        "startDate": "2020-11-16T08:29:40.900Z",
+        "endDate": null
+      }
+    ],
+    "followUp": {
+      "originalStartDate": "2020-11-11T00:00:00.000Z",
+      "startDate": "2020-11-11T00:00:00.000Z",
+      "endDate": "2020-11-24T00:00:00.000Z",
+      "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_UNDER_FOLLOW_UP"
+    },
+    "hasRelationships": true,
+    "relationshipsRepresentation": [
+      {
+        "id": "591e29e8-e168-4dad-bdc1-dca37f82ccfa",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CASE",
+        "otherParticipantId": "36fea3b9-0a96-4881-8036-e9eff8ab6ba9",
+        "target": true
+      }
+    ],
+    "usualPlaceOfResidenceLocationId": "SN001014002000000000",
+    "createdAt": "2020-11-16T08:29:40.406Z",
+    "createdBy": "0c82815e-26d7-44ed-a234-a84301b4cc2c",
+    "updatedAt": "2020-11-16T08:29:40.901Z",
+    "updatedBy": "0c82815e-26d7-44ed-a234-a84301b4cc2c",
+    "createdOn": "API",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "Kalidou",
+    "gender": "LNG_REFERENCE_DATA_CATEGORY_GENDER_MALE",
+    "safeBurial": false,
+    "wasCase": false,
+    "active": true,
+    "id": "82d9d7b8-6294-4913-8a69-e24b7c3fc4b9",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "visualId": "CONTACT-2020-0019",
+    "age": {
+      "years": 20
+    },
+    "dateOfReporting": "2020-04-15T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfLastContact": "2020-06-24T00:00:00.000Z",
+    "followUpHistory": [
+      {
+        "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_UNDER_FOLLOW_UP",
+        "startDate": "2020-06-08T00:00:00.000Z",
+        "endDate": null
+      }
+    ],
+    "followUp": {
+      "originalStartDate": "2020-05-16T00:00:00.000Z",
+      "startDate": "2020-06-25T00:00:00.000Z",
+      "endDate": "2020-07-08T00:00:00.000Z",
+      "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_UNDER_FOLLOW_UP"
+    },
+    "hasRelationships": true,
+    "relationshipsRepresentation": [
+      {
+        "id": "32dc65e9-eba2-4620-b0fa-58bd870f36f7",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CASE",
+        "otherParticipantId": "3225fe6a-01db-4710-8cb7-1863e1bfd968",
+        "target": true
+      }
+    ],
+    "usualPlaceOfResidenceLocationId": null,
+    "createdAt": "2020-06-08T12:50:24.273Z",
+    "createdBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "updatedAt": "2020-08-21T09:58:05.988Z",
+    "updatedBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "Khadija",
+    "gender": "LNG_REFERENCE_DATA_CATEGORY_GENDER_MALE",
+    "safeBurial": false,
+    "wasCase": false,
+    "active": false,
+    "id": "81bfe2f5-d92a-486d-bde0-ab5f0254385b",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "visualId": "CONTACT-2020-0025",
+    "age": {
+      "years": 4
+    },
+    "dateOfReporting": "2020-04-15T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfLastContact": "2020-05-08T00:00:00.000Z",
+    "followUpHistory": [
+      {
+        "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_UNDER_FOLLOW_UP",
+        "startDate": "2020-06-08T00:00:00.000Z",
+        "endDate": null
+      }
+    ],
+    "followUp": {
+      "originalStartDate": "2020-05-09T00:00:00.000Z",
+      "startDate": null,
+      "endDate": null,
+      "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_UNDER_FOLLOW_UP"
+    },
+    "hasRelationships": false,
+    "relationshipsRepresentation": [],
+    "usualPlaceOfResidenceLocationId": null,
+    "createdAt": "2020-06-08T13:01:43.263Z",
+    "createdBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "updatedAt": "2020-07-30T17:39:10.817Z",
+    "updatedBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "Khary",
+    "gender": "LNG_REFERENCE_DATA_CATEGORY_GENDER_MALE",
+    "safeBurial": false,
+    "wasCase": false,
+    "active": true,
+    "id": "4dc896e4-bc11-478e-81b1-f08f5965161c",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "visualId": "CONTACT-2020-0040",
+    "age": {
+      "years": 21,
+      "months": null
+    },
+    "dateOfReporting": "2020-04-15T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfLastContact": "2020-06-15T00:00:00.000Z",
+    "followUpHistory": [
+      {
+        "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_UNDER_FOLLOW_UP",
+        "startDate": "2020-06-08T00:00:00.000Z",
+        "endDate": "2020-06-23T00:00:00.000Z"
+      },
+      {
+        "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_FOLLOW_UP_COMPLETED",
+        "startDate": "2020-06-23T00:00:00.000Z",
+        "endDate": null
+      }
+    ],
+    "followUp": {
+      "originalStartDate": "2020-05-27T00:00:00.000Z",
+      "startDate": "2020-06-16T00:00:00.000Z",
+      "endDate": "2020-06-29T00:00:00.000Z",
+      "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_FOLLOW_UP_COMPLETED"
+    },
+    "hasRelationships": true,
+    "relationshipsRepresentation": [
+      {
+        "id": "b004e8c3-e92d-49be-b439-a2d307c3ffb8",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CASE",
+        "otherParticipantId": "02f3ae04-e879-4c75-9eb5-08404b95eb5b",
+        "target": true
+      }
+    ],
+    "usualPlaceOfResidenceLocationId": null,
+    "createdAt": "2020-06-08T12:50:35.034Z",
+    "createdBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "updatedAt": "2020-08-21T09:58:07.557Z",
+    "updatedBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "Khary",
+    "gender": "LNG_REFERENCE_DATA_CATEGORY_GENDER_FEMALE",
+    "safeBurial": false,
+    "wasCase": false,
+    "active": true,
+    "id": "6ee8d4ef-925e-4942-b4ce-cbb69dfc7113",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "visualId": "CONTACT-2020-0045",
+    "age": {
+      "years": 32,
+      "months": null
+    },
+    "dateOfReporting": "2020-04-15T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfLastContact": "2020-06-05T00:00:00.000Z",
+    "followUpHistory": [
+      {
+        "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_UNDER_FOLLOW_UP",
+        "startDate": "2020-06-08T00:00:00.000Z",
+        "endDate": "2020-06-23T00:00:00.000Z"
+      },
+      {
+        "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_FOLLOW_UP_COMPLETED",
+        "startDate": "2020-06-23T00:00:00.000Z",
+        "endDate": null
+      }
+    ],
+    "followUp": {
+      "originalStartDate": "2020-05-17T00:00:00.000Z",
+      "startDate": "2020-06-06T00:00:00.000Z",
+      "endDate": "2020-06-19T00:00:00.000Z",
+      "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_FOLLOW_UP_COMPLETED"
+    },
+    "hasRelationships": true,
+    "relationshipsRepresentation": [
+      {
+        "id": "326ee01d-f78f-490e-a28b-a8177c4371c8",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CASE",
+        "otherParticipantId": "1d9e88f8-75ca-4763-bb06-752c467f6c08",
+        "target": true
+      }
+    ],
+    "usualPlaceOfResidenceLocationId": null,
+    "createdAt": "2020-06-08T12:50:37.554Z",
+    "createdBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "updatedAt": "2020-08-21T09:58:05.987Z",
+    "updatedBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "Khary",
+    "gender": "LNG_REFERENCE_DATA_CATEGORY_GENDER_FEMALE",
+    "safeBurial": false,
+    "wasCase": false,
+    "active": true,
+    "id": "874c5b14-f983-456b-a329-91ecfc09fd46",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "visualId": "CONTACT-2020-0004",
+    "age": {
+      "years": 32,
+      "months": null
+    },
+    "occupation": "LNG_REFERENCE_DATA_CATEGORY_OCCUPATION_FARMER",
+    "addresses": [
+      {
+        "typeId": "LNG_REFERENCE_DATA_CATEGORY_ADDRESS_TYPE_USUAL_PLACE_OF_RESIDENCE",
+        "country": "Trainingland",
+        "geoLocationAccurate": false
+      }
+    ],
+    "dateOfReporting": "2020-03-22T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfLastContact": "2020-06-07T00:00:00.000Z",
+    "followUpHistory": [
+      {
+        "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_UNDER_FOLLOW_UP",
+        "startDate": "2020-06-08T00:00:00.000Z",
+        "endDate": "2020-06-23T00:00:00.000Z"
+      },
+      {
+        "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_FOLLOW_UP_COMPLETED",
+        "startDate": "2020-06-23T00:00:00.000Z",
+        "endDate": null
+      }
+    ],
+    "followUp": {
+      "originalStartDate": "2020-05-19T00:00:00.000Z",
+      "startDate": "2020-06-08T00:00:00.000Z",
+      "endDate": "2020-06-21T00:00:00.000Z",
+      "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_FOLLOW_UP_COMPLETED"
+    },
+    "hasRelationships": true,
+    "relationshipsRepresentation": [
+      {
+        "id": "93b14d22-6a45-4a62-a22e-1512bd4595d9",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CASE",
+        "otherParticipantId": "418e1595-db57-462c-b167-7c8a03bb295b",
+        "target": true
+      }
+    ],
+    "usualPlaceOfResidenceLocationId": null,
+    "createdAt": "2020-06-08T12:50:26.038Z",
+    "createdBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "updatedAt": "2020-08-21T09:58:07.167Z",
+    "updatedBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "Khary",
+    "gender": "LNG_REFERENCE_DATA_CATEGORY_GENDER_FEMALE",
+    "safeBurial": false,
+    "wasCase": false,
+    "active": true,
+    "id": "d040a42e-4bd5-4c20-9d53-a3b191a8b984",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "visualId": "CONTACT-2020-0020",
+    "age": {
+      "years": 32,
+      "months": null
+    },
+    "dateOfReporting": "2020-04-15T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfLastContact": "2020-06-05T00:00:00.000Z",
+    "followUpHistory": [
+      {
+        "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_UNDER_FOLLOW_UP",
+        "startDate": "2020-06-08T00:00:00.000Z",
+        "endDate": "2020-06-23T00:00:00.000Z"
+      },
+      {
+        "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_FOLLOW_UP_COMPLETED",
+        "startDate": "2020-06-23T00:00:00.000Z",
+        "endDate": null
+      }
+    ],
+    "followUp": {
+      "originalStartDate": "2020-05-17T00:00:00.000Z",
+      "startDate": "2020-06-06T00:00:00.000Z",
+      "endDate": "2020-06-19T00:00:00.000Z",
+      "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_FOLLOW_UP_COMPLETED"
+    },
+    "hasRelationships": true,
+    "relationshipsRepresentation": [
+      {
+        "id": "112dc9fb-362c-49dd-b79b-55a95edc8439",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CASE",
+        "otherParticipantId": "3225fe6a-01db-4710-8cb7-1863e1bfd968",
+        "target": true
+      }
+    ],
+    "usualPlaceOfResidenceLocationId": null,
+    "createdAt": "2020-06-08T12:50:30.082Z",
+    "createdBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "updatedAt": "2020-08-21T09:58:05.716Z",
+    "updatedBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "Lamine",
+    "gender": "LNG_REFERENCE_DATA_CATEGORY_GENDER_FEMALE",
+    "safeBurial": false,
+    "wasCase": false,
+    "active": true,
+    "id": "a895e4ad-3e53-4c9d-a38e-ff50f186858c",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "visualId": "CONTACT-2020-0016",
+    "age": {
+      "years": 12
+    },
+    "dateOfReporting": "2020-04-15T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfLastContact": "2020-06-22T00:00:00.000Z",
+    "followUpHistory": [
+      {
+        "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_UNDER_FOLLOW_UP",
+        "startDate": "2020-06-08T00:00:00.000Z",
+        "endDate": null
+      }
+    ],
+    "followUp": {
+      "originalStartDate": "2020-05-14T00:00:00.000Z",
+      "startDate": "2020-06-23T00:00:00.000Z",
+      "endDate": "2020-07-06T00:00:00.000Z",
+      "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_UNDER_FOLLOW_UP"
+    },
+    "hasRelationships": true,
+    "relationshipsRepresentation": [
+      {
+        "id": "8f5644d1-4179-432d-b8cb-507204ef25f6",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CASE",
+        "otherParticipantId": "79cee4f8-6c47-45d6-aa2c-1cc2ed8eb4eb",
+        "target": true
+      }
+    ],
+    "usualPlaceOfResidenceLocationId": null,
+    "createdAt": "2020-06-08T12:50:40.215Z",
+    "createdBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "updatedAt": "2020-08-21T09:58:07.135Z",
+    "updatedBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "Lat",
+    "gender": "LNG_REFERENCE_DATA_CATEGORY_GENDER_FEMALE",
+    "safeBurial": false,
+    "wasCase": false,
+    "active": false,
+    "id": "46c3469e-421a-4b9d-953c-6013a6aa42a3",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "visualId": "CONTACT-2020-0031",
+    "age": {
+      "years": 23,
+      "months": null
+    },
+    "dateOfReporting": "2020-04-15T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfLastContact": "2020-05-10T00:00:00.000Z",
+    "followUpHistory": [
+      {
+        "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_UNDER_FOLLOW_UP",
+        "startDate": "2020-06-08T00:00:00.000Z",
+        "endDate": "2020-06-23T00:00:00.000Z"
+      },
+      {
+        "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_FOLLOW_UP_COMPLETED",
+        "startDate": "2020-06-23T00:00:00.000Z",
+        "endDate": null
+      }
+    ],
+    "followUp": {
+      "originalStartDate": null,
+      "startDate": null,
+      "endDate": null,
+      "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_FOLLOW_UP_COMPLETED"
+    },
+    "hasRelationships": false,
+    "relationshipsRepresentation": [],
+    "usualPlaceOfResidenceLocationId": null,
+    "createdAt": "2020-06-08T12:50:43.067Z",
+    "createdBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "updatedAt": "2020-07-30T17:39:15.253Z",
+    "updatedBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "Madia",
+    "gender": "LNG_REFERENCE_DATA_CATEGORY_GENDER_MALE",
+    "safeBurial": false,
+    "wasCase": false,
+    "active": true,
+    "id": "4f345e29-ea4a-4893-994d-02c3e406b686",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "visualId": "CONTACT-2020-0014",
+    "age": {
+      "years": 34
+    },
+    "dateOfReporting": "2020-04-15T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfLastContact": "2020-06-15T00:00:00.000Z",
+    "followUpHistory": [
+      {
+        "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_UNDER_FOLLOW_UP",
+        "startDate": "2020-06-08T00:00:00.000Z",
+        "endDate": null
+      }
+    ],
+    "followUp": {
+      "originalStartDate": "2020-05-07T00:00:00.000Z",
+      "startDate": "2020-06-16T00:00:00.000Z",
+      "endDate": "2020-06-29T00:00:00.000Z",
+      "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_UNDER_FOLLOW_UP"
+    },
+    "hasRelationships": true,
+    "relationshipsRepresentation": [
+      {
+        "id": "f337d4be-aae7-4a85-962e-de2220caf190",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CASE",
+        "otherParticipantId": "2126ab3a-84f3-404a-a0fb-f1631db1517c",
+        "target": true
+      }
+    ],
+    "usualPlaceOfResidenceLocationId": null,
+    "createdAt": "2020-06-08T12:50:44.563Z",
+    "createdBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "updatedAt": "2020-08-21T09:58:08.277Z",
+    "updatedBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "Maguette",
+    "gender": "LNG_REFERENCE_DATA_CATEGORY_GENDER_FEMALE",
+    "safeBurial": false,
+    "wasCase": false,
+    "active": true,
+    "id": "2d19656d-cbcf-4595-8eed-895836638830",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "visualId": "CONTACT-2020-0037",
+    "age": {
+      "years": 9,
+      "months": null
+    },
+    "dateOfReporting": "2020-04-15T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfLastContact": "2020-06-05T00:00:00.000Z",
+    "followUpHistory": [
+      {
+        "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_UNDER_FOLLOW_UP",
+        "startDate": "2020-06-08T00:00:00.000Z",
+        "endDate": "2020-06-23T00:00:00.000Z"
+      },
+      {
+        "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_FOLLOW_UP_COMPLETED",
+        "startDate": "2020-06-23T00:00:00.000Z",
+        "endDate": null
+      }
+    ],
+    "followUp": {
+      "originalStartDate": "2020-05-17T00:00:00.000Z",
+      "startDate": "2020-06-06T00:00:00.000Z",
+      "endDate": "2020-06-19T00:00:00.000Z",
+      "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_FOLLOW_UP_COMPLETED"
+    },
+    "hasRelationships": true,
+    "relationshipsRepresentation": [
+      {
+        "id": "dc939b57-9265-4c9e-b952-21649ae7b9cf",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CASE",
+        "otherParticipantId": "ee334fea-ee55-499d-adf8-74e25cfa7a8b",
+        "target": true
+      }
+    ],
+    "usualPlaceOfResidenceLocationId": null,
+    "createdAt": "2020-06-08T12:50:50.602Z",
+    "createdBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "updatedAt": "2020-08-21T09:58:07.937Z",
+    "updatedBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "Maguette",
+    "gender": "LNG_REFERENCE_DATA_CATEGORY_GENDER_FEMALE",
+    "safeBurial": false,
+    "wasCase": false,
+    "active": true,
+    "id": "ccb69168-505b-4dda-8bcf-1a9182f86b89",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "visualId": "CONTACT-2020-0007",
+    "age": {
+      "years": 29,
+      "months": null
+    },
+    "occupation": "LNG_REFERENCE_DATA_CATEGORY_OCCUPATION_OTHER",
+    "addresses": [
+      {
+        "typeId": "LNG_REFERENCE_DATA_CATEGORY_ADDRESS_TYPE_USUAL_PLACE_OF_RESIDENCE",
+        "country": "Trainingland",
+        "geoLocationAccurate": false
+      }
+    ],
+    "dateOfReporting": "2020-04-15T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfLastContact": "2020-06-07T00:00:00.000Z",
+    "followUpHistory": [
+      {
+        "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_UNDER_FOLLOW_UP",
+        "startDate": "2020-06-08T00:00:00.000Z",
+        "endDate": "2020-06-23T00:00:00.000Z"
+      },
+      {
+        "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_FOLLOW_UP_COMPLETED",
+        "startDate": "2020-06-23T00:00:00.000Z",
+        "endDate": null
+      }
+    ],
+    "followUp": {
+      "originalStartDate": "2020-05-19T00:00:00.000Z",
+      "startDate": "2020-06-08T00:00:00.000Z",
+      "endDate": "2020-06-21T00:00:00.000Z",
+      "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_FOLLOW_UP_COMPLETED"
+    },
+    "hasRelationships": true,
+    "relationshipsRepresentation": [
+      {
+        "id": "362cfd43-8e2a-407a-b6f0-10c2acf6f4b4",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CASE",
+        "otherParticipantId": "4ff5c40f-a05d-4498-adbe-d1f561933bc5",
+        "target": true
+      }
+    ],
+    "usualPlaceOfResidenceLocationId": null,
+    "createdAt": "2020-06-08T12:50:48.661Z",
+    "createdBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "updatedAt": "2020-08-21T09:58:06.078Z",
+    "updatedBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "Maguette",
+    "gender": "LNG_REFERENCE_DATA_CATEGORY_GENDER_FEMALE",
+    "safeBurial": false,
+    "wasCase": false,
+    "active": true,
+    "id": "df7c2135-0421-4c94-b416-a6f013a14e9d",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "visualId": "CONTACT-2020-0051",
+    "age": {
+      "years": 9,
+      "months": null
+    },
+    "dateOfReporting": "2020-04-15T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfLastContact": "2020-06-05T00:00:00.000Z",
+    "followUpHistory": [
+      {
+        "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_UNDER_FOLLOW_UP",
+        "startDate": "2020-06-08T00:00:00.000Z",
+        "endDate": "2020-06-23T00:00:00.000Z"
+      },
+      {
+        "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_FOLLOW_UP_COMPLETED",
+        "startDate": "2020-06-23T00:00:00.000Z",
+        "endDate": null
+      }
+    ],
+    "followUp": {
+      "originalStartDate": "2020-05-17T00:00:00.000Z",
+      "startDate": "2020-06-06T00:00:00.000Z",
+      "endDate": "2020-06-19T00:00:00.000Z",
+      "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_FOLLOW_UP_COMPLETED"
+    },
+    "hasRelationships": true,
+    "relationshipsRepresentation": [
+      {
+        "id": "df3b3d43-93fc-4ecd-bec8-5dcdfe0e55db",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CASE",
+        "otherParticipantId": "2387c42d-1367-41f5-a64e-9843f360aa20",
+        "target": true
+      }
+    ],
+    "usualPlaceOfResidenceLocationId": null,
+    "createdAt": "2020-06-08T12:50:52.721Z",
+    "createdBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "updatedAt": "2020-08-21T09:58:08.148Z",
+    "updatedBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "Malamine",
+    "gender": "LNG_REFERENCE_DATA_CATEGORY_GENDER_MALE",
+    "safeBurial": false,
+    "wasCase": false,
+    "active": false,
+    "id": "77df34e5-60f8-4321-9f31-277da3653aa9",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "visualId": "CONTACT-2020-0008",
+    "age": {
+      "years": 63,
+      "months": null
+    },
+    "occupation": "LNG_REFERENCE_DATA_CATEGORY_OCCUPATION_FARMER",
+    "addresses": [
+      {
+        "typeId": "LNG_REFERENCE_DATA_CATEGORY_ADDRESS_TYPE_USUAL_PLACE_OF_RESIDENCE",
+        "country": "Trainingland",
+        "geoLocationAccurate": false
+      }
+    ],
+    "dateOfReporting": "2020-04-15T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfLastContact": "2020-04-28T00:00:00.000Z",
+    "followUpHistory": [
+      {
+        "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_UNDER_FOLLOW_UP",
+        "startDate": "2020-06-08T00:00:00.000Z",
+        "endDate": "2020-06-23T00:00:00.000Z"
+      },
+      {
+        "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_FOLLOW_UP_COMPLETED",
+        "startDate": "2020-06-23T00:00:00.000Z",
+        "endDate": null
+      }
+    ],
+    "followUp": {
+      "originalStartDate": null,
+      "startDate": null,
+      "endDate": null,
+      "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_FOLLOW_UP_COMPLETED"
+    },
+    "hasRelationships": false,
+    "relationshipsRepresentation": [],
+    "usualPlaceOfResidenceLocationId": null,
+    "createdAt": "2020-06-08T12:50:55.136Z",
+    "createdBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "updatedAt": "2020-07-30T17:39:18.767Z",
+    "updatedBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "Malamine",
+    "gender": "LNG_REFERENCE_DATA_CATEGORY_GENDER_MALE",
+    "safeBurial": false,
+    "wasCase": false,
+    "active": true,
+    "id": "d0745963-220e-4f5a-a76f-53daf82ea22c",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "visualId": "CONTACT-2020-0048",
+    "age": {
+      "years": 7,
+      "months": null
+    },
+    "dateOfReporting": "2020-04-15T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfLastContact": "2020-06-07T00:00:00.000Z",
+    "followUpHistory": [
+      {
+        "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_UNDER_FOLLOW_UP",
+        "startDate": "2020-06-08T00:00:00.000Z",
+        "endDate": "2020-06-23T00:00:00.000Z"
+      },
+      {
+        "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_FOLLOW_UP_COMPLETED",
+        "startDate": "2020-06-23T00:00:00.000Z",
+        "endDate": null
+      }
+    ],
+    "followUp": {
+      "originalStartDate": "2020-05-19T00:00:00.000Z",
+      "startDate": "2020-06-07T00:00:00.000Z",
+      "endDate": "2020-06-20T00:00:00.000Z",
+      "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_FOLLOW_UP_COMPLETED"
+    },
+    "hasRelationships": true,
+    "relationshipsRepresentation": [
+      {
+        "id": "53756f7d-aca9-4d56-9b3e-98de9f4d0282",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CASE",
+        "otherParticipantId": "834cf8d0-a431-41ef-8b0d-7272420805b0",
+        "target": true
+      },
+      {
+        "id": "a66da6c0-dd66-4e5c-9763-da2eda51f4c6",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CASE",
+        "otherParticipantId": "4ff5c40f-a05d-4498-adbe-d1f561933bc5",
+        "target": true
+      }
+    ],
+    "usualPlaceOfResidenceLocationId": null,
+    "createdAt": "2020-06-08T13:01:48.517Z",
+    "createdBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "updatedAt": "2020-08-21T09:58:07.476Z",
+    "updatedBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "Malamine",
+    "gender": "LNG_REFERENCE_DATA_CATEGORY_GENDER_MALE",
+    "safeBurial": false,
+    "wasCase": false,
+    "active": true,
+    "id": "dc43d898-c425-4767-a9db-7e571ff02973",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "visualId": "CONTACT-2020-0038",
+    "age": {
+      "years": 7,
+      "months": null
+    },
+    "dateOfReporting": "2020-04-15T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfLastContact": "2020-06-05T00:00:00.000Z",
+    "followUpHistory": [
+      {
+        "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_UNDER_FOLLOW_UP",
+        "startDate": "2020-06-08T00:00:00.000Z",
+        "endDate": "2020-06-23T00:00:00.000Z"
+      },
+      {
+        "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_FOLLOW_UP_COMPLETED",
+        "startDate": "2020-06-23T00:00:00.000Z",
+        "endDate": null
+      }
+    ],
+    "followUp": {
+      "originalStartDate": "2020-05-17T00:00:00.000Z",
+      "startDate": "2020-06-06T00:00:00.000Z",
+      "endDate": "2020-06-19T00:00:00.000Z",
+      "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_FOLLOW_UP_COMPLETED"
+    },
+    "hasRelationships": true,
+    "relationshipsRepresentation": [
+      {
+        "id": "1322a8d8-c980-4a58-bc11-e0660df15684",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CASE",
+        "otherParticipantId": "ee334fea-ee55-499d-adf8-74e25cfa7a8b",
+        "target": true
+      }
+    ],
+    "usualPlaceOfResidenceLocationId": null,
+    "createdAt": "2020-06-08T12:50:56.653Z",
+    "createdBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "updatedAt": "2020-08-21T09:58:05.732Z",
+    "updatedBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "Malang",
+    "gender": "LNG_REFERENCE_DATA_CATEGORY_GENDER_FEMALE",
+    "safeBurial": false,
+    "wasCase": false,
+    "active": true,
+    "id": "4fcdb57b-ec1e-47ba-a938-350ae798d8d1",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "visualId": "CONTACT-2020-0006",
+    "age": {
+      "years": 54,
+      "months": null
+    },
+    "occupation": "LNG_REFERENCE_DATA_CATEGORY_OCCUPATION_FARMER",
+    "addresses": [
+      {
+        "typeId": "LNG_REFERENCE_DATA_CATEGORY_ADDRESS_TYPE_USUAL_PLACE_OF_RESIDENCE",
+        "country": "Trainingland",
+        "geoLocationAccurate": false
+      }
+    ],
+    "dateOfReporting": "2020-03-22T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfLastContact": "2020-06-07T00:00:00.000Z",
+    "followUpHistory": [
+      {
+        "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_UNDER_FOLLOW_UP",
+        "startDate": "2020-06-08T00:00:00.000Z",
+        "endDate": "2020-06-23T00:00:00.000Z"
+      },
+      {
+        "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_FOLLOW_UP_COMPLETED",
+        "startDate": "2020-06-23T00:00:00.000Z",
+        "endDate": null
+      }
+    ],
+    "followUp": {
+      "originalStartDate": "2020-05-19T00:00:00.000Z",
+      "startDate": "2020-06-08T00:00:00.000Z",
+      "endDate": "2020-06-21T00:00:00.000Z",
+      "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_FOLLOW_UP_COMPLETED"
+    },
+    "hasRelationships": true,
+    "relationshipsRepresentation": [
+      {
+        "id": "b0050b36-adc4-46b2-a8ad-131222dd029e",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CASE",
+        "otherParticipantId": "418e1595-db57-462c-b167-7c8a03bb295b",
+        "target": true
+      }
+    ],
+    "usualPlaceOfResidenceLocationId": null,
+    "createdAt": "2020-06-08T12:51:03.147Z",
+    "createdBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "updatedAt": "2020-08-21T09:58:07.591Z",
+    "updatedBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "Malang",
+    "gender": "LNG_REFERENCE_DATA_CATEGORY_GENDER_FEMALE",
+    "safeBurial": false,
+    "wasCase": false,
+    "active": false,
+    "id": "59a87478-cd3e-4f83-9852-984873827892",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "visualId": "CONTACT-2020-0002",
+    "age": {
+      "years": 54,
+      "months": null
+    },
+    "occupation": "LNG_REFERENCE_DATA_CATEGORY_OCCUPATION_FARMER",
+    "addresses": [
+      {
+        "typeId": "LNG_REFERENCE_DATA_CATEGORY_ADDRESS_TYPE_USUAL_PLACE_OF_RESIDENCE",
+        "country": "Trainingland",
+        "geoLocationAccurate": false
+      }
+    ],
+    "dateOfReporting": "2020-03-22T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfLastContact": "2020-04-28T00:00:00.000Z",
+    "followUpHistory": [
+      {
+        "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_UNDER_FOLLOW_UP",
+        "startDate": "2020-06-08T00:00:00.000Z",
+        "endDate": "2020-06-23T00:00:00.000Z"
+      },
+      {
+        "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_FOLLOW_UP_COMPLETED",
+        "startDate": "2020-06-23T00:00:00.000Z",
+        "endDate": null
+      }
+    ],
+    "followUp": {
+      "originalStartDate": null,
+      "startDate": null,
+      "endDate": null,
+      "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_FOLLOW_UP_COMPLETED"
+    },
+    "hasRelationships": false,
+    "relationshipsRepresentation": [],
+    "usualPlaceOfResidenceLocationId": null,
+    "createdAt": "2020-06-08T12:51:05.080Z",
+    "createdBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "updatedAt": "2020-07-30T17:39:22.272Z",
+    "updatedBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "Malang",
+    "gender": "LNG_REFERENCE_DATA_CATEGORY_GENDER_FEMALE",
+    "safeBurial": false,
+    "wasCase": false,
+    "active": true,
+    "id": "d8cffd83-dbe3-4a1c-9b6f-792169d7b8b4",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "visualId": "CONTACT-2020-0034",
+    "age": {
+      "years": 54,
+      "months": null
+    },
+    "dateOfReporting": "2020-04-15T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfLastContact": "2020-06-05T00:00:00.000Z",
+    "followUpHistory": [
+      {
+        "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_UNDER_FOLLOW_UP",
+        "startDate": "2020-06-08T00:00:00.000Z",
+        "endDate": "2020-06-23T00:00:00.000Z"
+      },
+      {
+        "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_FOLLOW_UP_COMPLETED",
+        "startDate": "2020-06-23T00:00:00.000Z",
+        "endDate": null
+      }
+    ],
+    "followUp": {
+      "originalStartDate": "2020-05-17T00:00:00.000Z",
+      "startDate": "2020-06-06T00:00:00.000Z",
+      "endDate": "2020-06-19T00:00:00.000Z",
+      "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_FOLLOW_UP_COMPLETED"
+    },
+    "hasRelationships": true,
+    "relationshipsRepresentation": [
+      {
+        "id": "48300d1a-e8c4-4c45-9f16-54569f97c28d",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CASE",
+        "otherParticipantId": "cf356e61-d0c8-4a06-883a-48311c2b00c8",
+        "target": true
+      }
+    ],
+    "usualPlaceOfResidenceLocationId": null,
+    "createdAt": "2020-06-08T12:51:10.784Z",
+    "createdBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "updatedAt": "2020-08-21T09:58:06.485Z",
+    "updatedBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "Mayatta",
+    "gender": "LNG_REFERENCE_DATA_CATEGORY_GENDER_MALE",
+    "safeBurial": false,
+    "wasCase": false,
+    "active": true,
+    "id": "eb117636-cf81-4494-a52b-059f00594369",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "visualId": "CONTACT-2020-0052",
+    "dateOfReporting": "2020-04-15T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfLastContact": "2020-06-17T00:00:00.000Z",
+    "followUpHistory": [
+      {
+        "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_UNDER_FOLLOW_UP",
+        "startDate": "2020-06-08T00:00:00.000Z",
+        "endDate": null
+      }
+    ],
+    "followUp": {
+      "originalStartDate": "2020-05-09T00:00:00.000Z",
+      "startDate": "2020-06-18T00:00:00.000Z",
+      "endDate": "2020-07-01T00:00:00.000Z",
+      "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_UNDER_FOLLOW_UP"
+    },
+    "hasRelationships": true,
+    "relationshipsRepresentation": [
+      {
+        "id": "3a5b8a42-f5b2-4ef7-8f7d-f77010c8fd49",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CASE",
+        "otherParticipantId": "2387c42d-1367-41f5-a64e-9843f360aa20",
+        "target": true
+      }
+    ],
+    "usualPlaceOfResidenceLocationId": null,
+    "createdAt": "2020-06-08T12:51:18.998Z",
+    "createdBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "updatedAt": "2020-08-21T09:58:06.165Z",
+    "updatedBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "Mbagnick",
+    "gender": "LNG_REFERENCE_DATA_CATEGORY_GENDER_MALE",
+    "safeBurial": false,
+    "wasCase": false,
+    "active": true,
+    "id": "726d34f9-6d89-41e3-89ef-85093c6f4b61",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "visualId": "CONTACT-2020-0044",
+    "dateOfReporting": "2020-04-15T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfLastContact": "2020-06-17T00:00:00.000Z",
+    "followUpHistory": [
+      {
+        "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_UNDER_FOLLOW_UP",
+        "startDate": "2020-06-08T00:00:00.000Z",
+        "endDate": "2020-06-23T00:00:00.000Z"
+      },
+      {
+        "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_LOST_TO_FOLLOW_UP",
+        "startDate": "2020-06-23T00:00:00.000Z",
+        "endDate": null
+      }
+    ],
+    "followUp": {
+      "originalStartDate": "2020-05-29T00:00:00.000Z",
+      "startDate": "2020-06-18T00:00:00.000Z",
+      "endDate": "2020-07-01T00:00:00.000Z",
+      "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_LOST_TO_FOLLOW_UP"
+    },
+    "hasRelationships": true,
+    "relationshipsRepresentation": [
+      {
+        "id": "36ada744-a05a-4c0f-bed3-b15f89113125",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CASE",
+        "otherParticipantId": "2c5ac1ac-4a31-424a-a306-905e51bd2807",
+        "target": true
+      }
+    ],
+    "usualPlaceOfResidenceLocationId": null,
+    "createdAt": "2020-06-08T12:51:25.772Z",
+    "createdBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "updatedAt": "2020-08-21T09:58:06.035Z",
+    "updatedBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "Ndiankou",
+    "gender": "LNG_REFERENCE_DATA_CATEGORY_GENDER_MALE",
+    "safeBurial": false,
+    "wasCase": false,
+    "active": true,
+    "id": "ac7dac28-8b8a-4a8a-951d-baec480bf8e9",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "visualId": "CONTACT-2020-0047",
+    "age": {
+      "years": 67
+    },
+    "dateOfReporting": "2020-04-15T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfLastContact": "2020-06-20T00:00:00.000Z",
+    "followUpHistory": [
+      {
+        "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_UNDER_FOLLOW_UP",
+        "startDate": "2020-06-08T00:00:00.000Z",
+        "endDate": null
+      }
+    ],
+    "followUp": {
+      "originalStartDate": "2020-05-12T00:00:00.000Z",
+      "startDate": "2020-06-21T00:00:00.000Z",
+      "endDate": "2020-07-04T00:00:00.000Z",
+      "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_UNDER_FOLLOW_UP"
+    },
+    "hasRelationships": true,
+    "relationshipsRepresentation": [
+      {
+        "id": "6dbb9106-6eef-4665-ac1a-961b6b3070cd",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CASE",
+        "otherParticipantId": "1d9e88f8-75ca-4763-bb06-752c467f6c08",
+        "target": true
+      }
+    ],
+    "usualPlaceOfResidenceLocationId": null,
+    "createdAt": "2020-06-08T12:51:29.955Z",
+    "createdBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "updatedAt": "2020-08-21T09:58:06.845Z",
+    "updatedBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "Ndiogou",
+    "gender": "LNG_REFERENCE_DATA_CATEGORY_GENDER_FEMALE",
+    "safeBurial": false,
+    "wasCase": false,
+    "active": true,
+    "id": "b35240a3-288e-4ef1-bcc3-764b40a4518d",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "visualId": "CONTACT-2020-0013",
+    "age": {
+      "years": 56
+    },
+    "dateOfReporting": "2020-04-15T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfLastContact": "2020-06-22T00:00:00.000Z",
+    "followUpHistory": [
+      {
+        "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_UNDER_FOLLOW_UP",
+        "startDate": "2020-06-08T00:00:00.000Z",
+        "endDate": null
+      }
+    ],
+    "followUp": {
+      "originalStartDate": "2020-05-14T00:00:00.000Z",
+      "startDate": "2020-06-23T00:00:00.000Z",
+      "endDate": "2020-07-06T00:00:00.000Z",
+      "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_UNDER_FOLLOW_UP"
+    },
+    "hasRelationships": true,
+    "relationshipsRepresentation": [
+      {
+        "id": "c09df1f6-a8b8-476e-b477-129ed5e99d1d",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CASE",
+        "otherParticipantId": "2126ab3a-84f3-404a-a0fb-f1631db1517c",
+        "target": true
+      }
+    ],
+    "usualPlaceOfResidenceLocationId": null,
+    "createdAt": "2020-06-08T12:51:33.788Z",
+    "createdBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "updatedAt": "2020-08-21T09:58:07.707Z",
+    "updatedBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "Oumou",
+    "gender": "LNG_REFERENCE_DATA_CATEGORY_GENDER_MALE",
+    "safeBurial": false,
+    "wasCase": false,
+    "active": true,
+    "id": "772728c9-c9d1-4b89-98f7-a074db19b182",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "visualId": "CONTACT-2020-0041",
+    "age": {
+      "years": 34
+    },
+    "dateOfReporting": "2020-04-15T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfLastContact": "2020-06-22T00:00:00.000Z",
+    "followUpHistory": [
+      {
+        "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_UNDER_FOLLOW_UP",
+        "startDate": "2020-06-08T00:00:00.000Z",
+        "endDate": null
+      }
+    ],
+    "followUp": {
+      "originalStartDate": "2020-05-14T00:00:00.000Z",
+      "startDate": "2020-06-23T00:00:00.000Z",
+      "endDate": "2020-07-06T00:00:00.000Z",
+      "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_UNDER_FOLLOW_UP"
+    },
+    "hasRelationships": true,
+    "relationshipsRepresentation": [
+      {
+        "id": "c51f4b6e-1e7c-442d-9155-a7489b58cf9b",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CASE",
+        "otherParticipantId": "02f3ae04-e879-4c75-9eb5-08404b95eb5b",
+        "target": true
+      }
+    ],
+    "usualPlaceOfResidenceLocationId": null,
+    "createdAt": "2020-06-08T12:51:39.632Z",
+    "createdBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "updatedAt": "2020-08-21T09:58:07.835Z",
+    "updatedBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "Papis",
+    "gender": "LNG_REFERENCE_DATA_CATEGORY_GENDER_FEMALE",
+    "safeBurial": false,
+    "wasCase": false,
+    "active": true,
+    "id": "7a73fda5-d9d4-4c66-aa94-d1a33b0b555f",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "visualId": "CONTACT-2020-0028",
+    "dateOfReporting": "2020-04-15T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfLastContact": "2020-06-17T00:00:00.000Z",
+    "followUpHistory": [
+      {
+        "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_UNDER_FOLLOW_UP",
+        "startDate": "2020-06-08T00:00:00.000Z",
+        "endDate": null
+      }
+    ],
+    "followUp": {
+      "originalStartDate": "2020-05-09T00:00:00.000Z",
+      "startDate": "2020-06-18T00:00:00.000Z",
+      "endDate": "2020-07-01T00:00:00.000Z",
+      "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_UNDER_FOLLOW_UP"
+    },
+    "hasRelationships": true,
+    "relationshipsRepresentation": [
+      {
+        "id": "76b419fe-300c-4394-8348-ec0eccbad0fa",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CASE",
+        "otherParticipantId": "c498a75c-3684-4cef-b707-f0c0a3b0af08",
+        "target": true
+      },
+      {
+        "id": "fe29e4c4-bebd-4833-825d-19e335900b01",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CASE",
+        "otherParticipantId": "277c283b-9ae2-445b-91fb-c2d0588c6df1",
+        "target": true
+      }
+    ],
+    "usualPlaceOfResidenceLocationId": null,
+    "createdAt": "2020-06-08T12:51:42.616Z",
+    "createdBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "updatedAt": "2020-08-21T09:58:08.350Z",
+    "updatedBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "Racine",
+    "gender": "LNG_REFERENCE_DATA_CATEGORY_GENDER_FEMALE",
+    "safeBurial": false,
+    "wasCase": false,
+    "active": true,
+    "id": "9b24c2bd-6e19-4739-bc60-917e995602bc",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "visualId": "CONTACT-2020-0017",
+    "age": {
+      "years": 35,
+      "months": null
+    },
+    "dateOfReporting": "2020-04-15T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfLastContact": "2020-06-15T00:00:00.000Z",
+    "followUpHistory": [
+      {
+        "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_UNDER_FOLLOW_UP",
+        "startDate": "2020-06-08T00:00:00.000Z",
+        "endDate": "2020-06-23T00:00:00.000Z"
+      },
+      {
+        "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_FOLLOW_UP_COMPLETED",
+        "startDate": "2020-06-23T00:00:00.000Z",
+        "endDate": null
+      }
+    ],
+    "followUp": {
+      "originalStartDate": "2020-05-27T00:00:00.000Z",
+      "startDate": "2020-06-16T00:00:00.000Z",
+      "endDate": "2020-06-29T00:00:00.000Z",
+      "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_FOLLOW_UP_COMPLETED"
+    },
+    "hasRelationships": true,
+    "relationshipsRepresentation": [
+      {
+        "id": "47d8bd3b-2d03-436d-85a2-e8d2bd40c2a5",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CASE",
+        "otherParticipantId": "79cee4f8-6c47-45d6-aa2c-1cc2ed8eb4eb",
+        "target": true
+      }
+    ],
+    "usualPlaceOfResidenceLocationId": null,
+    "createdAt": "2020-06-08T12:51:44.580Z",
+    "createdBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "updatedAt": "2020-08-21T09:58:06.451Z",
+    "updatedBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "Sadibou",
+    "gender": "LNG_REFERENCE_DATA_CATEGORY_GENDER_MALE",
+    "safeBurial": false,
+    "wasCase": false,
+    "active": true,
+    "id": "5a891dab-b7f6-4468-b5b4-372d3c0c1d0b",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "visualId": "CONTACT-2020-0027",
+    "age": {
+      "years": 15
+    },
+    "dateOfReporting": "2020-04-15T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfLastContact": "2020-06-24T00:00:00.000Z",
+    "followUpHistory": [
+      {
+        "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_UNDER_FOLLOW_UP",
+        "startDate": "2020-06-08T00:00:00.000Z",
+        "endDate": null
+      }
+    ],
+    "followUp": {
+      "originalStartDate": "2020-05-16T00:00:00.000Z",
+      "startDate": "2020-06-25T00:00:00.000Z",
+      "endDate": "2020-07-08T00:00:00.000Z",
+      "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_UNDER_FOLLOW_UP"
+    },
+    "hasRelationships": true,
+    "relationshipsRepresentation": [
+      {
+        "id": "08fdb185-09ae-4d04-9ea0-a4011d16377c",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CASE",
+        "otherParticipantId": "c498a75c-3684-4cef-b707-f0c0a3b0af08",
+        "target": true
+      },
+      {
+        "id": "74d937c4-d847-41c5-85f0-ceb38be4ccd1",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CASE",
+        "otherParticipantId": "277c283b-9ae2-445b-91fb-c2d0588c6df1",
+        "target": true
+      }
+    ],
+    "usualPlaceOfResidenceLocationId": null,
+    "createdAt": "2020-06-08T12:51:46.695Z",
+    "createdBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "updatedAt": "2020-08-21T09:58:06.811Z",
+    "updatedBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "Sofiatou",
+    "gender": "LNG_REFERENCE_DATA_CATEGORY_GENDER_FEMALE",
+    "safeBurial": false,
+    "wasCase": false,
+    "active": true,
+    "id": "178a26dd-c0f7-49c7-bca1-dc567d58409c",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "visualId": "CONTACT-2020-0035",
+    "dateOfReporting": "2020-04-15T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfLastContact": "2020-06-17T00:00:00.000Z",
+    "followUpHistory": [
+      {
+        "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_UNDER_FOLLOW_UP",
+        "startDate": "2020-06-08T00:00:00.000Z",
+        "endDate": null
+      }
+    ],
+    "followUp": {
+      "originalStartDate": "2020-05-09T00:00:00.000Z",
+      "startDate": "2020-06-18T00:00:00.000Z",
+      "endDate": "2020-07-01T00:00:00.000Z",
+      "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_UNDER_FOLLOW_UP"
+    },
+    "hasRelationships": true,
+    "relationshipsRepresentation": [
+      {
+        "id": "8817bf46-8117-4457-a910-0c5690853851",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CASE",
+        "otherParticipantId": "cf356e61-d0c8-4a06-883a-48311c2b00c8",
+        "target": true
+      }
+    ],
+    "usualPlaceOfResidenceLocationId": null,
+    "createdAt": "2020-06-08T12:51:51.999Z",
+    "createdBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "updatedAt": "2020-08-21T09:58:07.093Z",
+    "updatedBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "Thione",
+    "gender": "LNG_REFERENCE_DATA_CATEGORY_GENDER_MALE",
+    "safeBurial": false,
+    "wasCase": false,
+    "active": true,
+    "id": "918a7930-1e48-462b-83c9-61888c33476e",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "visualId": "CONTACT-2020-0026",
+    "age": {
+      "years": 45
+    },
+    "dateOfReporting": "2020-04-15T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfLastContact": "2020-06-22T00:00:00.000Z",
+    "followUpHistory": [
+      {
+        "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_UNDER_FOLLOW_UP",
+        "startDate": "2020-06-08T00:00:00.000Z",
+        "endDate": null
+      }
+    ],
+    "followUp": {
+      "originalStartDate": "2020-05-14T00:00:00.000Z",
+      "startDate": "2020-06-23T00:00:00.000Z",
+      "endDate": "2020-07-06T00:00:00.000Z",
+      "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_UNDER_FOLLOW_UP"
+    },
+    "hasRelationships": true,
+    "relationshipsRepresentation": [
+      {
+        "id": "ac65b51a-fa20-4440-bdf0-0fa77d6caa08",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CASE",
+        "otherParticipantId": "3d0fd453-b271-4b35-bcfc-7c49d87737d0",
+        "target": true
+      }
+    ],
+    "usualPlaceOfResidenceLocationId": null,
+    "createdAt": "2020-06-08T12:51:54.147Z",
+    "createdBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "updatedAt": "2020-08-21T09:58:07.511Z",
+    "updatedBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "Thiony",
+    "gender": "LNG_REFERENCE_DATA_CATEGORY_GENDER_FEMALE",
+    "safeBurial": false,
+    "wasCase": false,
+    "active": true,
+    "id": "a3016115-0530-4314-9e6d-6b7b12deb06d",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "visualId": "CONTACT-2020-0033",
+    "age": {
+      "years": 5
+    },
+    "dateOfReporting": "2020-04-15T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfLastContact": "2020-06-22T00:00:00.000Z",
+    "followUpHistory": [
+      {
+        "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_UNDER_FOLLOW_UP",
+        "startDate": "2020-06-08T00:00:00.000Z",
+        "endDate": null
+      }
+    ],
+    "followUp": {
+      "originalStartDate": "2020-05-14T00:00:00.000Z",
+      "startDate": "2020-06-23T00:00:00.000Z",
+      "endDate": "2020-07-06T00:00:00.000Z",
+      "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_UNDER_FOLLOW_UP"
+    },
+    "hasRelationships": true,
+    "relationshipsRepresentation": [
+      {
+        "id": "f6b9c9f6-398d-4376-9c1b-b7d4ee9bdd0b",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CASE",
+        "otherParticipantId": "cf356e61-d0c8-4a06-883a-48311c2b00c8",
+        "target": true
+      }
+    ],
+    "usualPlaceOfResidenceLocationId": null,
+    "createdAt": "2020-06-08T12:51:57.054Z",
+    "createdBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "updatedAt": "2020-08-21T09:58:08.329Z",
+    "updatedBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "Waly",
+    "gender": "LNG_REFERENCE_DATA_CATEGORY_GENDER_MALE",
+    "safeBurial": false,
+    "wasCase": false,
+    "active": true,
+    "id": "3da25d3b-c46f-47ab-8f88-18410acb57b5",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "visualId": "CONTACT-2020-0050",
+    "age": {
+      "years": 56
+    },
+    "dateOfReporting": "2020-04-15T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfLastContact": "2020-06-17T00:00:00.000Z",
+    "followUpHistory": [
+      {
+        "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_UNDER_FOLLOW_UP",
+        "startDate": "2020-06-08T00:00:00.000Z",
+        "endDate": null
+      }
+    ],
+    "followUp": {
+      "originalStartDate": "2020-05-09T00:00:00.000Z",
+      "startDate": "2020-06-18T00:00:00.000Z",
+      "endDate": "2020-07-01T00:00:00.000Z",
+      "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_UNDER_FOLLOW_UP"
+    },
+    "hasRelationships": true,
+    "relationshipsRepresentation": [
+      {
+        "id": "a3d6c7e3-2dd9-4143-ae42-373a1f85e7b9",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CASE",
+        "otherParticipantId": "834cf8d0-a431-41ef-8b0d-7272420805b0",
+        "target": true
+      }
+    ],
+    "usualPlaceOfResidenceLocationId": null,
+    "createdAt": "2020-06-08T12:52:02.448Z",
+    "createdBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "updatedAt": "2020-08-21T09:58:07.347Z",
+    "updatedBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "Wasis",
+    "gender": "LNG_REFERENCE_DATA_CATEGORY_GENDER_FEMALE",
+    "safeBurial": false,
+    "wasCase": false,
+    "active": true,
+    "id": "1705a7f2-d9ee-4d3c-bf0f-24a2c3909aea",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "visualId": "CONTACT-2020-0057",
+    "age": {
+      "years": 2,
+      "months": null
+    },
+    "dateOfReporting": "2020-04-15T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfLastContact": "2020-06-17T00:00:00.000Z",
+    "followUpHistory": [
+      {
+        "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_UNDER_FOLLOW_UP",
+        "startDate": "2020-06-08T00:00:00.000Z",
+        "endDate": "2020-06-23T00:00:00.000Z"
+      },
+      {
+        "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_LOST_TO_FOLLOW_UP",
+        "startDate": "2020-06-23T00:00:00.000Z",
+        "endDate": null
+      }
+    ],
+    "followUp": {
+      "originalStartDate": "2020-05-29T00:00:00.000Z",
+      "startDate": "2020-06-18T00:00:00.000Z",
+      "endDate": "2020-07-01T00:00:00.000Z",
+      "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_LOST_TO_FOLLOW_UP"
+    },
+    "hasRelationships": true,
+    "relationshipsRepresentation": [
+      {
+        "id": "969e5f2f-2786-4816-8482-45af4a25dacd",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CASE",
+        "otherParticipantId": "3083e9b6-9d56-4eed-931a-c3aad508de3f",
+        "target": true
+      }
+    ],
+    "usualPlaceOfResidenceLocationId": null,
+    "createdAt": "2020-06-08T12:52:06.973Z",
+    "createdBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "updatedAt": "2020-08-21T09:58:07.232Z",
+    "updatedBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "Yacouba",
+    "gender": "LNG_REFERENCE_DATA_CATEGORY_GENDER_MALE",
+    "safeBurial": false,
+    "wasCase": false,
+    "active": true,
+    "id": "d4f1ee9a-0cc1-4d86-978a-e04d5c5ede73",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "visualId": "CONTACT-2020-0018",
+    "age": {
+      "years": 78,
+      "months": null
+    },
+    "dateOfReporting": "2020-04-15T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfLastContact": "2020-06-15T00:00:00.000Z",
+    "followUpHistory": [
+      {
+        "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_UNDER_FOLLOW_UP",
+        "startDate": "2020-06-08T00:00:00.000Z",
+        "endDate": "2020-06-23T00:00:00.000Z"
+      },
+      {
+        "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_FOLLOW_UP_COMPLETED",
+        "startDate": "2020-06-23T00:00:00.000Z",
+        "endDate": null
+      }
+    ],
+    "followUp": {
+      "originalStartDate": "2020-05-27T00:00:00.000Z",
+      "startDate": "2020-06-16T00:00:00.000Z",
+      "endDate": "2020-06-29T00:00:00.000Z",
+      "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_FOLLOW_UP_COMPLETED"
+    },
+    "hasRelationships": true,
+    "relationshipsRepresentation": [
+      {
+        "id": "2d664d3b-0b27-4769-951a-e547cc31e01a",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CASE",
+        "otherParticipantId": "3225fe6a-01db-4710-8cb7-1863e1bfd968",
+        "target": true
+      }
+    ],
+    "usualPlaceOfResidenceLocationId": null,
+    "createdAt": "2020-06-08T12:52:10.605Z",
+    "createdBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "updatedAt": "2020-08-21T09:58:05.703Z",
+    "updatedBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "Youssouf",
+    "gender": "LNG_REFERENCE_DATA_CATEGORY_GENDER_FEMALE",
+    "safeBurial": false,
+    "wasCase": false,
+    "active": true,
+    "id": "aa977c6a-989f-45ba-9432-b3fbcfd60cad",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "visualId": "CONTACT-2020-0049",
+    "dateOfReporting": "2020-04-15T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfLastContact": "2020-06-17T00:00:00.000Z",
+    "followUpHistory": [
+      {
+        "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_UNDER_FOLLOW_UP",
+        "startDate": "2020-06-08T00:00:00.000Z",
+        "endDate": null
+      }
+    ],
+    "followUp": {
+      "originalStartDate": "2020-05-29T00:00:00.000Z",
+      "startDate": "2020-06-18T00:00:00.000Z",
+      "endDate": "2020-07-01T00:00:00.000Z",
+      "status": "LNG_REFERENCE_DATA_CONTACT_FINAL_FOLLOW_UP_STATUS_TYPE_UNDER_FOLLOW_UP"
+    },
+    "hasRelationships": true,
+    "relationshipsRepresentation": [
+      {
+        "id": "5b8553b9-31f3-4347-9bc8-d67774df7f2c",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CASE",
+        "otherParticipantId": "834cf8d0-a431-41ef-8b0d-7272420805b0",
+        "target": true
+      }
+    ],
+    "usualPlaceOfResidenceLocationId": null,
+    "createdAt": "2020-06-08T12:52:14.220Z",
+    "createdBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "updatedAt": "2020-08-21T09:58:06.778Z",
+    "updatedBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "deleted": false,
+    "address": {}
+  }
+]
