@@ -1,1 +1,4962 @@
-
+[
+  {
+    "firstName": "Abdoulaye",
+    "gender": "LNG_REFERENCE_DATA_CATEGORY_GENDER_MALE",
+    "wasContact": false,
+    "outcomeId": null,
+    "safeBurial": false,
+    "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_CONFIRMED",
+    "transferRefused": true,
+    "questionnaireAnswers": {
+      "report_test_reason": [
+        {
+          "value": "case_contact"
+        }
+      ],
+      "Comcond_present": [
+        {
+          "value": "no"
+        }
+      ],
+      "would_you_like_to_complete_who_basic_case_questionnaire": [
+        {
+          "value": "yes"
+        }
+      ]
+    },
+    "pregnancyStatus": "LNG_REFERENCE_DATA_CATEGORY_PREGNANCY_STATUS_NOT_PREGNANT",
+    "id": "e2d87af7-fde2-4ea6-a2be-9dc0cc03c2cd",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "visualId": "CASE-2020-0029",
+    "age": {
+      "years": 46
+    },
+    "occupation": "LNG_REFERENCE_DATA_CATEGORY_OCCUPATION_WORKING_WITH_ANIMALS",
+    "addresses": [
+      {
+        "typeId": "LNG_REFERENCE_DATA_CATEGORY_ADDRESS_TYPE_USUAL_PLACE_OF_RESIDENCE",
+        "locationId": "SN001023001000000000",
+        "geoLocationAccurate": false,
+        "geoLocation": {
+          "lat": 80.092831,
+          "lng": 49.979653
+        }
+      }
+    ],
+    "dateOfReporting": "2020-08-09T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfLastContact": "2020-10-19T00:00:00.000Z",
+    "dateOfOnset": "2020-08-09T00:00:00.000Z",
+    "dateRanges": [
+      {
+        "typeId": "LNG_REFERENCE_DATA_CATEGORY_PERSON_DATE_TYPE_HOSPITALIZATION",
+        "centerName": null,
+        "locationId": null,
+        "comments": null,
+        "startDate": "2020-07-05T00:00:00.000Z",
+        "endDate": "2020-07-19T00:00:00.000Z"
+      }
+    ],
+    "classificationHistory": [
+      {
+        "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_CONFIRMED",
+        "startDate": "2020-06-08T00:00:00.000Z",
+        "endDate": null
+      }
+    ],
+    "dateOfOutcome": "2020-06-10T00:00:00.000Z",
+    "hasRelationships": true,
+    "relationshipsRepresentation": [
+      {
+        "id": "74ffdb2d-0a42-4790-b158-999955884103",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CASE",
+        "otherParticipantId": "211b76da-5248-446e-8bf7-2bb449c9b1cf",
+        "target": true
+      },
+      {
+        "id": "74ad1e86-8804-4c5c-b1de-41a01517f439",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_EVENT",
+        "otherParticipantId": "2f99f4f2-06ad-4ac6-b352-ae7d87b77281",
+        "target": true
+      }
+    ],
+    "usualPlaceOfResidenceLocationId": "SN001023001000000000",
+    "createdAt": "2020-06-08T12:37:47.617Z",
+    "createdBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "updatedAt": "2020-10-19T21:13:42.230Z",
+    "updatedBy": "eff67980-d2c0-4a9d-bd08-f20dad487635",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "Adama",
+    "gender": "LNG_REFERENCE_DATA_CATEGORY_GENDER_MALE",
+    "wasContact": false,
+    "outcomeId": "LNG_REFERENCE_DATA_CATEGORY_OUTCOME_RECOVERED",
+    "safeBurial": false,
+    "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_CONFIRMED",
+    "transferRefused": false,
+    "questionnaireAnswers": {
+      "report_test_reason": [
+        {
+          "value": "seeking_hc"
+        }
+      ],
+      "Comcond_present": [
+        {
+          "value": "no"
+        }
+      ],
+      "FA1_preexistingconditions_diabetes": [],
+      "FA1_preexistingconditions_chronickidneydisease": [],
+      "FA1_preexistingconditions_cancer": [],
+      "FA2_complications_cardiacfailure": [],
+      "FA1_preexistingconditions_chronicliverdisease": [],
+      "FA1_preexistingconditions_chroniclungdiseasenonasthma": []
+    },
+    "pregnancyStatus": "LNG_REFERENCE_DATA_CATEGORY_PREGNANCY_STATUS_NOT_PREGNANT",
+    "id": "74208c48-ea30-485b-9340-04d44dd0ab11",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "visualId": "CASE-2020-0017",
+    "age": {
+      "years": 8
+    },
+    "occupation": "LNG_REFERENCE_DATA_CATEGORY_OCCUPATION_CHILD",
+    "addresses": [
+      {
+        "3": {},
+        "typeId": "LNG_REFERENCE_DATA_CATEGORY_ADDRESS_TYPE_USUAL_PLACE_OF_RESIDENCE",
+        "locationId": "SN001023002000000000",
+        "geoLocationAccurate": false,
+        "geoLocation": {
+          "lat": 80.156925,
+          "lng": 49.943489
+        }
+      }
+    ],
+    "dateOfReporting": "2020-07-14T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfLastContact": "2020-06-16T00:00:00.000Z",
+    "dateOfOnset": "2020-07-14T00:00:00.000Z",
+    "dateRanges": [
+      {
+        "typeId": "LNG_REFERENCE_DATA_CATEGORY_PERSON_DATE_TYPE_HOSPITALIZATION",
+        "centerName": null,
+        "locationId": null,
+        "comments": null,
+        "startDate": "2020-06-08T00:00:00.000Z",
+        "endDate": "2020-06-14T00:00:00.000Z"
+      }
+    ],
+    "classificationHistory": [
+      {
+        "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_CONFIRMED",
+        "startDate": "2020-06-08T00:00:00.000Z",
+        "endDate": null
+      }
+    ],
+    "dateOfOutcome": "2020-05-26T00:00:00.000Z",
+    "hasRelationships": true,
+    "relationshipsRepresentation": [
+      {
+        "id": "5b45dfa5-7b20-4d9b-b726-2d5a3380fab7",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_EVENT",
+        "otherParticipantId": "8fd215fd-84d5-47bc-881f-0a9cb3939c15",
+        "target": true
+      }
+    ],
+    "usualPlaceOfResidenceLocationId": "SN001023002000000000",
+    "createdAt": "2020-06-08T12:37:57.514Z",
+    "createdBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "updatedAt": "2020-07-30T17:33:19.410Z",
+    "updatedBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "Adama",
+    "gender": "LNG_REFERENCE_DATA_CATEGORY_GENDER_FEMALE",
+    "wasContact": false,
+    "outcomeId": "LNG_REFERENCE_DATA_CATEGORY_OUTCOME_ALIVE",
+    "safeBurial": false,
+    "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_PROBABLE",
+    "transferRefused": false,
+    "questionnaireAnswers": {
+      "report_test_reason": [
+        {
+          "value": "seeking_hc"
+        }
+      ],
+      "Comcond_present": [
+        {
+          "value": "yes"
+        }
+      ],
+      "FA1_preexistingconditions_diabetes": [
+        {
+          "value": "Yes"
+        }
+      ],
+      "would_you_like_to_complete_who_basic_case_questionnaire": [
+        {
+          "value": "no"
+        }
+      ]
+    },
+    "pregnancyStatus": "LNG_REFERENCE_DATA_CATEGORY_PREGNANCY_STATUS_NOT_PREGNANT",
+    "id": "24e08a03-fa7c-4a44-aba6-f3c6f4cf8487",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "visualId": "CASE-2020-0026",
+    "age": {
+      "years": 61
+    },
+    "occupation": "LNG_REFERENCE_DATA_CATEGORY_OCCUPATION_FARMER",
+    "addresses": [
+      {
+        "typeId": "LNG_REFERENCE_DATA_CATEGORY_ADDRESS_TYPE_USUAL_PLACE_OF_RESIDENCE",
+        "country": null,
+        "city": null,
+        "addressLine1": null,
+        "postalCode": null,
+        "locationId": "SN001014003000000000",
+        "geoLocationAccurate": false,
+        "date": "2020-06-12T00:00:00.000Z",
+        "phoneNumber": null,
+        "addressLine2": null,
+        "geoLocation": {
+          "lat": 80.471505,
+          "lng": 47.64599
+        }
+      }
+    ],
+    "dateOfReporting": "2020-08-01T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfLastContact": "2020-07-28T00:00:00.000Z",
+    "dateOfOnset": "2020-08-01T00:00:00.000Z",
+    "dateRanges": [
+      {
+        "typeId": "LNG_REFERENCE_DATA_CATEGORY_PERSON_DATE_TYPE_HOSPITALIZATION",
+        "centerName": null,
+        "locationId": null,
+        "comments": null,
+        "startDate": "2020-06-26T00:00:00.000Z",
+        "endDate": "2020-07-08T00:00:00.000Z"
+      }
+    ],
+    "classificationHistory": [
+      {
+        "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_PROBABLE",
+        "startDate": "2020-06-08T00:00:00.000Z",
+        "endDate": null
+      }
+    ],
+    "dateOfOutcome": "2020-06-04T00:00:00.000Z",
+    "hasRelationships": true,
+    "relationshipsRepresentation": [
+      {
+        "id": "4dfe8192-cd07-45fc-9db7-ff9c8ba70ef5",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CASE",
+        "otherParticipantId": "211b76da-5248-446e-8bf7-2bb449c9b1cf",
+        "target": true
+      }
+    ],
+    "usualPlaceOfResidenceLocationId": "SN001014003000000000",
+    "createdAt": "2020-06-08T12:37:55.398Z",
+    "createdBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "updatedAt": "2020-07-30T17:33:45.497Z",
+    "updatedBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "Adama",
+    "gender": "LNG_REFERENCE_DATA_CATEGORY_GENDER_MALE",
+    "wasContact": true,
+    "safeBurial": false,
+    "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_SUSPECT",
+    "riskLevel": "LNG_REFERENCE_DATA_CATEGORY_RISK_LEVEL_3_HIGH",
+    "transferRefused": false,
+    "questionnaireAnswers": {
+      "would_you_like_to_complete_who_basic_case_questionnaire": [
+        {
+          "value": "no"
+        }
+      ]
+    },
+    "id": "c49b80c8-20f5-47d5-81a1-c57adb23b3a0",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "visualId": "CASE-2020-0043",
+    "age": {
+      "years": 0,
+      "months": 0
+    },
+    "occupation": "LNG_REFERENCE_DATA_CATEGORY_OCCUPATION_HEALTH_CARE_WORKER",
+    "addresses": [
+      {
+        "typeId": "LNG_REFERENCE_DATA_CATEGORY_ADDRESS_TYPE_USUAL_PLACE_OF_RESIDENCE",
+        "locationId": "SN001011001000000000",
+        "geoLocationAccurate": false,
+        "geoLocation": {
+          "lat": 79.992611,
+          "lng": 51.151047
+        }
+      }
+    ],
+    "dateOfReporting": "2020-07-08T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfLastContact": "2020-05-06T00:00:00.000Z",
+    "dateOfOnset": "2020-07-18T00:00:00.000Z",
+    "dateBecomeCase": "2020-05-28T00:00:00.000Z",
+    "dateRanges": [
+      {
+        "typeId": "LNG_REFERENCE_DATA_CATEGORY_PERSON_DATE_TYPE_HOSPITALIZATION",
+        "centerName": null,
+        "locationId": null,
+        "comments": null,
+        "startDate": "2020-06-09T00:00:00.000Z",
+        "endDate": "2020-06-20T00:00:00.000Z"
+      }
+    ],
+    "classificationHistory": [
+      {
+        "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_SUSPECT",
+        "startDate": "2020-06-08T00:00:00.000Z",
+        "endDate": null
+      }
+    ],
+    "hasRelationships": false,
+    "relationshipsRepresentation": [],
+    "usualPlaceOfResidenceLocationId": "SN001011001000000000",
+    "createdAt": "2020-06-08T12:37:50.467Z",
+    "createdBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "updatedAt": "2020-07-30T17:32:47.154Z",
+    "updatedBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "deleted": false,
+    "wasCase": false,
+    "active": true,
+    "address": {}
+  },
+  {
+    "firstName": "Adji",
+    "gender": "LNG_REFERENCE_DATA_CATEGORY_GENDER_FEMALE",
+    "wasContact": true,
+    "safeBurial": false,
+    "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_CONFIRMED",
+    "transferRefused": false,
+    "questionnaireAnswers": {
+      "would_you_like_to_complete_who_basic_case_questionnaire": [
+        {
+          "value": "yes"
+        }
+      ],
+      "report_test_reason": [
+        {
+          "value": "case_contact"
+        }
+      ]
+    },
+    "id": "2a946a21-9bda-40e1-9a93-935710c6a291",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "visualId": "CASE-2020-0044",
+    "age": {
+      "years": 25,
+      "months": 0
+    },
+    "addresses": [
+      {
+        "typeId": "LNG_REFERENCE_DATA_CATEGORY_ADDRESS_TYPE_USUAL_PLACE_OF_RESIDENCE",
+        "locationId": "SN001023001000000000",
+        "geoLocationAccurate": false,
+        "geoLocation": {
+          "lat": 80.092831,
+          "lng": 49.979653
+        }
+      }
+    ],
+    "dateOfReporting": "2020-07-11T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfLastContact": "2020-05-10T00:00:00.000Z",
+    "dateOfOnset": "2020-07-20T00:00:00.000Z",
+    "dateBecomeCase": "2020-05-28T00:00:00.000Z",
+    "dateRanges": [
+      {
+        "typeId": "LNG_REFERENCE_DATA_CATEGORY_PERSON_DATE_TYPE_HOSPITALIZATION",
+        "centerName": null,
+        "locationId": null,
+        "comments": null,
+        "startDate": "2020-06-12T00:00:00.000Z",
+        "endDate": "2020-06-16T00:00:00.000Z"
+      }
+    ],
+    "classificationHistory": [
+      {
+        "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_CONFIRMED",
+        "startDate": "2020-06-08T00:00:00.000Z",
+        "endDate": null
+      }
+    ],
+    "hasRelationships": false,
+    "relationshipsRepresentation": [],
+    "usualPlaceOfResidenceLocationId": "SN001023001000000000",
+    "createdAt": "2020-06-08T12:38:03.328Z",
+    "createdBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "updatedAt": "2020-07-30T17:32:47.844Z",
+    "updatedBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "deleted": false,
+    "wasCase": true,
+    "active": true,
+    "address": {},
+    "dateBecomeContact": "2020-05-28T00:00:00.000Z"
+  },
+  {
+    "firstName": "Aida",
+    "gender": "LNG_REFERENCE_DATA_CATEGORY_GENDER_FEMALE",
+    "wasContact": false,
+    "outcomeId": "LNG_REFERENCE_DATA_CATEGORY_OUTCOME_ALIVE",
+    "safeBurial": false,
+    "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_CONFIRMED",
+    "transferRefused": true,
+    "questionnaireAnswers": {
+      "report_test_reason": [
+        {
+          "value": "seeking_hc"
+        }
+      ],
+      "Comcond_present": [
+        {
+          "value": "yes"
+        }
+      ],
+      "would_you_like_to_complete_who_basic_case_questionnaire": [
+        {
+          "value": "no"
+        }
+      ]
+    },
+    "pregnancyStatus": "LNG_REFERENCE_DATA_CATEGORY_PREGNANCY_STATUS_NOT_PREGNANT",
+    "id": "d67ec12d-71c6-4c77-bb8f-6b13bbdbf9b8",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "visualId": "CASE-2020-0036",
+    "age": {
+      "years": 40
+    },
+    "occupation": "LNG_REFERENCE_DATA_CATEGORY_OCCUPATION_WORKING_WITH_ANIMALS",
+    "addresses": [
+      {
+        "3": {},
+        "typeId": "LNG_REFERENCE_DATA_CATEGORY_ADDRESS_TYPE_USUAL_PLACE_OF_RESIDENCE",
+        "locationId": "SN001014002000000000",
+        "geoLocationAccurate": false,
+        "geoLocation": {
+          "lat": 80.420333,
+          "lng": 49.422998
+        }
+      }
+    ],
+    "dateOfReporting": "2020-07-14T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfLastContact": "2020-08-19T00:00:00.000Z",
+    "dateOfOnset": "2020-07-11T00:00:00.000Z",
+    "dateRanges": [
+      {
+        "typeId": "LNG_REFERENCE_DATA_CATEGORY_PERSON_DATE_TYPE_HOSPITALIZATION",
+        "centerName": null,
+        "locationId": null,
+        "comments": null,
+        "startDate": "2020-06-05T00:00:00.000Z",
+        "endDate": "2020-06-06T00:00:00.000Z"
+      }
+    ],
+    "classificationHistory": [
+      {
+        "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_CONFIRMED",
+        "startDate": "2020-06-08T00:00:00.000Z",
+        "endDate": null
+      }
+    ],
+    "dateOfOutcome": "2020-05-21T00:00:00.000Z",
+    "hasRelationships": true,
+    "relationshipsRepresentation": [
+      {
+        "id": "197fc778-04d0-4005-a962-cedac2330f3b",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_EVENT",
+        "otherParticipantId": "60dfe39f-d6de-47bf-96e0-8f989cad4b10",
+        "target": true
+      }
+    ],
+    "usualPlaceOfResidenceLocationId": "SN001014002000000000",
+    "createdAt": "2020-06-08T12:38:20.746Z",
+    "createdBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "updatedAt": "2020-08-20T17:37:27.825Z",
+    "updatedBy": "adf6e5ca-77ac-4eaa-84fb-4be588c5d74a",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "Aissatou",
+    "gender": "LNG_REFERENCE_DATA_CATEGORY_GENDER_FEMALE",
+    "wasContact": false,
+    "outcomeId": "LNG_REFERENCE_DATA_CATEGORY_OUTCOME_DECEASED",
+    "safeBurial": false,
+    "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_PROBABLE",
+    "transferRefused": false,
+    "questionnaireAnswers": {
+      "report_test_reason": [
+        {
+          "value": "unknown"
+        }
+      ],
+      "Comcond_present": [
+        {
+          "value": "no"
+        }
+      ],
+      "FA1_preexistingconditions_diabetes": [],
+      "FA1_preexistingconditions_chronickidneydisease": [],
+      "FA1_preexistingconditions_cancer": [],
+      "FA2_complications_cardiacfailure": [],
+      "FA1_preexistingconditions_chronicliverdisease": [],
+      "FA1_preexistingconditions_chroniclungdiseasenonasthma": []
+    },
+    "pregnancyStatus": "LNG_REFERENCE_DATA_CATEGORY_PREGNANCY_STATUS_NOT_PREGNANT",
+    "id": "49f81f55-e27e-4376-8fa6-76c10326f464",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "visualId": "CASE-2020-0037",
+    "age": {
+      "years": 80
+    },
+    "occupation": "LNG_REFERENCE_DATA_CATEGORY_OCCUPATION_FARMER",
+    "addresses": [
+      {
+        "3": {},
+        "typeId": "LNG_REFERENCE_DATA_CATEGORY_ADDRESS_TYPE_USUAL_PLACE_OF_RESIDENCE",
+        "locationId": "SN001014003000000000",
+        "geoLocationAccurate": false,
+        "geoLocation": {
+          "lat": 80.493903,
+          "lng": 48.254891
+        }
+      }
+    ],
+    "dateOfReporting": "2020-07-14T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfLastContact": "2020-08-19T00:00:00.000Z",
+    "dateOfOnset": "2020-07-12T00:00:00.000Z",
+    "dateRanges": [
+      {
+        "typeId": "LNG_REFERENCE_DATA_CATEGORY_PERSON_DATE_TYPE_HOSPITALIZATION",
+        "centerName": null,
+        "locationId": null,
+        "comments": null,
+        "startDate": "2020-06-03T00:00:00.000Z",
+        "endDate": "2020-06-06T00:00:00.000Z"
+      }
+    ],
+    "classificationHistory": [
+      {
+        "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_PROBABLE",
+        "startDate": "2020-06-08T00:00:00.000Z",
+        "endDate": null
+      }
+    ],
+    "dateOfOutcome": "2020-04-12T00:00:00.000Z",
+    "hasRelationships": true,
+    "relationshipsRepresentation": [
+      {
+        "id": "1c0d40d2-8a5d-48bb-b833-e6bb7ae9516e",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_EVENT",
+        "otherParticipantId": "60dfe39f-d6de-47bf-96e0-8f989cad4b10",
+        "target": true
+      }
+    ],
+    "usualPlaceOfResidenceLocationId": "SN001014003000000000",
+    "createdAt": "2020-06-08T12:38:23.663Z",
+    "createdBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "updatedAt": "2020-08-20T17:37:27.927Z",
+    "updatedBy": "adf6e5ca-77ac-4eaa-84fb-4be588c5d74a",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "Alassane",
+    "gender": "LNG_REFERENCE_DATA_CATEGORY_GENDER_MALE",
+    "wasContact": false,
+    "outcomeId": "LNG_REFERENCE_DATA_CATEGORY_OUTCOME_RECOVERED",
+    "safeBurial": false,
+    "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_CONFIRMED",
+    "transferRefused": false,
+    "questionnaireAnswers": {
+      "report_test_reason": [
+        {
+          "value": "surveillance"
+        }
+      ],
+      "Comcond_present": [
+        {
+          "value": "no"
+        }
+      ],
+      "would_you_like_to_complete_who_basic_case_questionnaire": [
+        {
+          "value": "no"
+        }
+      ]
+    },
+    "pregnancyStatus": "LNG_REFERENCE_DATA_CATEGORY_PREGNANCY_STATUS_NOT_PREGNANT",
+    "id": "2126ab3a-84f3-404a-a0fb-f1631db1517c",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "visualId": "CASE-2020-0006",
+    "age": {
+      "years": 47
+    },
+    "occupation": "LNG_REFERENCE_DATA_CATEGORY_OCCUPATION_HEALTH_CARE_WORKER",
+    "addresses": [
+      {
+        "typeId": "LNG_REFERENCE_DATA_CATEGORY_ADDRESS_TYPE_USUAL_PLACE_OF_RESIDENCE",
+        "country": null,
+        "city": null,
+        "addressLine1": null,
+        "postalCode": null,
+        "locationId": "SN001014003000000000",
+        "geoLocationAccurate": false,
+        "date": "2020-06-12T00:00:00.000Z",
+        "phoneNumber": null,
+        "addressLine2": null,
+        "geoLocation": {
+          "lat": 80.525068,
+          "lng": 48.384064
+        }
+      }
+    ],
+    "dateOfReporting": "2020-07-04T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfLastContact": "2020-06-22T00:00:00.000Z",
+    "dateOfOnset": "2020-07-03T00:00:00.000Z",
+    "dateRanges": [
+      {
+        "typeId": "LNG_REFERENCE_DATA_CATEGORY_PERSON_DATE_TYPE_HOSPITALIZATION",
+        "centerName": null,
+        "locationId": null,
+        "comments": null,
+        "startDate": "2020-05-29T00:00:00.000Z",
+        "endDate": "2020-06-04T00:00:00.000Z"
+      }
+    ],
+    "classificationHistory": [
+      {
+        "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_CONFIRMED",
+        "startDate": "2020-06-08T00:00:00.000Z",
+        "endDate": null
+      }
+    ],
+    "dateOfOutcome": "2020-05-08T00:00:00.000Z",
+    "hasRelationships": true,
+    "relationshipsRepresentation": [
+      {
+        "id": "f8994843-fc28-49b2-9e2e-2229c9bf3c22",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CONTACT",
+        "otherParticipantId": "245d864a-34df-46be-a93e-f96e95673d7c",
+        "source": true
+      },
+      {
+        "id": "f337d4be-aae7-4a85-962e-de2220caf190",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CONTACT",
+        "otherParticipantId": "4f345e29-ea4a-4893-994d-02c3e406b686",
+        "source": true
+      },
+      {
+        "id": "c09df1f6-a8b8-476e-b477-129ed5e99d1d",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CONTACT",
+        "otherParticipantId": "b35240a3-288e-4ef1-bcc3-764b40a4518d",
+        "source": true
+      }
+    ],
+    "usualPlaceOfResidenceLocationId": "SN001014003000000000",
+    "createdAt": "2020-06-08T12:38:25.873Z",
+    "createdBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "updatedAt": "2020-08-20T14:58:13.995Z",
+    "updatedBy": "adf6e5ca-77ac-4eaa-84fb-4be588c5d74a",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "Alfa",
+    "gender": "LNG_REFERENCE_DATA_CATEGORY_GENDER_FEMALE",
+    "wasContact": true,
+    "outcomeId": "LNG_REFERENCE_DATA_CATEGORY_OUTCOME_ALIVE",
+    "safeBurial": false,
+    "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_SUSPECT",
+    "transferRefused": false,
+    "questionnaireAnswers": {
+      "would_you_like_to_complete_who_basic_case_questionnaire": [
+        {
+          "value": "no"
+        }
+      ]
+    },
+    "id": "c46b7b3f-121d-4cf8-aff5-34750cc3442b",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "visualId": "CASE-2020-0045",
+    "age": {
+      "years": 34
+    },
+    "occupation": "LNG_REFERENCE_DATA_CATEGORY_OCCUPATION_BUTCHER",
+    "addresses": [
+      {
+        "typeId": "LNG_REFERENCE_DATA_CATEGORY_ADDRESS_TYPE_USUAL_PLACE_OF_RESIDENCE",
+        "country": null,
+        "city": null,
+        "addressLine1": null,
+        "postalCode": null,
+        "locationId": "SN001014003000000000",
+        "geoLocationAccurate": false,
+        "date": "2020-06-12T00:00:00.000Z",
+        "phoneNumber": null,
+        "addressLine2": null,
+        "geoLocation": {
+          "lat": 80.520359,
+          "lng": 48.466194
+        }
+      }
+    ],
+    "dateOfReporting": "2020-07-16T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfLastContact": "2020-07-27T00:00:00.000Z",
+    "dateOfOnset": "2020-07-16T00:00:00.000Z",
+    "dateBecomeCase": "2020-05-29T00:00:00.000Z",
+    "dateRanges": [
+      {
+        "typeId": "LNG_REFERENCE_DATA_CATEGORY_PERSON_DATE_TYPE_HOSPITALIZATION",
+        "centerName": null,
+        "locationId": null,
+        "comments": null,
+        "startDate": "2020-06-08T00:00:00.000Z",
+        "endDate": "2020-06-20T00:00:00.000Z"
+      }
+    ],
+    "classificationHistory": [
+      {
+        "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_SUSPECT",
+        "startDate": "2020-06-08T00:00:00.000Z",
+        "endDate": null
+      }
+    ],
+    "dateOfOutcome": "2020-05-24T00:00:00.000Z",
+    "hasRelationships": true,
+    "relationshipsRepresentation": [
+      {
+        "id": "3daf3dc7-c31e-426e-b519-1914dcccfecd",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CASE",
+        "otherParticipantId": "211b76da-5248-446e-8bf7-2bb449c9b1cf",
+        "source": true
+      },
+      {
+        "id": "111577e4-c40a-49c2-9cb1-ab9d71ec32e1",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CASE",
+        "otherParticipantId": "6b054481-e8ea-46a7-bce0-9afcbc70f66c",
+        "source": true
+      },
+      {
+        "id": "e1aadbed-eafb-4000-a6e4-4537cbc1ecab",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CASE",
+        "otherParticipantId": "b89c50d9-37f3-4c89-9140-213fa752cdf2",
+        "source": true
+      }
+    ],
+    "usualPlaceOfResidenceLocationId": "SN001014003000000000",
+    "createdAt": "2020-06-08T12:38:29.891Z",
+    "createdBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "updatedAt": "2020-07-30T17:33:44.665Z",
+    "updatedBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "deleted": false,
+    "wasCase": false,
+    "active": true,
+    "address": {}
+  },
+  {
+    "firstName": "Alfa",
+    "gender": "LNG_REFERENCE_DATA_CATEGORY_GENDER_FEMALE",
+    "wasContact": true,
+    "safeBurial": false,
+    "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_SUSPECT",
+    "transferRefused": false,
+    "questionnaireAnswers": {
+      "would_you_like_to_complete_who_basic_case_questionnaire": [
+        {
+          "value": "no"
+        }
+      ]
+    },
+    "id": "ef548f3d-f804-4d26-a23b-dddb3052ff95",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "visualId": "CASE-2020-0046",
+    "age": {
+      "years": 34
+    },
+    "occupation": "LNG_REFERENCE_DATA_CATEGORY_OCCUPATION_BUTCHER",
+    "addresses": [
+      {
+        "typeId": "LNG_REFERENCE_DATA_CATEGORY_ADDRESS_TYPE_USUAL_PLACE_OF_RESIDENCE",
+        "locationId": "SN001023001000000000",
+        "geoLocationAccurate": false,
+        "geoLocation": {
+          "lat": 80.092831,
+          "lng": 49.979653
+        }
+      }
+    ],
+    "dateOfReporting": "2020-07-07T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfLastContact": "2020-05-06T00:00:00.000Z",
+    "dateOfOnset": "2020-07-20T00:00:00.000Z",
+    "dateBecomeCase": "2020-05-29T00:00:00.000Z",
+    "dateRanges": [
+      {
+        "typeId": "LNG_REFERENCE_DATA_CATEGORY_PERSON_DATE_TYPE_HOSPITALIZATION",
+        "centerName": null,
+        "locationId": null,
+        "comments": null,
+        "startDate": "2020-06-13T00:00:00.000Z",
+        "endDate": "2020-06-26T00:00:00.000Z"
+      }
+    ],
+    "classificationHistory": [
+      {
+        "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_SUSPECT",
+        "startDate": "2020-06-08T00:00:00.000Z",
+        "endDate": null
+      }
+    ],
+    "hasRelationships": false,
+    "relationshipsRepresentation": [],
+    "usualPlaceOfResidenceLocationId": "SN001023001000000000",
+    "createdAt": "2020-06-08T12:38:27.383Z",
+    "createdBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "updatedAt": "2020-07-30T17:32:51.286Z",
+    "updatedBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "deleted": false,
+    "wasCase": false,
+    "active": true,
+    "address": {}
+  },
+  {
+    "firstName": "Alioune",
+    "gender": "LNG_REFERENCE_DATA_CATEGORY_GENDER_MALE",
+    "wasContact": false,
+    "outcomeId": "LNG_REFERENCE_DATA_CATEGORY_OUTCOME_RECOVERED",
+    "safeBurial": false,
+    "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_CONFIRMED",
+    "transferRefused": false,
+    "questionnaireAnswers": {
+      "report_test_reason": [
+        {
+          "value": "case_contact"
+        }
+      ],
+      "Comcond_present": [
+        {
+          "value": "no"
+        }
+      ],
+      "would_you_like_to_complete_who_basic_case_questionnaire": [
+        {
+          "value": "yes"
+        }
+      ]
+    },
+    "pregnancyStatus": "LNG_REFERENCE_DATA_CATEGORY_PREGNANCY_STATUS_NOT_PREGNANT",
+    "id": "834cf8d0-a431-41ef-8b0d-7272420805b0",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "visualId": "CASE-2020-0031",
+    "age": {
+      "years": 20
+    },
+    "occupation": "LNG_REFERENCE_DATA_CATEGORY_OCCUPATION_STUDENT",
+    "addresses": [
+      {
+        "3": {},
+        "typeId": "LNG_REFERENCE_DATA_CATEGORY_ADDRESS_TYPE_USUAL_PLACE_OF_RESIDENCE",
+        "locationId": "SN001011001000000000",
+        "geoLocationAccurate": false,
+        "geoLocation": {
+          "lat": 79.992611,
+          "lng": 51.151047
+        }
+      }
+    ],
+    "dateOfReporting": "2020-07-13T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfLastContact": "2020-06-15T00:00:00.000Z",
+    "dateOfOnset": "2020-07-11T00:00:00.000Z",
+    "dateRanges": [
+      {
+        "typeId": "LNG_REFERENCE_DATA_CATEGORY_PERSON_DATE_TYPE_HOSPITALIZATION",
+        "centerName": null,
+        "locationId": null,
+        "comments": null,
+        "startDate": "2020-06-02T00:00:00.000Z",
+        "endDate": "2020-06-10T00:00:00.000Z"
+      }
+    ],
+    "classificationHistory": [
+      {
+        "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_CONFIRMED",
+        "startDate": "2020-06-08T00:00:00.000Z",
+        "endDate": null
+      }
+    ],
+    "dateOfOutcome": "2020-05-15T00:00:00.000Z",
+    "hasRelationships": true,
+    "relationshipsRepresentation": [
+      {
+        "id": "53756f7d-aca9-4d56-9b3e-98de9f4d0282",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CONTACT",
+        "otherParticipantId": "d0745963-220e-4f5a-a76f-53daf82ea22c",
+        "source": true
+      },
+      {
+        "id": "a3d6c7e3-2dd9-4143-ae42-373a1f85e7b9",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CONTACT",
+        "otherParticipantId": "3da25d3b-c46f-47ab-8f88-18410acb57b5",
+        "source": true
+      },
+      {
+        "id": "5b8553b9-31f3-4347-9bc8-d67774df7f2c",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CONTACT",
+        "otherParticipantId": "aa977c6a-989f-45ba-9432-b3fbcfd60cad",
+        "source": true
+      },
+      {
+        "id": "0ee04c70-edb6-4aa9-8d4f-f70f3d8a0491",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_EVENT",
+        "otherParticipantId": "8fd215fd-84d5-47bc-881f-0a9cb3939c15",
+        "target": true
+      }
+    ],
+    "usualPlaceOfResidenceLocationId": "SN001011001000000000",
+    "createdAt": "2020-06-08T12:38:38.216Z",
+    "createdBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "updatedAt": "2020-08-21T09:58:05.674Z",
+    "updatedBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "Alioune",
+    "gender": "LNG_REFERENCE_DATA_CATEGORY_GENDER_MALE",
+    "wasContact": false,
+    "outcomeId": "LNG_REFERENCE_DATA_CATEGORY_OUTCOME_RECOVERED",
+    "safeBurial": false,
+    "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_CONFIRMED",
+    "transferRefused": false,
+    "questionnaireAnswers": {
+      "report_test_reason": [
+        {
+          "value": "case_contact"
+        }
+      ],
+      "Comcond_present": [
+        {
+          "value": "no"
+        }
+      ],
+      "would_you_like_to_complete_who_basic_case_questionnaire": [
+        {
+          "value": "yes"
+        }
+      ]
+    },
+    "pregnancyStatus": "LNG_REFERENCE_DATA_CATEGORY_PREGNANCY_STATUS_NOT_PREGNANT",
+    "id": "3083e9b6-9d56-4eed-931a-c3aad508de3f",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "visualId": "CASE-2020-0034",
+    "age": {
+      "years": 20
+    },
+    "occupation": "LNG_REFERENCE_DATA_CATEGORY_OCCUPATION_STUDENT",
+    "addresses": [
+      {
+        "3": {},
+        "typeId": "LNG_REFERENCE_DATA_CATEGORY_ADDRESS_TYPE_USUAL_PLACE_OF_RESIDENCE",
+        "locationId": "SN001011008000000000",
+        "geoLocationAccurate": false,
+        "geoLocation": {
+          "lat": 80.036419,
+          "lng": 51.152152
+        }
+      }
+    ],
+    "dateOfReporting": "2020-07-14T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfLastContact": "2020-06-20T00:00:00.000Z",
+    "dateOfOnset": "2020-07-12T00:00:00.000Z",
+    "dateRanges": [
+      {
+        "typeId": "LNG_REFERENCE_DATA_CATEGORY_PERSON_DATE_TYPE_HOSPITALIZATION",
+        "centerName": null,
+        "locationId": null,
+        "comments": null,
+        "startDate": "2020-06-05T00:00:00.000Z",
+        "endDate": "2020-06-20T00:00:00.000Z"
+      }
+    ],
+    "classificationHistory": [
+      {
+        "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_CONFIRMED",
+        "startDate": "2020-06-08T00:00:00.000Z",
+        "endDate": null
+      }
+    ],
+    "dateOfOutcome": "2020-05-16T00:00:00.000Z",
+    "hasRelationships": true,
+    "relationshipsRepresentation": [
+      {
+        "id": "f668a1a4-1e75-499c-95f1-e034aea423a6",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CONTACT",
+        "otherParticipantId": "aff64c8f-32e1-428d-82a4-527f2b16d1d5",
+        "source": true
+      },
+      {
+        "id": "19afcffa-ed35-4dc5-b4a7-9b49b932a09c",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CONTACT",
+        "otherParticipantId": "c6a11bd1-7c47-4429-9069-cf8cf2a28d92",
+        "source": true
+      },
+      {
+        "id": "faafb68b-5ba8-45b3-b675-c888874739aa",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CONTACT",
+        "otherParticipantId": "9a5976d8-b474-48bf-a9ee-ae1ae89afd88",
+        "source": true
+      },
+      {
+        "id": "969e5f2f-2786-4816-8482-45af4a25dacd",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CONTACT",
+        "otherParticipantId": "1705a7f2-d9ee-4d3c-bf0f-24a2c3909aea",
+        "source": true
+      },
+      {
+        "id": "e687c02b-a841-42ad-9b5d-6404ebcd38db",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_EVENT",
+        "otherParticipantId": "8fd215fd-84d5-47bc-881f-0a9cb3939c15",
+        "target": true
+      },
+      {
+        "id": "889a115a-923f-4605-9a80-57b298acdd45",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_EVENT",
+        "otherParticipantId": "60dfe39f-d6de-47bf-96e0-8f989cad4b10",
+        "source": true
+      }
+    ],
+    "usualPlaceOfResidenceLocationId": "SN001011008000000000",
+    "createdAt": "2020-06-08T12:38:32.475Z",
+    "createdBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "updatedAt": "2020-08-21T09:58:05.635Z",
+    "updatedBy": "adf6e5ca-77ac-4eaa-84fb-4be588c5d74a",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "Amadou",
+    "gender": "LNG_REFERENCE_DATA_CATEGORY_GENDER_MALE",
+    "wasContact": false,
+    "outcomeId": "LNG_REFERENCE_DATA_CATEGORY_OUTCOME_DECEASED",
+    "safeBurial": false,
+    "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_CONFIRMED",
+    "transferRefused": false,
+    "questionnaireAnswers": {
+      "report_test_reason": [
+        {
+          "value": "surveillance"
+        }
+      ],
+      "Comcond_present": [
+        {
+          "value": "no"
+        }
+      ],
+      "would_you_like_to_complete_who_basic_case_questionnaire": [
+        {
+          "value": "no"
+        }
+      ]
+    },
+    "pregnancyStatus": "LNG_REFERENCE_DATA_CATEGORY_PREGNANCY_STATUS_NOT_PREGNANT",
+    "id": "bc57de7b-dfdf-4328-913c-26c872918dc6",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "visualId": "CASE-2020-0028",
+    "age": {
+      "years": 45
+    },
+    "occupation": "LNG_REFERENCE_DATA_CATEGORY_OCCUPATION_HEALTH_CARE_WORKER",
+    "addresses": [
+      {
+        "typeId": "LNG_REFERENCE_DATA_CATEGORY_ADDRESS_TYPE_USUAL_PLACE_OF_RESIDENCE",
+        "country": null,
+        "city": null,
+        "addressLine1": null,
+        "postalCode": null,
+        "locationId": "SN001014003000000000",
+        "geoLocationAccurate": false,
+        "date": "2020-06-12T00:00:00.000Z",
+        "phoneNumber": null,
+        "addressLine2": null,
+        "geoLocation": {
+          "lat": 80.465818,
+          "lng": 48.179017
+        }
+      }
+    ],
+    "dateOfReporting": "2020-08-04T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfLastContact": "2020-07-28T00:00:00.000Z",
+    "dateOfOnset": "2020-08-04T00:00:00.000Z",
+    "dateRanges": [
+      {
+        "typeId": "LNG_REFERENCE_DATA_CATEGORY_PERSON_DATE_TYPE_HOSPITALIZATION",
+        "centerName": null,
+        "locationId": null,
+        "comments": null,
+        "startDate": "2020-06-27T00:00:00.000Z",
+        "endDate": "2020-07-08T00:00:00.000Z"
+      }
+    ],
+    "classificationHistory": [
+      {
+        "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_CONFIRMED",
+        "startDate": "2020-06-08T00:00:00.000Z",
+        "endDate": null
+      }
+    ],
+    "dateOfOutcome": "2020-06-10T00:00:00.000Z",
+    "hasRelationships": true,
+    "relationshipsRepresentation": [
+      {
+        "id": "d102016d-82ff-4257-a304-5f1f1c5d8b55",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CASE",
+        "otherParticipantId": "211b76da-5248-446e-8bf7-2bb449c9b1cf",
+        "target": true
+      }
+    ],
+    "usualPlaceOfResidenceLocationId": "SN001014003000000000",
+    "createdAt": "2020-06-08T12:38:40.651Z",
+    "createdBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "updatedAt": "2020-07-30T17:33:48.325Z",
+    "updatedBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "Amy",
+    "wasContact": false,
+    "safeBurial": false,
+    "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_CONFIRMADO_POR_LABORATORIO",
+    "transferRefused": false,
+    "vaccinesReceived": [],
+    "id": "a79c831c-eb35-4dbb-9b34-ff5415d066c5",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "age": {
+      "years": 0,
+      "months": 0
+    },
+    "documents": [],
+    "addresses": [
+      {
+        "typeId": "LNG_REFERENCE_DATA_CATEGORY_ADDRESS_TYPE_USUAL_PLACE_OF_RESIDENCE",
+        "locationId": "SN001000000000000000",
+        "geoLocationAccurate": false,
+        "date": "2020-11-06T00:00:00.000Z",
+        "geoLocation": {
+          "lat": 80.4559801,
+          "lng": 50.1710003
+        }
+      }
+    ],
+    "dateOfReporting": "2020-11-06T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateRanges": [],
+    "classificationHistory": [
+      {
+        "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_CONFIRMADO_POR_LABORATORIO",
+        "startDate": "2020-11-06T21:58:03.252Z"
+      }
+    ],
+    "hasRelationships": false,
+    "usualPlaceOfResidenceLocationId": "SN001000000000000000",
+    "createdAt": "2020-11-06T21:58:03.252Z",
+    "createdBy": "a8bf9a36-a118-403d-b8fc-f192a8ae1b9f",
+    "updatedAt": "2020-11-06T21:58:03.252Z",
+    "updatedBy": "a8bf9a36-a118-403d-b8fc-f192a8ae1b9f",
+    "createdOn": "API",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "Amy",
+    "gender": "LNG_REFERENCE_DATA_CATEGORY_GENDER_FEMALE",
+    "wasContact": false,
+    "outcomeId": "LNG_REFERENCE_DATA_CATEGORY_OUTCOME_RECOVERED",
+    "safeBurial": false,
+    "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_CONFIRMED",
+    "transferRefused": false,
+    "questionnaireAnswers": {
+      "report_test_reason": [
+        {
+          "value": "surveillance"
+        }
+      ],
+      "Comcond_present": [
+        {
+          "value": "yes"
+        }
+      ],
+      "FA1_preexistingconditions_diabetes": [],
+      "FA1_preexistingconditions_chronickidneydisease": [],
+      "FA1_preexistingconditions_cancer": [],
+      "FA2_complications_cardiacfailure": [],
+      "FA1_preexistingconditions_chronicliverdisease": [],
+      "FA1_preexistingconditions_chroniclungdiseasenonasthma": []
+    },
+    "pregnancyStatus": "LNG_REFERENCE_DATA_CATEGORY_PREGNANCY_STATUS_NOT_PREGNANT",
+    "id": "ee334fea-ee55-499d-adf8-74e25cfa7a8b",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "visualId": "CASE-2020-0010",
+    "age": {
+      "years": 37
+    },
+    "occupation": "LNG_REFERENCE_DATA_CATEGORY_OCCUPATION_TEACHER",
+    "addresses": [
+      {
+        "3": {},
+        "typeId": "LNG_REFERENCE_DATA_CATEGORY_ADDRESS_TYPE_USUAL_PLACE_OF_RESIDENCE",
+        "locationId": "SN001011001000000000",
+        "geoLocationAccurate": false,
+        "geoLocation": {
+          "lat": 79.992611,
+          "lng": 51.151047
+        }
+      }
+    ],
+    "dateOfReporting": "2020-07-07T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfLastContact": "2020-06-05T00:00:00.000Z",
+    "dateOfOnset": "2020-07-04T00:00:00.000Z",
+    "dateRanges": [
+      {
+        "typeId": "LNG_REFERENCE_DATA_CATEGORY_PERSON_DATE_TYPE_HOSPITALIZATION",
+        "centerName": null,
+        "locationId": null,
+        "comments": null,
+        "startDate": "2020-05-28T00:00:00.000Z",
+        "endDate": "2020-06-05T00:00:00.000Z"
+      }
+    ],
+    "classificationHistory": [
+      {
+        "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_CONFIRMED",
+        "startDate": "2020-06-08T00:00:00.000Z",
+        "endDate": null
+      }
+    ],
+    "dateOfOutcome": "2020-05-11T00:00:00.000Z",
+    "hasRelationships": true,
+    "relationshipsRepresentation": [
+      {
+        "id": "38d8ce8d-7c36-4d2c-b1b0-90da21b9c5a9",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CONTACT",
+        "otherParticipantId": "2cf4928b-2899-45ad-9cc4-6663e5964aea",
+        "source": true
+      },
+      {
+        "id": "dc939b57-9265-4c9e-b952-21649ae7b9cf",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CONTACT",
+        "otherParticipantId": "2d19656d-cbcf-4595-8eed-895836638830",
+        "source": true
+      },
+      {
+        "id": "1322a8d8-c980-4a58-bc11-e0660df15684",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CONTACT",
+        "otherParticipantId": "dc43d898-c425-4767-a9db-7e571ff02973",
+        "source": true
+      },
+      {
+        "id": "2ba87b1c-4024-48db-87f5-76b5d1d6398a",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_EVENT",
+        "otherParticipantId": "e3e6ef96-0633-4f7b-980d-49b22576ae8c",
+        "target": true
+      }
+    ],
+    "usualPlaceOfResidenceLocationId": "SN001011001000000000",
+    "createdAt": "2020-06-08T12:38:42.727Z",
+    "createdBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "updatedAt": "2020-08-21T09:58:05.685Z",
+    "updatedBy": "adf6e5ca-77ac-4eaa-84fb-4be588c5d74a",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "Armand",
+    "wasContact": false,
+    "safeBurial": false,
+    "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_CONFIRMED",
+    "transferRefused": false,
+    "vaccinesReceived": [],
+    "id": "36fea3b9-0a96-4881-8036-e9eff8ab6ba9",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "age": {
+      "years": 0,
+      "months": 0
+    },
+    "documents": [],
+    "addresses": [
+      {
+        "typeId": "LNG_REFERENCE_DATA_CATEGORY_ADDRESS_TYPE_USUAL_PLACE_OF_RESIDENCE",
+        "locationId": "SN001014002000000000",
+        "geoLocationAccurate": false,
+        "date": "2020-11-11T00:00:00.000Z",
+        "geoLocation": {
+          "lat": 80.420333,
+          "lng": 49.422998
+        }
+      }
+    ],
+    "dateOfReporting": "2020-11-11T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfLastContact": "2020-11-15T00:00:00.000Z",
+    "dateRanges": [],
+    "classificationHistory": [
+      {
+        "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_CONFIRMED",
+        "startDate": "2020-11-11T15:04:34.342Z"
+      }
+    ],
+    "hasRelationships": true,
+    "relationshipsRepresentation": [
+      {
+        "id": "89e1f36e-cda9-41c3-b334-0e8ee23850f0",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CONTACT",
+        "otherParticipantId": "14784694-05f0-4651-a14f-13f5dfec4cbf",
+        "source": true
+      },
+      {
+        "id": "591e29e8-e168-4dad-bdc1-dca37f82ccfa",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CONTACT",
+        "otherParticipantId": "104cdefc-fa09-4d79-8fa1-bbccb6d7bb8b",
+        "source": true
+      }
+    ],
+    "usualPlaceOfResidenceLocationId": "SN001014002000000000",
+    "createdAt": "2020-11-11T15:04:34.342Z",
+    "createdBy": "c4e67744-34ef-4648-b345-00efb863ca4a",
+    "updatedAt": "2020-11-16T08:27:44.989Z",
+    "updatedBy": "0c82815e-26d7-44ed-a234-a84301b4cc2c",
+    "createdOn": "API",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "Armand",
+    "wasContact": false,
+    "safeBurial": false,
+    "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_CONFIRMED_ASYMPTOMATIC",
+    "transferRefused": false,
+    "vaccinesReceived": [],
+    "id": "d570c040-a35f-4e9c-bef2-770806219878",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "age": {
+      "years": 0,
+      "months": 0
+    },
+    "documents": [],
+    "addresses": [],
+    "dateOfReporting": "2020-10-13T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfLastContact": "2020-10-19T00:00:00.000Z",
+    "dateRanges": [],
+    "classificationHistory": [
+      {
+        "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_CONFIRMED_ASYMPTOMATIC",
+        "startDate": "2020-10-14T15:43:32.841Z"
+      }
+    ],
+    "hasRelationships": true,
+    "relationshipsRepresentation": [
+      {
+        "id": "695bf95f-cc9e-4783-8f63-836221166c6c",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_EVENT",
+        "otherParticipantId": "2f99f4f2-06ad-4ac6-b352-ae7d87b77281",
+        "target": true
+      }
+    ],
+    "usualPlaceOfResidenceLocationId": null,
+    "createdAt": "2020-10-14T15:43:32.842Z",
+    "createdBy": "0c82815e-26d7-44ed-a234-a84301b4cc2c",
+    "updatedAt": "2020-10-19T21:10:08.403Z",
+    "updatedBy": "eff67980-d2c0-4a9d-bd08-f20dad487635",
+    "createdOn": "API",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "Armand",
+    "wasContact": false,
+    "safeBurial": false,
+    "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_CONFIRMADO_POR_CRITERIO_EPIDEMIOLOGICO",
+    "transferRefused": false,
+    "vaccinesReceived": [],
+    "id": "386dda63-426f-479e-b071-36fb1ed6e9c4",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "age": {
+      "years": 0,
+      "months": 0
+    },
+    "documents": [],
+    "addresses": [],
+    "dateOfReporting": "2020-11-17T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateRanges": [],
+    "classificationHistory": [
+      {
+        "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_CONFIRMADO_POR_CRITERIO_EPIDEMIOLOGICO",
+        "startDate": "2020-11-18T12:18:13.442Z"
+      }
+    ],
+    "hasRelationships": false,
+    "usualPlaceOfResidenceLocationId": null,
+    "createdAt": "2020-11-18T12:18:13.442Z",
+    "createdBy": "0c82815e-26d7-44ed-a234-a84301b4cc2c",
+    "updatedAt": "2020-11-18T12:18:13.442Z",
+    "updatedBy": "0c82815e-26d7-44ed-a234-a84301b4cc2c",
+    "createdOn": "API",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "Armand",
+    "wasContact": false,
+    "safeBurial": false,
+    "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_CONFIRMADO_POR_LABORATORIO",
+    "transferRefused": false,
+    "vaccinesReceived": [],
+    "id": "8465a143-0af4-4c4a-a1aa-20ce190b7a8d",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "visualId": "12345ABC-27",
+    "age": {
+      "years": 0,
+      "months": 0
+    },
+    "documents": [],
+    "addresses": [
+      {
+        "typeId": "LNG_REFERENCE_DATA_CATEGORY_ADDRESS_TYPE_USUAL_PLACE_OF_RESIDENCE",
+        "locationId": "531b5bf5-fd40-4093-8aed-d94b4711b595",
+        "geoLocationAccurate": false,
+        "date": "2020-11-16T00:00:00.000Z"
+      }
+    ],
+    "dateOfReporting": "2020-11-16T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfLastContact": "2020-11-01T00:00:00.000Z",
+    "dateRanges": [],
+    "classificationHistory": [
+      {
+        "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_CONFIRMADO_POR_LABORATORIO",
+        "startDate": "2020-11-16T08:24:11.233Z"
+      }
+    ],
+    "hasRelationships": true,
+    "relationshipsRepresentation": [
+      {
+        "id": "79564924-5107-421e-9b0c-a2a237f2df96",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CASE",
+        "otherParticipantId": "211b76da-5248-446e-8bf7-2bb449c9b1cf",
+        "source": true
+      },
+      {
+        "id": "eef7349c-e29a-45e9-87da-44090dfa44cc",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CASE",
+        "otherParticipantId": "b89c50d9-37f3-4c89-9140-213fa752cdf2",
+        "source": true
+      },
+      {
+        "id": "50d26b6d-ed98-4159-9f73-c5e015baec63",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CASE",
+        "otherParticipantId": "6b054481-e8ea-46a7-bce0-9afcbc70f66c",
+        "source": true
+      },
+      {
+        "id": "731016bf-3254-410c-9b73-70aae971628c",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CASE",
+        "otherParticipantId": "b89c50d9-37f3-4c89-9140-213fa752cdf2",
+        "source": true
+      },
+      {
+        "id": "3282ec47-c7ae-483d-a0cf-51dd6b2db8db",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CASE",
+        "otherParticipantId": "211b76da-5248-446e-8bf7-2bb449c9b1cf",
+        "source": true
+      },
+      {
+        "id": "a4df4b79-b861-4530-9f89-a9dac40dfa7b",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CASE",
+        "otherParticipantId": "6b054481-e8ea-46a7-bce0-9afcbc70f66c",
+        "source": true
+      }
+    ],
+    "usualPlaceOfResidenceLocationId": "531b5bf5-fd40-4093-8aed-d94b4711b595",
+    "createdAt": "2020-11-16T08:24:11.233Z",
+    "createdBy": "0c82815e-26d7-44ed-a234-a84301b4cc2c",
+    "updatedAt": "2020-11-16T09:00:09.597Z",
+    "updatedBy": "0c82815e-26d7-44ed-a234-a84301b4cc2c",
+    "createdOn": "API",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "Assane",
+    "gender": "LNG_REFERENCE_DATA_CATEGORY_GENDER_MALE",
+    "wasContact": false,
+    "outcomeId": "LNG_REFERENCE_DATA_CATEGORY_OUTCOME_DECEASED",
+    "safeBurial": false,
+    "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_PROBABLE",
+    "transferRefused": false,
+    "questionnaireAnswers": {
+      "report_test_reason": [
+        {
+          "value": "case_contact"
+        }
+      ],
+      "Comcond_present": [
+        {
+          "value": "no"
+        }
+      ],
+      "FA1_preexistingconditions_diabetes": [],
+      "FA1_preexistingconditions_chronickidneydisease": [],
+      "FA1_preexistingconditions_cancer": [],
+      "FA2_complications_cardiacfailure": [],
+      "FA1_preexistingconditions_chronicliverdisease": [],
+      "FA1_preexistingconditions_chroniclungdiseasenonasthma": []
+    },
+    "pregnancyStatus": "LNG_REFERENCE_DATA_CATEGORY_PREGNANCY_STATUS_NOT_PREGNANT",
+    "id": "2387c42d-1367-41f5-a64e-9843f360aa20",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "visualId": "CASE-2020-0018",
+    "age": {
+      "years": 25
+    },
+    "occupation": "LNG_REFERENCE_DATA_CATEGORY_OCCUPATION_STUDENT",
+    "addresses": [
+      {
+        "3": {},
+        "typeId": "LNG_REFERENCE_DATA_CATEGORY_ADDRESS_TYPE_USUAL_PLACE_OF_RESIDENCE",
+        "locationId": "SN001011001000000000",
+        "geoLocationAccurate": false,
+        "geoLocation": {
+          "lat": 79.992611,
+          "lng": 51.151047
+        }
+      }
+    ],
+    "dateOfReporting": "2020-07-13T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfLastContact": "2020-06-17T00:00:00.000Z",
+    "dateOfOnset": "2020-07-13T00:00:00.000Z",
+    "dateRanges": [
+      {
+        "typeId": "LNG_REFERENCE_DATA_CATEGORY_PERSON_DATE_TYPE_HOSPITALIZATION",
+        "centerName": null,
+        "locationId": null,
+        "comments": null,
+        "startDate": "2020-06-08T00:00:00.000Z",
+        "endDate": "2020-06-17T00:00:00.000Z"
+      }
+    ],
+    "classificationHistory": [
+      {
+        "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_PROBABLE",
+        "startDate": "2020-06-08T00:00:00.000Z",
+        "endDate": null
+      }
+    ],
+    "dateOfOutcome": "2020-05-27T00:00:00.000Z",
+    "hasRelationships": true,
+    "relationshipsRepresentation": [
+      {
+        "id": "8bc5d1c3-a3b7-44ff-81e6-a2a3721b4071",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CONTACT",
+        "otherParticipantId": "0c63a125-8474-439b-af1c-4d12d8b9c6b3",
+        "source": true
+      },
+      {
+        "id": "42e8d11d-4c34-4fee-9705-22c2dd845f00",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CONTACT",
+        "otherParticipantId": "d7cf1ed1-13c1-4182-83c2-9d0d9c2aec34",
+        "source": true
+      },
+      {
+        "id": "df3b3d43-93fc-4ecd-bec8-5dcdfe0e55db",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CONTACT",
+        "otherParticipantId": "df7c2135-0421-4c94-b416-a6f013a14e9d",
+        "source": true
+      },
+      {
+        "id": "3a5b8a42-f5b2-4ef7-8f7d-f77010c8fd49",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CONTACT",
+        "otherParticipantId": "eb117636-cf81-4494-a52b-059f00594369",
+        "source": true
+      },
+      {
+        "id": "62a00334-ce6e-4af1-96fc-3b39b50579db",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_EVENT",
+        "otherParticipantId": "8fd215fd-84d5-47bc-881f-0a9cb3939c15",
+        "target": true
+      }
+    ],
+    "usualPlaceOfResidenceLocationId": "SN001011001000000000",
+    "createdAt": "2020-06-08T12:38:44.891Z",
+    "createdBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "updatedAt": "2020-07-30T17:33:39.459Z",
+    "updatedBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "Awa",
+    "gender": "LNG_REFERENCE_DATA_CATEGORY_GENDER_FEMALE",
+    "wasContact": false,
+    "outcomeId": "LNG_REFERENCE_DATA_CATEGORY_OUTCOME_ALIVE",
+    "safeBurial": false,
+    "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_CONFIRMED",
+    "transferRefused": false,
+    "questionnaireAnswers": {
+      "report_test_reason": [
+        {
+          "value": "seeking_hc"
+        }
+      ],
+      "Comcond_present": [
+        {
+          "value": "no"
+        }
+      ],
+      "FA1_preexistingconditions_diabetes": [],
+      "FA1_preexistingconditions_chronickidneydisease": [],
+      "FA1_preexistingconditions_cancer": [],
+      "FA2_complications_cardiacfailure": [],
+      "FA1_preexistingconditions_chronicliverdisease": [],
+      "FA1_preexistingconditions_chroniclungdiseasenonasthma": []
+    },
+    "pregnancyStatus": "LNG_REFERENCE_DATA_CATEGORY_PREGNANCY_STATUS_NOT_PREGNANT",
+    "id": "7171460e-a821-4625-8003-fc13356aea65",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "visualId": "CASE-2020-0038",
+    "age": {
+      "years": 57
+    },
+    "occupation": "LNG_REFERENCE_DATA_CATEGORY_OCCUPATION_OTHER",
+    "addresses": [
+      {
+        "3": {},
+        "typeId": "LNG_REFERENCE_DATA_CATEGORY_ADDRESS_TYPE_USUAL_PLACE_OF_RESIDENCE",
+        "locationId": "SN001011010000000000",
+        "geoLocationAccurate": false,
+        "geoLocation": {
+          "lat": 79.96506,
+          "lng": 50.221539
+        }
+      }
+    ],
+    "dateOfReporting": "2020-07-14T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfOnset": "2020-07-12T00:00:00.000Z",
+    "dateRanges": [
+      {
+        "typeId": "LNG_REFERENCE_DATA_CATEGORY_PERSON_DATE_TYPE_HOSPITALIZATION",
+        "centerName": null,
+        "locationId": null,
+        "comments": null,
+        "startDate": "2020-06-05T00:00:00.000Z",
+        "endDate": "2020-06-07T00:00:00.000Z"
+      }
+    ],
+    "classificationHistory": [
+      {
+        "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_CONFIRMED",
+        "startDate": "2020-06-08T00:00:00.000Z",
+        "endDate": null
+      }
+    ],
+    "dateOfOutcome": "2020-04-12T00:00:00.000Z",
+    "hasRelationships": false,
+    "relationshipsRepresentation": [],
+    "usualPlaceOfResidenceLocationId": "SN001011010000000000",
+    "createdAt": "2020-06-08T12:38:49.686Z",
+    "createdBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "updatedAt": "2020-07-30T17:32:55.343Z",
+    "updatedBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "Bassirou",
+    "gender": "LNG_REFERENCE_DATA_CATEGORY_GENDER_MALE",
+    "wasContact": false,
+    "outcomeId": "LNG_REFERENCE_DATA_CATEGORY_OUTCOME_RECOVERED",
+    "safeBurial": false,
+    "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_CONFIRMED",
+    "transferRefused": false,
+    "questionnaireAnswers": {
+      "report_test_reason": [
+        {
+          "value": "surveillance"
+        }
+      ],
+      "Comcond_present": [
+        {
+          "value": "no"
+        }
+      ],
+      "would_you_like_to_complete_who_basic_case_questionnaire": [
+        {
+          "value": "no"
+        }
+      ]
+    },
+    "pregnancyStatus": "LNG_REFERENCE_DATA_CATEGORY_PREGNANCY_STATUS_NOT_PREGNANT",
+    "id": "46c421bb-5d3b-4e0a-a404-52a9dfe9a0e7",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "visualId": "CASE-2020-0007",
+    "age": {
+      "years": 75
+    },
+    "occupation": "LNG_REFERENCE_DATA_CATEGORY_OCCUPATION_OTHER",
+    "addresses": [
+      {
+        "typeId": "LNG_REFERENCE_DATA_CATEGORY_ADDRESS_TYPE_USUAL_PLACE_OF_RESIDENCE",
+        "country": null,
+        "city": null,
+        "addressLine1": null,
+        "postalCode": null,
+        "locationId": "SN001014002000000000",
+        "geoLocationAccurate": false,
+        "date": "2020-06-12T00:00:00.000Z",
+        "phoneNumber": null,
+        "addressLine2": null,
+        "geoLocation": {
+          "lat": 80.420333,
+          "lng": 49.422998
+        }
+      }
+    ],
+    "dateOfReporting": "2020-07-05T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfLastContact": "2020-07-19T00:00:00.000Z",
+    "dateOfOnset": "2020-06-29T00:00:00.000Z",
+    "dateRanges": [
+      {
+        "typeId": "LNG_REFERENCE_DATA_CATEGORY_PERSON_DATE_TYPE_HOSPITALIZATION",
+        "centerName": null,
+        "locationId": null,
+        "comments": null,
+        "startDate": "2020-05-25T00:00:00.000Z",
+        "endDate": "2020-06-03T00:00:00.000Z"
+      }
+    ],
+    "classificationHistory": [
+      {
+        "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_CONFIRMED",
+        "startDate": "2020-06-08T00:00:00.000Z",
+        "endDate": null
+      }
+    ],
+    "dateOfOutcome": "2020-05-09T00:00:00.000Z",
+    "hasRelationships": false,
+    "relationshipsRepresentation": [],
+    "usualPlaceOfResidenceLocationId": "SN001014002000000000",
+    "createdAt": "2020-06-08T12:38:51.696Z",
+    "createdBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "updatedAt": "2020-08-20T14:58:14.054Z",
+    "updatedBy": "adf6e5ca-77ac-4eaa-84fb-4be588c5d74a",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "Bineta",
+    "gender": "LNG_REFERENCE_DATA_CATEGORY_GENDER_FEMALE",
+    "wasContact": false,
+    "outcomeId": "LNG_REFERENCE_DATA_CATEGORY_OUTCOME_RECOVERED",
+    "safeBurial": false,
+    "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_CONFIRMED",
+    "transferRefused": false,
+    "questionnaireAnswers": {
+      "report_test_reason": [
+        {
+          "value": "case_contact"
+        }
+      ],
+      "Comcond_present": [
+        {
+          "value": "no"
+        }
+      ],
+      "FA1_preexistingconditions_diabetes": [],
+      "FA1_preexistingconditions_chronickidneydisease": [],
+      "FA1_preexistingconditions_cancer": [],
+      "FA2_complications_cardiacfailure": [],
+      "FA1_preexistingconditions_chronicliverdisease": [],
+      "FA1_preexistingconditions_chroniclungdiseasenonasthma": []
+    },
+    "pregnancyStatus": "LNG_REFERENCE_DATA_CATEGORY_PREGNANCY_STATUS_NOT_PREGNANT",
+    "id": "211b76da-5248-446e-8bf7-2bb449c9b1cf",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "visualId": "CASE-2020-0023",
+    "age": {
+      "years": 43
+    },
+    "occupation": "LNG_REFERENCE_DATA_CATEGORY_OCCUPATION_HEALTH_CARE_WORKER",
+    "addresses": [
+      {
+        "3": {},
+        "typeId": "LNG_REFERENCE_DATA_CATEGORY_ADDRESS_TYPE_USUAL_PLACE_OF_RESIDENCE",
+        "locationId": "SN001014002000000000",
+        "geoLocationAccurate": false,
+        "geoLocation": {
+          "lat": 80.420333,
+          "lng": 49.422998
+        }
+      }
+    ],
+    "dateOfReporting": "2020-07-24T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfLastContact": "2020-11-01T00:00:00.000Z",
+    "dateOfOnset": "2020-07-24T00:00:00.000Z",
+    "dateRanges": [
+      {
+        "typeId": "LNG_REFERENCE_DATA_CATEGORY_PERSON_DATE_TYPE_HOSPITALIZATION",
+        "centerName": null,
+        "locationId": null,
+        "comments": null,
+        "startDate": "2020-06-16T00:00:00.000Z",
+        "endDate": "2020-06-22T00:00:00.000Z"
+      }
+    ],
+    "classificationHistory": [
+      {
+        "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_CONFIRMED",
+        "startDate": "2020-06-08T00:00:00.000Z",
+        "endDate": null
+      }
+    ],
+    "dateOfOutcome": "2020-05-30T00:00:00.000Z",
+    "hasRelationships": true,
+    "relationshipsRepresentation": [
+      {
+        "id": "3daf3dc7-c31e-426e-b519-1914dcccfecd",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CASE",
+        "otherParticipantId": "c46b7b3f-121d-4cf8-aff5-34750cc3442b",
+        "target": true
+      },
+      {
+        "id": "d102016d-82ff-4257-a304-5f1f1c5d8b55",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CASE",
+        "otherParticipantId": "bc57de7b-dfdf-4328-913c-26c872918dc6",
+        "source": true
+      },
+      {
+        "id": "82ce20f5-41f4-4a73-ac76-646569a75100",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CASE",
+        "otherParticipantId": "d2cb1848-cd7e-4083-a2d5-df5a865559ad",
+        "source": true
+      },
+      {
+        "id": "4dfe8192-cd07-45fc-9db7-ff9c8ba70ef5",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CASE",
+        "otherParticipantId": "24e08a03-fa7c-4a44-aba6-f3c6f4cf8487",
+        "source": true
+      },
+      {
+        "id": "c759ec5b-5c1d-4ee0-8218-c913fe26cb4e",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CASE",
+        "otherParticipantId": "8cfa8a11-d84c-4ad9-9d06-7fde0fff2e74",
+        "source": true
+      },
+      {
+        "id": "74ffdb2d-0a42-4790-b158-999955884103",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CASE",
+        "otherParticipantId": "e2d87af7-fde2-4ea6-a2be-9dc0cc03c2cd",
+        "source": true
+      },
+      {
+        "id": "79564924-5107-421e-9b0c-a2a237f2df96",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CASE",
+        "otherParticipantId": "8465a143-0af4-4c4a-a1aa-20ce190b7a8d",
+        "target": true
+      },
+      {
+        "id": "3282ec47-c7ae-483d-a0cf-51dd6b2db8db",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CASE",
+        "otherParticipantId": "8465a143-0af4-4c4a-a1aa-20ce190b7a8d",
+        "target": true
+      }
+    ],
+    "usualPlaceOfResidenceLocationId": "SN001014002000000000",
+    "createdAt": "2020-06-08T12:38:54.227Z",
+    "createdBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "updatedAt": "2020-11-16T09:00:09.597Z",
+    "updatedBy": "0c82815e-26d7-44ed-a234-a84301b4cc2c",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "Boubacar",
+    "gender": "LNG_REFERENCE_DATA_CATEGORY_GENDER_MALE",
+    "isDateOfOnsetApproximate": true,
+    "wasContact": false,
+    "outcomeId": "LNG_REFERENCE_DATA_CATEGORY_OUTCOME_ALIVE",
+    "safeBurial": false,
+    "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_CONFIRMED",
+    "transferRefused": true,
+    "questionnaireAnswers": {
+      "report_test_reason": [
+        {
+          "value": "case_contact"
+        }
+      ],
+      "Comcond_present": [
+        {
+          "value": "no"
+        }
+      ],
+      "would_you_like_to_complete_who_basic_case_questionnaire": [
+        {
+          "value": "no"
+        }
+      ]
+    },
+    "pregnancyStatus": "LNG_REFERENCE_DATA_CATEGORY_PREGNANCY_STATUS_NOT_PREGNANT",
+    "id": "6b054481-e8ea-46a7-bce0-9afcbc70f66c",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "visualId": "CASE-2020-0021",
+    "age": {
+      "years": 46
+    },
+    "occupation": "LNG_REFERENCE_DATA_CATEGORY_OCCUPATION_WORKING_WITH_ANIMALS",
+    "addresses": [
+      {
+        "3": {},
+        "typeId": "LNG_REFERENCE_DATA_CATEGORY_ADDRESS_TYPE_USUAL_PLACE_OF_RESIDENCE",
+        "locationId": "SN001014003000000000",
+        "geoLocationAccurate": false,
+        "geoLocation": {
+          "lat": 80.493903,
+          "lng": 48.254891
+        }
+      }
+    ],
+    "dateOfReporting": "2020-07-24T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfLastContact": "2020-11-01T00:00:00.000Z",
+    "dateOfOnset": "2020-07-24T00:00:00.000Z",
+    "dateRanges": [
+      {
+        "typeId": "LNG_REFERENCE_DATA_CATEGORY_PERSON_DATE_TYPE_HOSPITALIZATION",
+        "centerName": null,
+        "locationId": null,
+        "comments": null,
+        "startDate": "2020-06-17T00:00:00.000Z",
+        "endDate": "2020-06-20T00:00:00.000Z"
+      }
+    ],
+    "classificationHistory": [
+      {
+        "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_CONFIRMED",
+        "startDate": "2020-06-08T00:00:00.000Z",
+        "endDate": null
+      }
+    ],
+    "dateOfOutcome": "2020-05-31T00:00:00.000Z",
+    "hasRelationships": true,
+    "relationshipsRepresentation": [
+      {
+        "id": "111577e4-c40a-49c2-9cb1-ab9d71ec32e1",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CASE",
+        "otherParticipantId": "c46b7b3f-121d-4cf8-aff5-34750cc3442b",
+        "target": true
+      },
+      {
+        "id": "50d26b6d-ed98-4159-9f73-c5e015baec63",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CASE",
+        "otherParticipantId": "8465a143-0af4-4c4a-a1aa-20ce190b7a8d",
+        "target": true
+      },
+      {
+        "id": "a4df4b79-b861-4530-9f89-a9dac40dfa7b",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CASE",
+        "otherParticipantId": "8465a143-0af4-4c4a-a1aa-20ce190b7a8d",
+        "target": true
+      }
+    ],
+    "usualPlaceOfResidenceLocationId": "SN001014003000000000",
+    "createdAt": "2020-06-08T12:38:56.425Z",
+    "createdBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "updatedAt": "2020-11-16T09:00:09.597Z",
+    "updatedBy": "0c82815e-26d7-44ed-a234-a84301b4cc2c",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "Demba",
+    "gender": "LNG_REFERENCE_DATA_CATEGORY_GENDER_MALE",
+    "wasContact": false,
+    "outcomeId": "LNG_REFERENCE_DATA_CATEGORY_OUTCOME_RECOVERED",
+    "safeBurial": false,
+    "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_PROBABLE",
+    "transferRefused": false,
+    "questionnaireAnswers": {
+      "report_test_reason": [
+        {
+          "value": "seeking_hc"
+        }
+      ],
+      "Comcond_present": [
+        {
+          "value": "no"
+        }
+      ],
+      "FA1_preexistingconditions_diabetes": [],
+      "FA1_preexistingconditions_chronickidneydisease": [],
+      "FA1_preexistingconditions_cancer": [],
+      "FA2_complications_cardiacfailure": [],
+      "FA1_preexistingconditions_chronicliverdisease": [],
+      "FA1_preexistingconditions_chroniclungdiseasenonasthma": []
+    },
+    "pregnancyStatus": "LNG_REFERENCE_DATA_CATEGORY_PREGNANCY_STATUS_NOT_PREGNANT",
+    "id": "ca113d0c-8191-44cf-9cfa-1cff8e890a52",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "visualId": "CASE-2020-0020",
+    "age": {
+      "years": 43
+    },
+    "occupation": "LNG_REFERENCE_DATA_CATEGORY_OCCUPATION_HEALTH_CARE_WORKER",
+    "addresses": [
+      {
+        "3": {},
+        "typeId": "LNG_REFERENCE_DATA_CATEGORY_ADDRESS_TYPE_USUAL_PLACE_OF_RESIDENCE",
+        "locationId": "SN001014002000000000",
+        "geoLocationAccurate": false,
+        "geoLocation": {
+          "lat": 80.420333,
+          "lng": 49.422998
+        }
+      }
+    ],
+    "dateOfReporting": "2020-07-16T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfLastContact": "2020-07-26T00:00:00.000Z",
+    "dateOfOnset": "2020-07-16T00:00:00.000Z",
+    "dateRanges": [
+      {
+        "typeId": "LNG_REFERENCE_DATA_CATEGORY_PERSON_DATE_TYPE_HOSPITALIZATION",
+        "centerName": null,
+        "locationId": null,
+        "comments": null,
+        "startDate": "2020-06-11T00:00:00.000Z",
+        "endDate": "2020-06-24T00:00:00.000Z"
+      }
+    ],
+    "classificationHistory": [
+      {
+        "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_PROBABLE",
+        "startDate": "2020-06-08T00:00:00.000Z",
+        "endDate": null
+      }
+    ],
+    "dateOfOutcome": "2020-05-19T00:00:00.000Z",
+    "hasRelationships": false,
+    "relationshipsRepresentation": [],
+    "usualPlaceOfResidenceLocationId": "SN001014002000000000",
+    "createdAt": "2020-06-08T12:39:00.351Z",
+    "createdBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "updatedAt": "2020-08-20T14:58:51.660Z",
+    "updatedBy": "adf6e5ca-77ac-4eaa-84fb-4be588c5d74a",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "Edouard",
+    "gender": "LNG_REFERENCE_DATA_CATEGORY_GENDER_MALE",
+    "wasContact": false,
+    "outcomeId": "LNG_REFERENCE_DATA_CATEGORY_OUTCOME_RECOVERED",
+    "safeBurial": false,
+    "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_CONFIRMED",
+    "transferRefused": false,
+    "questionnaireAnswers": {
+      "report_test_reason": [
+        {
+          "value": "surveillance"
+        }
+      ],
+      "Comcond_present": [
+        {
+          "value": "no"
+        }
+      ],
+      "would_you_like_to_complete_who_basic_case_questionnaire": [
+        {
+          "value": "no"
+        }
+      ]
+    },
+    "pregnancyStatus": "LNG_REFERENCE_DATA_CATEGORY_PREGNANCY_STATUS_NOT_PREGNANT",
+    "id": "d2cb1848-cd7e-4083-a2d5-df5a865559ad",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "visualId": "CASE-2020-0027",
+    "age": {
+      "years": 38
+    },
+    "occupation": "LNG_REFERENCE_DATA_CATEGORY_OCCUPATION_OTHER",
+    "addresses": [
+      {
+        "typeId": "LNG_REFERENCE_DATA_CATEGORY_ADDRESS_TYPE_USUAL_PLACE_OF_RESIDENCE",
+        "country": null,
+        "city": null,
+        "addressLine1": null,
+        "postalCode": null,
+        "locationId": "SN001014003000000000",
+        "geoLocationAccurate": false,
+        "date": "2020-06-12T00:00:00.000Z",
+        "phoneNumber": null,
+        "addressLine2": null,
+        "geoLocation": {
+          "lat": 80.505567,
+          "lng": 48.32307
+        }
+      }
+    ],
+    "dateOfReporting": "2020-08-03T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfLastContact": "2020-07-28T00:00:00.000Z",
+    "dateOfOnset": "2020-08-03T00:00:00.000Z",
+    "dateRanges": [
+      {
+        "typeId": "LNG_REFERENCE_DATA_CATEGORY_PERSON_DATE_TYPE_HOSPITALIZATION",
+        "centerName": null,
+        "locationId": null,
+        "comments": null,
+        "startDate": "2020-06-26T00:00:00.000Z",
+        "endDate": "2020-06-30T00:00:00.000Z"
+      }
+    ],
+    "classificationHistory": [
+      {
+        "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_CONFIRMED",
+        "startDate": "2020-06-08T00:00:00.000Z",
+        "endDate": null
+      }
+    ],
+    "dateOfOutcome": "2020-06-10T00:00:00.000Z",
+    "hasRelationships": true,
+    "relationshipsRepresentation": [
+      {
+        "id": "82ce20f5-41f4-4a73-ac76-646569a75100",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CASE",
+        "otherParticipantId": "211b76da-5248-446e-8bf7-2bb449c9b1cf",
+        "target": true
+      }
+    ],
+    "usualPlaceOfResidenceLocationId": "SN001014003000000000",
+    "createdAt": "2020-06-08T12:39:05.400Z",
+    "createdBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "updatedAt": "2020-07-30T17:33:50.871Z",
+    "updatedBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "Fatima",
+    "gender": "LNG_REFERENCE_DATA_CATEGORY_GENDER_FEMALE",
+    "wasContact": false,
+    "outcomeId": "LNG_REFERENCE_DATA_CATEGORY_OUTCOME_RECOVERED",
+    "safeBurial": false,
+    "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_CONFIRMED",
+    "transferRefused": false,
+    "questionnaireAnswers": {
+      "report_test_reason": [
+        {
+          "value": "seeking_hc"
+        }
+      ],
+      "Comcond_present": [
+        {
+          "value": "no"
+        }
+      ],
+      "FA1_preexistingconditions_diabetes": [],
+      "FA1_preexistingconditions_chronickidneydisease": [],
+      "FA1_preexistingconditions_cancer": [],
+      "FA2_complications_cardiacfailure": [],
+      "FA1_preexistingconditions_chronicliverdisease": [],
+      "FA1_preexistingconditions_chroniclungdiseasenonasthma": []
+    },
+    "pregnancyStatus": "LNG_REFERENCE_DATA_CATEGORY_PREGNANCY_STATUS_YES_SECOND_TRIMESTER",
+    "id": "714ee0a4-6050-4bb1-9046-382020dd498f",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "visualId": "CASE-2020-0015",
+    "age": {
+      "years": 38
+    },
+    "occupation": "LNG_REFERENCE_DATA_CATEGORY_OCCUPATION_WORKING_WITH_ANIMALS",
+    "addresses": [
+      {
+        "3": {},
+        "typeId": "LNG_REFERENCE_DATA_CATEGORY_ADDRESS_TYPE_USUAL_PLACE_OF_RESIDENCE",
+        "locationId": "SN001023001000000000",
+        "geoLocationAccurate": false,
+        "geoLocation": {
+          "lat": 80.092831,
+          "lng": 49.979653
+        }
+      }
+    ],
+    "dateOfReporting": "2020-07-14T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfLastContact": "2020-06-16T00:00:00.000Z",
+    "dateOfOnset": "2020-07-15T00:00:00.000Z",
+    "dateRanges": [
+      {
+        "typeId": "LNG_REFERENCE_DATA_CATEGORY_PERSON_DATE_TYPE_HOSPITALIZATION",
+        "centerName": null,
+        "locationId": null,
+        "comments": null,
+        "startDate": "2020-06-09T00:00:00.000Z",
+        "endDate": "2020-06-22T00:00:00.000Z"
+      }
+    ],
+    "classificationHistory": [
+      {
+        "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_CONFIRMED",
+        "startDate": "2020-06-08T00:00:00.000Z",
+        "endDate": null
+      }
+    ],
+    "dateOfOutcome": "2020-05-22T00:00:00.000Z",
+    "hasRelationships": true,
+    "relationshipsRepresentation": [
+      {
+        "id": "4b1b63d4-a81c-4313-9aaf-d04624d00549",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_EVENT",
+        "otherParticipantId": "8fd215fd-84d5-47bc-881f-0a9cb3939c15",
+        "target": true
+      }
+    ],
+    "usualPlaceOfResidenceLocationId": "SN001023001000000000",
+    "createdAt": "2020-06-08T12:39:09.733Z",
+    "createdBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "updatedAt": "2020-07-30T17:33:51.736Z",
+    "updatedBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "Fatou",
+    "gender": "LNG_REFERENCE_DATA_CATEGORY_GENDER_FEMALE",
+    "wasContact": false,
+    "outcomeId": "LNG_REFERENCE_DATA_CATEGORY_OUTCOME_ALIVE",
+    "safeBurial": false,
+    "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_PROBABLE",
+    "transferRefused": false,
+    "questionnaireAnswers": {
+      "report_test_reason": [
+        {
+          "value": "case_contact"
+        }
+      ],
+      "Comcond_present": [
+        {
+          "value": "no"
+        }
+      ],
+      "FA1_preexistingconditions_diabetes": [],
+      "FA1_preexistingconditions_chronickidneydisease": [],
+      "FA1_preexistingconditions_cancer": [],
+      "FA2_complications_cardiacfailure": [],
+      "FA1_preexistingconditions_chronicliverdisease": [],
+      "FA1_preexistingconditions_chroniclungdiseasenonasthma": []
+    },
+    "pregnancyStatus": "LNG_REFERENCE_DATA_CATEGORY_PREGNANCY_STATUS_YES_FIRST_TRIMESTER",
+    "id": "fc706f84-3a52-4619-9975-87b965381d58",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "visualId": "CASE-2020-0035",
+    "age": {
+      "years": 35
+    },
+    "occupation": "LNG_REFERENCE_DATA_CATEGORY_OCCUPATION_HEALTH_CARE_WORKER",
+    "addresses": [
+      {
+        "3": {},
+        "typeId": "LNG_REFERENCE_DATA_CATEGORY_ADDRESS_TYPE_USUAL_PLACE_OF_RESIDENCE",
+        "locationId": "SN001011008000000000",
+        "geoLocationAccurate": false,
+        "geoLocation": {
+          "lat": 80.036419,
+          "lng": 51.152152
+        }
+      }
+    ],
+    "dateOfReporting": "2020-07-14T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfOnset": "2020-07-11T00:00:00.000Z",
+    "dateRanges": [
+      {
+        "typeId": "LNG_REFERENCE_DATA_CATEGORY_PERSON_DATE_TYPE_HOSPITALIZATION",
+        "centerName": null,
+        "locationId": null,
+        "comments": null,
+        "startDate": "2020-06-03T00:00:00.000Z",
+        "endDate": "2020-06-12T00:00:00.000Z"
+      }
+    ],
+    "classificationHistory": [
+      {
+        "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_PROBABLE",
+        "startDate": "2020-06-08T00:00:00.000Z",
+        "endDate": null
+      }
+    ],
+    "dateOfOutcome": "2020-04-12T00:00:00.000Z",
+    "hasRelationships": false,
+    "relationshipsRepresentation": [],
+    "usualPlaceOfResidenceLocationId": "SN001011008000000000",
+    "createdAt": "2020-06-08T12:39:14.515Z",
+    "createdBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "updatedAt": "2020-07-30T17:33:00.101Z",
+    "updatedBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "Giovanna ",
+    "wasContact": false,
+    "outcomeId": "LNG_REFERENCE_DATA_CATEGORY_OUTCOME_RECOVERED",
+    "safeBurial": false,
+    "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_CONFIRMED_ASYMPTOMATIC",
+    "transferRefused": false,
+    "questionnaireAnswers": {
+      "would_you_like_to_complete_who_basic_case_questionnaire": [
+        {
+          "value": "yes"
+        }
+      ],
+      "report_test_reason": [
+        {
+          "value": "poe_detection"
+        }
+      ],
+      "Comcond_present": [
+        {
+          "value": "yes"
+        }
+      ],
+      "patinfo_occuhcw": [
+        {
+          "value": "no"
+        }
+      ],
+      "expo_travel": [
+        {
+          "value": "yes"
+        }
+      ],
+      "Comcond_select": [
+        {
+          "value": [
+            "Comcond_cardi"
+          ]
+        }
+      ]
+    },
+    "vaccinesReceived": [],
+    "id": "23449e30-522d-4948-bb6b-76b4a25881de",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "age": {
+      "years": 0,
+      "months": 0
+    },
+    "documents": [
+      {
+        "type": "LNG_REFERENCE_DATA_CATEGORY_DOCUMENT_TYPE_NATIONAL_ID_CARD",
+        "number": "1234567"
+      }
+    ],
+    "addresses": [
+      {
+        "typeId": "LNG_REFERENCE_DATA_CATEGORY_ADDRESS_TYPE_USUAL_PLACE_OF_RESIDENCE",
+        "locationId": "531b5bf5-fd40-4093-8aed-d94b4711b595",
+        "geoLocationAccurate": false,
+        "date": "2020-08-20T00:00:00.000Z",
+        "geoLocation": {
+          "lat": 80.4559801,
+          "lng": 50.1710003
+        }
+      }
+    ],
+    "dateOfReporting": "2020-08-14T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfLastContact": "2020-10-26T00:00:00.000Z",
+    "dateRanges": [],
+    "classificationHistory": [
+      {
+        "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_CONFIRMED_ASYMPTOMATIC",
+        "startDate": "2020-08-20T00:00:00.000Z"
+      }
+    ],
+    "hasRelationships": true,
+    "relationshipsRepresentation": [
+      {
+        "id": "1ebb19ef-f626-457f-9063-eeff2c09c292",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CONTACT",
+        "otherParticipantId": "794c6a32-cf1f-4d3c-8b73-7bfb5922ed7b",
+        "source": true
+      },
+      {
+        "id": "a2d18f30-cd74-4f1b-bf6d-469d8f9de94c",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CONTACT",
+        "otherParticipantId": "efd9e740-71db-44ad-a3f9-6f072afbb604",
+        "source": true
+      },
+      {
+        "id": "873585e4-7843-4194-9d92-3f36f9778b88",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_EVENT",
+        "otherParticipantId": "8a3aac8c-499f-4839-bdb0-739c41ec6f63",
+        "source": true
+      }
+    ],
+    "usualPlaceOfResidenceLocationId": "531b5bf5-fd40-4093-8aed-d94b4711b595",
+    "createdAt": "2020-08-20T17:19:13.859Z",
+    "createdBy": "adf6e5ca-77ac-4eaa-84fb-4be588c5d74a",
+    "updatedAt": "2020-10-26T18:49:17.099Z",
+    "updatedBy": "eff67980-d2c0-4a9d-bd08-f20dad487635",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "Ibrahima",
+    "gender": "LNG_REFERENCE_DATA_CATEGORY_GENDER_MALE",
+    "wasContact": false,
+    "outcomeId": "LNG_REFERENCE_DATA_CATEGORY_OUTCOME_ALIVE",
+    "safeBurial": false,
+    "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_CONFIRMED",
+    "transferRefused": false,
+    "questionnaireAnswers": {
+      "report_test_reason": [
+        {
+          "value": "seeking_hc"
+        }
+      ],
+      "Comcond_present": [
+        {
+          "value": "no"
+        }
+      ],
+      "FA1_preexistingconditions_diabetes": [],
+      "FA1_preexistingconditions_chronickidneydisease": [],
+      "FA1_preexistingconditions_cancer": [],
+      "FA2_complications_cardiacfailure": [],
+      "FA1_preexistingconditions_chronicliverdisease": [],
+      "FA1_preexistingconditions_chroniclungdiseasenonasthma": []
+    },
+    "pregnancyStatus": "LNG_REFERENCE_DATA_CATEGORY_PREGNANCY_STATUS_NOT_PREGNANT",
+    "id": "07b720a1-4f6c-4dd5-b8f4-8853a04e0d21",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "visualId": "CASE-2020-0040",
+    "age": {
+      "years": 23
+    },
+    "occupation": "LNG_REFERENCE_DATA_CATEGORY_OCCUPATION_STUDENT",
+    "addresses": [
+      {
+        "3": {},
+        "typeId": "LNG_REFERENCE_DATA_CATEGORY_ADDRESS_TYPE_USUAL_PLACE_OF_RESIDENCE",
+        "locationId": "SN001011001000000000",
+        "geoLocationAccurate": false,
+        "geoLocation": {
+          "lat": 79.992611,
+          "lng": 51.151047
+        }
+      }
+    ],
+    "dateOfReporting": "2020-07-15T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfLastContact": "2020-06-15T00:00:00.000Z",
+    "dateOfOnset": "2020-07-12T00:00:00.000Z",
+    "dateRanges": [
+      {
+        "typeId": "LNG_REFERENCE_DATA_CATEGORY_PERSON_DATE_TYPE_HOSPITALIZATION",
+        "centerName": null,
+        "locationId": null,
+        "comments": null,
+        "startDate": "2020-06-06T00:00:00.000Z",
+        "endDate": "2020-06-07T00:00:00.000Z"
+      }
+    ],
+    "classificationHistory": [
+      {
+        "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_CONFIRMED",
+        "startDate": "2020-06-08T00:00:00.000Z",
+        "endDate": null
+      }
+    ],
+    "dateOfOutcome": "2020-04-12T00:00:00.000Z",
+    "hasRelationships": true,
+    "relationshipsRepresentation": [
+      {
+        "id": "8f346f2d-de1f-49a7-967b-5d3867e9f8f7",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_EVENT",
+        "otherParticipantId": "8fd215fd-84d5-47bc-881f-0a9cb3939c15",
+        "target": true
+      }
+    ],
+    "usualPlaceOfResidenceLocationId": "SN001011001000000000",
+    "createdAt": "2020-06-08T12:39:20.988Z",
+    "createdBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "updatedAt": "2020-07-30T17:33:54.979Z",
+    "updatedBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "Jean-Paul",
+    "gender": "LNG_REFERENCE_DATA_CATEGORY_GENDER_MALE",
+    "wasContact": false,
+    "outcomeId": "LNG_REFERENCE_DATA_CATEGORY_OUTCOME_RECOVERED",
+    "safeBurial": false,
+    "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_CONFIRMED",
+    "transferRefused": false,
+    "questionnaireAnswers": {
+      "report_test_reason": [
+        {
+          "value": "surveillance"
+        }
+      ],
+      "Comcond_present": [
+        {
+          "value": "no"
+        }
+      ],
+      "would_you_like_to_complete_who_basic_case_questionnaire": [
+        {
+          "value": "no"
+        }
+      ]
+    },
+    "pregnancyStatus": "LNG_REFERENCE_DATA_CATEGORY_PREGNANCY_STATUS_NOT_PREGNANT",
+    "id": "3225fe6a-01db-4710-8cb7-1863e1bfd968",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "visualId": "CASE-2020-0004",
+    "age": {
+      "years": 43
+    },
+    "occupation": "LNG_REFERENCE_DATA_CATEGORY_OCCUPATION_HEALTH_CARE_WORKER",
+    "addresses": [
+      {
+        "typeId": "LNG_REFERENCE_DATA_CATEGORY_ADDRESS_TYPE_USUAL_PLACE_OF_RESIDENCE",
+        "country": null,
+        "city": null,
+        "addressLine1": null,
+        "postalCode": null,
+        "locationId": "SN001014003000000000",
+        "geoLocationAccurate": false,
+        "date": "2020-06-12T00:00:00.000Z",
+        "phoneNumber": null,
+        "addressLine2": null,
+        "geoLocation": {
+          "lat": 80.503533,
+          "lng": 48.190267
+        }
+      }
+    ],
+    "dateOfReporting": "2020-07-03T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfLastContact": "2020-06-15T00:00:00.000Z",
+    "dateOfOnset": "2020-07-02T00:00:00.000Z",
+    "dateRanges": [
+      {
+        "typeId": "LNG_REFERENCE_DATA_CATEGORY_PERSON_DATE_TYPE_HOSPITALIZATION",
+        "centerName": null,
+        "locationId": null,
+        "comments": null,
+        "startDate": "2020-05-24T00:00:00.000Z",
+        "endDate": "2020-05-25T00:00:00.000Z"
+      }
+    ],
+    "classificationHistory": [
+      {
+        "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_CONFIRMED",
+        "startDate": "2020-06-08T00:00:00.000Z",
+        "endDate": null
+      }
+    ],
+    "dateOfOutcome": "2020-05-07T00:00:00.000Z",
+    "hasRelationships": true,
+    "relationshipsRepresentation": [
+      {
+        "id": "367eda86-1074-4833-904c-ce0ca0d79621",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CASE",
+        "otherParticipantId": "418e1595-db57-462c-b167-7c8a03bb295b",
+        "target": true
+      },
+      {
+        "id": "32dc65e9-eba2-4620-b0fa-58bd870f36f7",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CONTACT",
+        "otherParticipantId": "82d9d7b8-6294-4913-8a69-e24b7c3fc4b9",
+        "source": true
+      },
+      {
+        "id": "112dc9fb-362c-49dd-b79b-55a95edc8439",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CONTACT",
+        "otherParticipantId": "d040a42e-4bd5-4c20-9d53-a3b191a8b984",
+        "source": true
+      },
+      {
+        "id": "2d664d3b-0b27-4769-951a-e547cc31e01a",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CONTACT",
+        "otherParticipantId": "d4f1ee9a-0cc1-4d86-978a-e04d5c5ede73",
+        "source": true
+      }
+    ],
+    "usualPlaceOfResidenceLocationId": "SN001014003000000000",
+    "createdAt": "2020-06-08T12:39:22.621Z",
+    "createdBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "updatedAt": "2020-08-21T09:58:05.674Z",
+    "updatedBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "Joseph",
+    "gender": "LNG_REFERENCE_DATA_CATEGORY_GENDER_MALE",
+    "wasContact": false,
+    "outcomeId": "LNG_REFERENCE_DATA_CATEGORY_OUTCOME_RECOVERED",
+    "safeBurial": false,
+    "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_PROBABLE",
+    "transferRefused": false,
+    "questionnaireAnswers": {
+      "report_test_reason": [
+        {
+          "value": "seeking_hc"
+        }
+      ],
+      "Comcond_present": [
+        {
+          "value": "no"
+        }
+      ],
+      "FA1_preexistingconditions_diabetes": [],
+      "FA1_preexistingconditions_chronickidneydisease": [],
+      "FA1_preexistingconditions_cancer": [],
+      "FA2_complications_cardiacfailure": [],
+      "FA1_preexistingconditions_chronicliverdisease": [],
+      "FA1_preexistingconditions_chroniclungdiseasenonasthma": []
+    },
+    "pregnancyStatus": "LNG_REFERENCE_DATA_CATEGORY_PREGNANCY_STATUS_NOT_PREGNANT",
+    "id": "cf356e61-d0c8-4a06-883a-48311c2b00c8",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "visualId": "CASE-2020-0014",
+    "age": {
+      "years": 54
+    },
+    "occupation": "LNG_REFERENCE_DATA_CATEGORY_OCCUPATION_FARMER",
+    "addresses": [
+      {
+        "3": {},
+        "typeId": "LNG_REFERENCE_DATA_CATEGORY_ADDRESS_TYPE_USUAL_PLACE_OF_RESIDENCE",
+        "locationId": "SN001023001000000000",
+        "geoLocationAccurate": false,
+        "geoLocation": {
+          "lat": 80.092831,
+          "lng": 49.979653
+        }
+      }
+    ],
+    "dateOfReporting": "2020-07-08T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfLastContact": "2020-06-11T00:00:00.000Z",
+    "dateOfOnset": "2020-07-05T00:00:00.000Z",
+    "dateRanges": [
+      {
+        "typeId": "LNG_REFERENCE_DATA_CATEGORY_PERSON_DATE_TYPE_HOSPITALIZATION",
+        "centerName": null,
+        "locationId": null,
+        "comments": null,
+        "startDate": "2020-05-27T00:00:00.000Z",
+        "endDate": "2020-06-08T00:00:00.000Z"
+      }
+    ],
+    "classificationHistory": [
+      {
+        "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_PROBABLE",
+        "startDate": "2020-06-08T00:00:00.000Z",
+        "endDate": null
+      }
+    ],
+    "dateOfOutcome": "2020-05-12T00:00:00.000Z",
+    "hasRelationships": true,
+    "relationshipsRepresentation": [
+      {
+        "id": "48300d1a-e8c4-4c45-9f16-54569f97c28d",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CONTACT",
+        "otherParticipantId": "d8cffd83-dbe3-4a1c-9b6f-792169d7b8b4",
+        "source": true
+      },
+      {
+        "id": "8817bf46-8117-4457-a910-0c5690853851",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CONTACT",
+        "otherParticipantId": "178a26dd-c0f7-49c7-bca1-dc567d58409c",
+        "source": true
+      },
+      {
+        "id": "f6b9c9f6-398d-4376-9c1b-b7d4ee9bdd0b",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CONTACT",
+        "otherParticipantId": "a3016115-0530-4314-9e6d-6b7b12deb06d",
+        "source": true
+      },
+      {
+        "id": "0cb523f0-182d-4660-b61b-b747dc0a61f6",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_EVENT",
+        "otherParticipantId": "3b2825b8-9ac5-4c9e-83df-d37ff9205463",
+        "target": true
+      }
+    ],
+    "usualPlaceOfResidenceLocationId": "SN001023001000000000",
+    "createdAt": "2020-06-08T12:39:24.940Z",
+    "createdBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "updatedAt": "2020-08-21T09:58:05.656Z",
+    "updatedBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "Mamadou",
+    "gender": "LNG_REFERENCE_DATA_CATEGORY_GENDER_MALE",
+    "wasContact": false,
+    "outcomeId": "LNG_REFERENCE_DATA_CATEGORY_OUTCOME_ALIVE",
+    "safeBurial": false,
+    "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_SUSPECT",
+    "transferRefused": false,
+    "questionnaireAnswers": {
+      "report_test_reason": [
+        {
+          "value": "case_contact"
+        }
+      ],
+      "Comcond_present": [
+        {
+          "value": "no"
+        }
+      ],
+      "FA1_preexistingconditions_diabetes": [],
+      "FA1_preexistingconditions_chronickidneydisease": [],
+      "FA1_preexistingconditions_cancer": [],
+      "FA2_complications_cardiacfailure": [],
+      "FA1_preexistingconditions_chronicliverdisease": [],
+      "FA1_preexistingconditions_chroniclungdiseasenonasthma": []
+    },
+    "pregnancyStatus": "LNG_REFERENCE_DATA_CATEGORY_PREGNANCY_STATUS_NOT_PREGNANT",
+    "id": "9339f2cb-6900-4cbf-9ec8-4af1f25cb4e5",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "visualId": "CASE-2020-0039",
+    "age": {
+      "years": 0,
+      "months": 11
+    },
+    "occupation": "LNG_REFERENCE_DATA_CATEGORY_OCCUPATION_CHILD",
+    "addresses": [
+      {
+        "3": {},
+        "typeId": "LNG_REFERENCE_DATA_CATEGORY_ADDRESS_TYPE_USUAL_PLACE_OF_RESIDENCE",
+        "locationId": "SN001011008000000000",
+        "geoLocationAccurate": false,
+        "geoLocation": {
+          "lat": 80.036419,
+          "lng": 51.152152
+        }
+      }
+    ],
+    "dateOfReporting": "2020-07-15T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfOnset": "2020-07-11T00:00:00.000Z",
+    "dateRanges": [
+      {
+        "typeId": "LNG_REFERENCE_DATA_CATEGORY_PERSON_DATE_TYPE_HOSPITALIZATION",
+        "centerName": null,
+        "locationId": null,
+        "comments": null,
+        "startDate": "2020-06-04T00:00:00.000Z",
+        "endDate": "2020-06-15T00:00:00.000Z"
+      }
+    ],
+    "classificationHistory": [
+      {
+        "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_SUSPECT",
+        "startDate": "2020-06-08T00:00:00.000Z",
+        "endDate": null
+      }
+    ],
+    "dateOfOutcome": "2020-04-12T00:00:00.000Z",
+    "hasRelationships": false,
+    "relationshipsRepresentation": [],
+    "usualPlaceOfResidenceLocationId": "SN001011008000000000",
+    "createdAt": "2020-06-08T12:39:32.030Z",
+    "createdBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "updatedAt": "2020-07-30T17:33:04.244Z",
+    "updatedBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "Mamoudou",
+    "gender": "LNG_REFERENCE_DATA_CATEGORY_GENDER_MALE",
+    "wasContact": false,
+    "outcomeId": "LNG_REFERENCE_DATA_CATEGORY_OUTCOME_ALIVE",
+    "safeBurial": false,
+    "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_NOT_A_CASE_DISCARDED",
+    "transferRefused": false,
+    "questionnaireAnswers": {
+      "report_test_reason": [
+        {
+          "value": "case_contact"
+        }
+      ],
+      "Comcond_present": [],
+      "FA1_preexistingconditions_diabetes": [],
+      "FA1_preexistingconditions_chronickidneydisease": [],
+      "FA1_preexistingconditions_cancer": [],
+      "FA2_complications_cardiacfailure": [],
+      "FA1_preexistingconditions_chronicliverdisease": [],
+      "FA1_preexistingconditions_chroniclungdiseasenonasthma": []
+    },
+    "pregnancyStatus": "LNG_REFERENCE_DATA_CATEGORY_PREGNANCY_STATUS_NOT_PREGNANT",
+    "id": "59568681-23c9-4ba1-98bd-6e46e4b10025",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "visualId": "CASE-2020-0025",
+    "age": {
+      "years": 63
+    },
+    "occupation": "LNG_REFERENCE_DATA_CATEGORY_OCCUPATION_FARMER",
+    "addresses": [
+      {
+        "3": {},
+        "typeId": "LNG_REFERENCE_DATA_CATEGORY_ADDRESS_TYPE_USUAL_PLACE_OF_RESIDENCE",
+        "locationId": "SN001014003000000000",
+        "geoLocationAccurate": false,
+        "geoLocation": {
+          "lat": 80.493903,
+          "lng": 48.254891
+        }
+      }
+    ],
+    "dateOfReporting": "2020-07-12T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfOnset": "2020-07-09T00:00:00.000Z",
+    "dateRanges": [
+      {
+        "typeId": "LNG_REFERENCE_DATA_CATEGORY_PERSON_DATE_TYPE_HOSPITALIZATION",
+        "centerName": null,
+        "locationId": null,
+        "comments": null,
+        "startDate": "2020-06-02T00:00:00.000Z",
+        "endDate": "2020-06-13T00:00:00.000Z"
+      }
+    ],
+    "classificationHistory": [
+      {
+        "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_NOT_A_CASE_DISCARDED",
+        "startDate": "2020-06-08T00:00:00.000Z",
+        "endDate": null
+      }
+    ],
+    "hasRelationships": false,
+    "relationshipsRepresentation": [],
+    "usualPlaceOfResidenceLocationId": "SN001014003000000000",
+    "createdAt": "2020-06-08T12:39:33.934Z",
+    "createdBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "updatedAt": "2020-07-30T17:33:04.916Z",
+    "updatedBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "Mariama",
+    "gender": "LNG_REFERENCE_DATA_CATEGORY_GENDER_FEMALE",
+    "wasContact": false,
+    "outcomeId": "LNG_REFERENCE_DATA_CATEGORY_OUTCOME_RECOVERED",
+    "safeBurial": false,
+    "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_SUSPECT",
+    "transferRefused": false,
+    "questionnaireAnswers": {
+      "report_test_reason": [
+        {
+          "value": "repatriation"
+        }
+      ],
+      "Comcond_present": [
+        {
+          "value": "no"
+        }
+      ],
+      "would_you_like_to_complete_who_basic_case_questionnaire": [
+        {
+          "value": "yes"
+        }
+      ],
+      "expo_travel": [
+        {
+          "value": "yes"
+        }
+      ],
+      "specify_places_and_dates_for_up_to_3_locations_below": [
+        {
+          "value": [
+            "expo_travel_details1"
+          ]
+        }
+      ],
+      "expo_travel_country1": [
+        {
+          "value": "Trycoun"
+        }
+      ]
+    },
+    "pregnancyStatus": "LNG_REFERENCE_DATA_CATEGORY_PREGNANCY_STATUS_NOT_PREGNANT",
+    "id": "1d9e88f8-75ca-4763-bb06-752c467f6c08",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "visualId": "CASE-2020-0022",
+    "age": {
+      "years": 51
+    },
+    "occupation": "LNG_REFERENCE_DATA_CATEGORY_OCCUPATION_OTHER",
+    "addresses": [
+      {
+        "3": {},
+        "typeId": "LNG_REFERENCE_DATA_CATEGORY_ADDRESS_TYPE_USUAL_PLACE_OF_RESIDENCE",
+        "locationId": "SN001014002000000000",
+        "geoLocationAccurate": false,
+        "geoLocation": {
+          "lat": 80.420333,
+          "lng": 49.422998
+        }
+      }
+    ],
+    "dateOfReporting": "2020-07-11T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfLastContact": "2020-06-05T00:00:00.000Z",
+    "dateOfOnset": "2020-07-08T00:00:00.000Z",
+    "dateRanges": [
+      {
+        "typeId": "LNG_REFERENCE_DATA_CATEGORY_PERSON_DATE_TYPE_HOSPITALIZATION",
+        "centerName": null,
+        "locationId": null,
+        "comments": null,
+        "startDate": "2020-06-01T00:00:00.000Z",
+        "endDate": "2020-06-14T00:00:00.000Z"
+      }
+    ],
+    "classificationHistory": [
+      {
+        "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_SUSPECT",
+        "startDate": "2020-06-08T00:00:00.000Z",
+        "endDate": null
+      }
+    ],
+    "dateOfOutcome": "2020-05-14T00:00:00.000Z",
+    "hasRelationships": true,
+    "relationshipsRepresentation": [
+      {
+        "id": "37f499d1-71be-4a6b-9a74-06f1fe08c620",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CONTACT",
+        "otherParticipantId": "f08f3f60-79b6-48f2-8932-bef3b7a365a4",
+        "source": true
+      },
+      {
+        "id": "326ee01d-f78f-490e-a28b-a8177c4371c8",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CONTACT",
+        "otherParticipantId": "6ee8d4ef-925e-4942-b4ce-cbb69dfc7113",
+        "source": true
+      },
+      {
+        "id": "6dbb9106-6eef-4665-ac1a-961b6b3070cd",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CONTACT",
+        "otherParticipantId": "ac7dac28-8b8a-4a8a-951d-baec480bf8e9",
+        "source": true
+      },
+      {
+        "id": "85451b21-bbee-4862-8699-16938aeecf97",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_EVENT",
+        "otherParticipantId": "5633dc8c-5881-42ee-b5ae-1e60aa6b54b0",
+        "target": true
+      }
+    ],
+    "usualPlaceOfResidenceLocationId": "SN001014002000000000",
+    "createdAt": "2020-06-08T12:39:36.676Z",
+    "createdBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "updatedAt": "2020-08-21T09:58:05.938Z",
+    "updatedBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "Mhustapha",
+    "gender": "LNG_REFERENCE_DATA_CATEGORY_GENDER_MALE",
+    "wasContact": false,
+    "outcomeId": "LNG_REFERENCE_DATA_CATEGORY_OUTCOME_RECOVERED",
+    "safeBurial": false,
+    "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_PROBABLE",
+    "transferRefused": false,
+    "questionnaireAnswers": {
+      "report_test_reason": [
+        {
+          "value": "case_contact"
+        }
+      ],
+      "Comcond_present": [
+        {
+          "value": "no"
+        }
+      ],
+      "would_you_like_to_complete_who_basic_case_questionnaire": [
+        {
+          "value": "no"
+        }
+      ]
+    },
+    "pregnancyStatus": "LNG_REFERENCE_DATA_CATEGORY_PREGNANCY_STATUS_NOT_PREGNANT",
+    "id": "79cee4f8-6c47-45d6-aa2c-1cc2ed8eb4eb",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "visualId": "CASE-2020-0008",
+    "age": {
+      "years": 7
+    },
+    "occupation": "LNG_REFERENCE_DATA_CATEGORY_OCCUPATION_CHILD",
+    "addresses": [
+      {
+        "typeId": "LNG_REFERENCE_DATA_CATEGORY_ADDRESS_TYPE_USUAL_PLACE_OF_RESIDENCE",
+        "country": null,
+        "city": null,
+        "addressLine1": null,
+        "postalCode": null,
+        "locationId": "SN001014003000000000",
+        "geoLocationAccurate": false,
+        "date": "2020-06-12T00:00:00.000Z",
+        "phoneNumber": null,
+        "addressLine2": null,
+        "geoLocation": {
+          "lat": 80.503891,
+          "lng": 48.4053
+        }
+      }
+    ],
+    "dateOfReporting": "2020-07-05T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfLastContact": "2020-07-17T00:00:00.000Z",
+    "dateOfOnset": "2020-07-02T00:00:00.000Z",
+    "dateRanges": [
+      {
+        "typeId": "LNG_REFERENCE_DATA_CATEGORY_PERSON_DATE_TYPE_HOSPITALIZATION",
+        "centerName": null,
+        "locationId": null,
+        "comments": null,
+        "startDate": "2020-05-26T00:00:00.000Z",
+        "endDate": "2020-05-28T00:00:00.000Z"
+      }
+    ],
+    "classificationHistory": [
+      {
+        "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_PROBABLE",
+        "startDate": "2020-06-08T00:00:00.000Z",
+        "endDate": null
+      }
+    ],
+    "dateOfOutcome": "2020-05-09T00:00:00.000Z",
+    "hasRelationships": true,
+    "relationshipsRepresentation": [
+      {
+        "id": "290a7262-b0d2-4b7e-80f1-de9658ae0fb8",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CASE",
+        "otherParticipantId": "418e1595-db57-462c-b167-7c8a03bb295b",
+        "target": true
+      },
+      {
+        "id": "b57dd903-1c32-4ce7-bd93-637bcbe733b0",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CONTACT",
+        "otherParticipantId": "794c6a32-cf1f-4d3c-8b73-7bfb5922ed7b",
+        "source": true
+      },
+      {
+        "id": "8f5644d1-4179-432d-b8cb-507204ef25f6",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CONTACT",
+        "otherParticipantId": "a895e4ad-3e53-4c9d-a38e-ff50f186858c",
+        "source": true
+      },
+      {
+        "id": "47d8bd3b-2d03-436d-85a2-e8d2bd40c2a5",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CONTACT",
+        "otherParticipantId": "9b24c2bd-6e19-4739-bc60-917e995602bc",
+        "source": true
+      }
+    ],
+    "usualPlaceOfResidenceLocationId": "SN001014003000000000",
+    "createdAt": "2020-06-08T12:39:42.447Z",
+    "createdBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "updatedAt": "2020-08-20T14:58:13.946Z",
+    "updatedBy": "adf6e5ca-77ac-4eaa-84fb-4be588c5d74a",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "Moussa",
+    "gender": "LNG_REFERENCE_DATA_CATEGORY_GENDER_MALE",
+    "wasContact": false,
+    "outcomeId": "LNG_REFERENCE_DATA_CATEGORY_OUTCOME_RECOVERED",
+    "safeBurial": false,
+    "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_PROBABLE",
+    "transferRefused": false,
+    "questionnaireAnswers": {
+      "report_test_reason": [
+        {
+          "value": "case_contact"
+        }
+      ],
+      "Comcond_present": [
+        {
+          "value": "no"
+        }
+      ],
+      "would_you_like_to_complete_who_basic_case_questionnaire": [
+        {
+          "value": "no"
+        }
+      ]
+    },
+    "pregnancyStatus": "LNG_REFERENCE_DATA_CATEGORY_PREGNANCY_STATUS_NOT_PREGNANT",
+    "id": "84b9e4f6-3792-4bbc-a4b3-43ff5c032931",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "visualId": "CASE-2020-0011",
+    "age": {
+      "years": 31
+    },
+    "occupation": "LNG_REFERENCE_DATA_CATEGORY_OCCUPATION_OTHER",
+    "addresses": [
+      {
+        "typeId": "LNG_REFERENCE_DATA_CATEGORY_ADDRESS_TYPE_USUAL_PLACE_OF_RESIDENCE",
+        "country": null,
+        "city": null,
+        "addressLine1": null,
+        "postalCode": null,
+        "locationId": "SN001014003000000000",
+        "geoLocationAccurate": false,
+        "date": "2020-06-12T00:00:00.000Z",
+        "phoneNumber": null,
+        "addressLine2": null,
+        "geoLocation": {
+          "lat": 80.493903,
+          "lng": 48.254891
+        }
+      }
+    ],
+    "dateOfReporting": "2020-07-07T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfLastContact": "2020-07-23T00:00:00.000Z",
+    "dateOfOnset": "2020-07-04T00:00:00.000Z",
+    "dateRanges": [
+      {
+        "typeId": "LNG_REFERENCE_DATA_CATEGORY_PERSON_DATE_TYPE_HOSPITALIZATION",
+        "centerName": null,
+        "locationId": null,
+        "comments": null,
+        "startDate": "2020-05-26T00:00:00.000Z",
+        "endDate": "2020-05-30T00:00:00.000Z"
+      }
+    ],
+    "classificationHistory": [
+      {
+        "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_PROBABLE",
+        "startDate": "2020-06-08T00:00:00.000Z",
+        "endDate": null
+      }
+    ],
+    "dateOfOutcome": "2020-05-11T00:00:00.000Z",
+    "hasRelationships": false,
+    "relationshipsRepresentation": [],
+    "usualPlaceOfResidenceLocationId": "SN001014003000000000",
+    "createdAt": "2020-06-08T12:39:44.504Z",
+    "createdBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "updatedAt": "2020-08-20T15:00:47.136Z",
+    "updatedBy": "adf6e5ca-77ac-4eaa-84fb-4be588c5d74a",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "Odette",
+    "gender": "LNG_REFERENCE_DATA_CATEGORY_GENDER_FEMALE",
+    "wasContact": false,
+    "outcomeId": "LNG_REFERENCE_DATA_CATEGORY_OUTCOME_DECEASED",
+    "safeBurial": false,
+    "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_PROBABLE",
+    "transferRefused": false,
+    "questionnaireAnswers": {
+      "report_test_reason": [
+        {
+          "value": "case_contact"
+        }
+      ],
+      "Comcond_present": [
+        {
+          "value": "no"
+        }
+      ],
+      "FA1_preexistingconditions_diabetes": [],
+      "FA1_preexistingconditions_chronickidneydisease": [],
+      "FA1_preexistingconditions_cancer": [],
+      "FA2_complications_cardiacfailure": [],
+      "FA1_preexistingconditions_chronicliverdisease": [],
+      "FA1_preexistingconditions_chroniclungdiseasenonasthma": []
+    },
+    "pregnancyStatus": "LNG_REFERENCE_DATA_CATEGORY_PREGNANCY_STATUS_NOT_PREGNANT",
+    "id": "c498a75c-3684-4cef-b707-f0c0a3b0af08",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "visualId": "CASE-2020-0016",
+    "age": {
+      "years": 80
+    },
+    "occupation": "LNG_REFERENCE_DATA_CATEGORY_OCCUPATION_FARMER",
+    "addresses": [
+      {
+        "3": {},
+        "typeId": "LNG_REFERENCE_DATA_CATEGORY_ADDRESS_TYPE_USUAL_PLACE_OF_RESIDENCE",
+        "locationId": "SN001023001000000000",
+        "geoLocationAccurate": false,
+        "geoLocation": {
+          "lat": 80.092831,
+          "lng": 49.979653
+        }
+      }
+    ],
+    "dateOfReporting": "2020-07-09T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfLastContact": "2020-06-24T00:00:00.000Z",
+    "dateOfOnset": "2020-07-06T00:00:00.000Z",
+    "dateRanges": [
+      {
+        "typeId": "LNG_REFERENCE_DATA_CATEGORY_PERSON_DATE_TYPE_HOSPITALIZATION",
+        "centerName": null,
+        "locationId": null,
+        "comments": null,
+        "startDate": "2020-05-30T00:00:00.000Z",
+        "endDate": "2020-06-12T00:00:00.000Z"
+      }
+    ],
+    "classificationHistory": [
+      {
+        "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_PROBABLE",
+        "startDate": "2020-06-08T00:00:00.000Z",
+        "endDate": null
+      }
+    ],
+    "dateOfOutcome": "2020-05-08T00:00:00.000Z",
+    "hasRelationships": true,
+    "relationshipsRepresentation": [
+      {
+        "id": "a1e22064-f93a-4c8c-a679-63f75444c625",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CONTACT",
+        "otherParticipantId": "a3a7cacb-96fb-4f8e-8870-2817c38b2272",
+        "source": true
+      },
+      {
+        "id": "76b419fe-300c-4394-8348-ec0eccbad0fa",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CONTACT",
+        "otherParticipantId": "7a73fda5-d9d4-4c66-aa94-d1a33b0b555f",
+        "source": true
+      },
+      {
+        "id": "08fdb185-09ae-4d04-9ea0-a4011d16377c",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CONTACT",
+        "otherParticipantId": "5a891dab-b7f6-4468-b5b4-372d3c0c1d0b",
+        "source": true
+      },
+      {
+        "id": "fe4c5347-2e54-4766-8b7f-2a89fb6424e4",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_EVENT",
+        "otherParticipantId": "3b2825b8-9ac5-4c9e-83df-d37ff9205463",
+        "target": true
+      }
+    ],
+    "usualPlaceOfResidenceLocationId": "SN001023001000000000",
+    "createdAt": "2020-06-08T12:39:46.664Z",
+    "createdBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "updatedAt": "2020-07-30T17:34:21.531Z",
+    "updatedBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "Odette",
+    "gender": "LNG_REFERENCE_DATA_CATEGORY_GENDER_FEMALE",
+    "wasContact": false,
+    "outcomeId": "LNG_REFERENCE_DATA_CATEGORY_OUTCOME_DECEASED",
+    "safeBurial": false,
+    "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_PROBABLE",
+    "transferRefused": false,
+    "questionnaireAnswers": {
+      "report_test_reason": [
+        {
+          "value": "case_contact"
+        }
+      ],
+      "Comcond_present": [
+        {
+          "value": "no"
+        }
+      ],
+      "FA1_preexistingconditions_diabetes": [],
+      "FA1_preexistingconditions_chronickidneydisease": [],
+      "FA1_preexistingconditions_cancer": [],
+      "FA2_complications_cardiacfailure": [],
+      "FA1_preexistingconditions_chronicliverdisease": [],
+      "FA1_preexistingconditions_chroniclungdiseasenonasthma": []
+    },
+    "pregnancyStatus": "LNG_REFERENCE_DATA_CATEGORY_PREGNANCY_STATUS_NOT_PREGNANT",
+    "id": "277c283b-9ae2-445b-91fb-c2d0588c6df1",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "visualId": "CASE-2020-0012",
+    "age": {
+      "years": 80
+    },
+    "occupation": "LNG_REFERENCE_DATA_CATEGORY_OCCUPATION_FARMER",
+    "addresses": [
+      {
+        "3": {},
+        "typeId": "LNG_REFERENCE_DATA_CATEGORY_ADDRESS_TYPE_USUAL_PLACE_OF_RESIDENCE",
+        "locationId": "SN001023001000000000",
+        "geoLocationAccurate": false,
+        "geoLocation": {
+          "lat": 80.092831,
+          "lng": 49.979653
+        }
+      }
+    ],
+    "dateOfReporting": "2020-07-08T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfLastContact": "2020-06-17T00:00:00.000Z",
+    "dateOfOnset": "2020-07-05T00:00:00.000Z",
+    "dateRanges": [
+      {
+        "typeId": "LNG_REFERENCE_DATA_CATEGORY_PERSON_DATE_TYPE_HOSPITALIZATION",
+        "centerName": null,
+        "locationId": null,
+        "comments": null,
+        "startDate": "2020-05-30T00:00:00.000Z",
+        "endDate": "2020-06-08T00:00:00.000Z"
+      }
+    ],
+    "classificationHistory": [
+      {
+        "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_PROBABLE",
+        "startDate": "2020-06-08T00:00:00.000Z",
+        "endDate": null
+      }
+    ],
+    "dateOfOutcome": "2020-05-07T00:00:00.000Z",
+    "hasRelationships": true,
+    "relationshipsRepresentation": [
+      {
+        "id": "30a058f7-a739-453d-8c7b-70adbfadd93c",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CONTACT",
+        "otherParticipantId": "a3a7cacb-96fb-4f8e-8870-2817c38b2272",
+        "source": true
+      },
+      {
+        "id": "fe29e4c4-bebd-4833-825d-19e335900b01",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CONTACT",
+        "otherParticipantId": "7a73fda5-d9d4-4c66-aa94-d1a33b0b555f",
+        "source": true
+      },
+      {
+        "id": "74d937c4-d847-41c5-85f0-ceb38be4ccd1",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CONTACT",
+        "otherParticipantId": "5a891dab-b7f6-4468-b5b4-372d3c0c1d0b",
+        "source": true
+      },
+      {
+        "id": "4c99dea5-e471-4d73-99d0-a07d036e064a",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_EVENT",
+        "otherParticipantId": "3b2825b8-9ac5-4c9e-83df-d37ff9205463",
+        "target": true
+      }
+    ],
+    "usualPlaceOfResidenceLocationId": "SN001023001000000000",
+    "createdAt": "2020-06-08T12:39:51.650Z",
+    "createdBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "updatedAt": "2020-08-21T09:58:05.958Z",
+    "updatedBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "Olivier_1",
+    "gender": "LNG_REFERENCE_DATA_CATEGORY_GENDER_MALE",
+    "isDateOfOnsetApproximate": true,
+    "wasContact": false,
+    "safeBurial": false,
+    "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_CONFIRMED",
+    "riskLevel": "LNG_REFERENCE_DATA_CATEGORY_RISK_LEVEL_2_MEDIUM",
+    "riskReason": "en unité de soins intermédiaires",
+    "transferRefused": false,
+    "questionnaireAnswers": {
+      "would_you_like_to_complete_who_basic_case_questionnaire": [
+        {
+          "value": "no"
+        }
+      ],
+      "Case_WhichForm": [
+        {
+          "value": [
+            "Form A2: Case follow-up form – for confirmed cases (Day 14-21)"
+          ]
+        }
+      ],
+      "FA2_datacollector_name": [
+        {
+          "value": "o2"
+        }
+      ],
+      "FA2_datacollector_institution": [
+        {
+          "value": "my_institution"
+        }
+      ],
+      "FA2_respondent_ispatient": [
+        {
+          "value": "Yes"
+        }
+      ],
+      "FA2_symptoms_maximumtemperaturecentigrade": [
+        {
+          "value": 40.1
+        }
+      ],
+      "FA2_symptoms_caseshowedsymptoms": [
+        {
+          "value": "Yes"
+        }
+      ],
+      "FA2_complications_mechanicalventilation": [
+        {
+          "value": "No"
+        }
+      ],
+      "FA2_complications_ARDS": [
+        {
+          "value": "No"
+        }
+      ],
+      "FA2_complications_acuterenalfailure": [
+        {
+          "value": "No"
+        }
+      ],
+      "FA2_complications_cardiacfailure": [
+        {
+          "value": "No"
+        }
+      ],
+      "FA2_complications_consumptivecoagulopathy": [
+        {
+          "value": "No"
+        }
+      ],
+      "FA2_complications_pneumoniachestXray": [
+        {
+          "value": "Yes"
+        }
+      ],
+      "FA2_complications_hypotensionrequiringvasopressors": [
+        {
+          "value": "No"
+        }
+      ],
+      "FA2_complications_other": [
+        {
+          "value": "No"
+        }
+      ],
+      "FA2_complications_EMOrequired": [
+        {
+          "value": "No"
+        }
+      ],
+      "FA2_formcompleted": [
+        {
+          "value": "Yes"
+        }
+      ],
+      "FA2_symptoms_sorethroat": [
+        {
+          "value": "Yes"
+        }
+      ],
+      "FA2_symptoms_runnynose": [
+        {
+          "value": "Yes"
+        }
+      ],
+      "FA2_symptoms_cough": [
+        {
+          "value": "Yes"
+        }
+      ],
+      "FA2_symptoms_shortnessofbreath": [
+        {
+          "value": "Yes"
+        }
+      ],
+      "FA2_symptoms_chills": [
+        {
+          "value": "No"
+        }
+      ],
+      "FA2_symptoms_vomiting": [
+        {
+          "value": "No"
+        }
+      ],
+      "FA2_symptoms_nausea": [
+        {
+          "value": "No"
+        }
+      ],
+      "FA2_symptoms_diarrhea": [
+        {
+          "value": "No"
+        }
+      ],
+      "FA2_symptoms_headache": [
+        {
+          "value": "Yes"
+        }
+      ],
+      "FA2_symptoms_rash": [
+        {
+          "value": "Yes"
+        }
+      ],
+      "FA2_symptoms_conjunctivitis": [
+        {
+          "value": "No"
+        }
+      ],
+      "FA2_symptoms_muscleaches": [
+        {
+          "value": "Yes"
+        }
+      ],
+      "FA2_symptoms_jointaches": [
+        {
+          "value": "Yes"
+        }
+      ],
+      "FA2_symptoms_lossofappetite": [
+        {
+          "value": "No"
+        }
+      ],
+      "loss_of_smell_anosmia_or_taste": [
+        {
+          "value": "no"
+        }
+      ],
+      "FA2_symptoms_nosebleed": [
+        {
+          "value": "No"
+        }
+      ],
+      "FA2_symptoms_fatigue": [
+        {
+          "value": "Yes"
+        }
+      ],
+      "FA2_symptoms_seizures": [
+        {
+          "value": "No"
+        }
+      ],
+      "FA2_symptoms_alteredconsciousness": [
+        {
+          "value": "No"
+        }
+      ],
+      "FA2_symptoms_neurologicalsigns": [
+        {
+          "value": "No"
+        }
+      ],
+      "FA2_symptoms_othersymptoms": [
+        {
+          "value": "Yes"
+        }
+      ],
+      "FA2_symptoms_sorethroatdate": [
+        {
+          "value": "2020-11-12T00:00:00.000Z"
+        }
+      ],
+      "FA2_symptoms_othersymptomsdetails": [
+        {
+          "value": "anxiety"
+        }
+      ]
+    },
+    "vaccinesReceived": [],
+    "pregnancyStatus": "LNG_REFERENCE_DATA_CATEGORY_PREGNANCY_STATUS_NONE",
+    "id": "229b5137-48c2-4a57-818a-54735f273889",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "dob": null,
+    "age": {
+      "years": 30,
+      "months": 0
+    },
+    "occupation": "LNG_REFERENCE_DATA_CATEGORY_OCCUPATION_HEALTH_CARE_WORKER",
+    "documents": [],
+    "addresses": [
+      {
+        "typeId": "LNG_REFERENCE_DATA_CATEGORY_ADDRESS_TYPE_USUAL_PLACE_OF_RESIDENCE",
+        "locationId": "SN001000000000000000",
+        "geoLocationAccurate": false,
+        "date": "2020-11-12T00:00:00.000Z",
+        "phoneNumber": "123456",
+        "geoLocation": {
+          "lat": 80.4559801,
+          "lng": 50.1710003
+        }
+      }
+    ],
+    "dateOfReporting": "2020-11-12T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfOnset": "2020-11-08T00:00:00.000Z",
+    "dateBecomeCase": "2020-11-11T00:00:00.000Z",
+    "dateRanges": [],
+    "classificationHistory": [
+      {
+        "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_CONFIRMED",
+        "startDate": "2020-11-12T07:26:54.859Z",
+        "endDate": null
+      }
+    ],
+    "hasRelationships": false,
+    "usualPlaceOfResidenceLocationId": "SN001000000000000000",
+    "createdAt": "2020-11-12T07:26:54.859Z",
+    "createdBy": "c4e67744-34ef-4648-b345-00efb863ca4a",
+    "updatedAt": "2020-11-16T08:09:14.365Z",
+    "updatedBy": "c4e67744-34ef-4648-b345-00efb863ca4a",
+    "createdOn": "API",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "Omar",
+    "gender": "LNG_REFERENCE_DATA_CATEGORY_GENDER_MALE",
+    "wasContact": false,
+    "outcomeId": "LNG_REFERENCE_DATA_CATEGORY_OUTCOME_ALIVE",
+    "safeBurial": false,
+    "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_CONFIRMED",
+    "transferRefused": false,
+    "questionnaireAnswers": {
+      "report_test_reason": [
+        {
+          "value": "case_contact"
+        }
+      ],
+      "Comcond_present": [
+        {
+          "value": "no"
+        }
+      ],
+      "FA1_preexistingconditions_diabetes": [],
+      "FA1_preexistingconditions_chronickidneydisease": [],
+      "FA1_preexistingconditions_cancer": [],
+      "FA2_complications_cardiacfailure": [],
+      "FA1_preexistingconditions_chronicliverdisease": [],
+      "FA1_preexistingconditions_chroniclungdiseasenonasthma": []
+    },
+    "pregnancyStatus": "LNG_REFERENCE_DATA_CATEGORY_PREGNANCY_STATUS_NOT_PREGNANT",
+    "id": "3d0fd453-b271-4b35-bcfc-7c49d87737d0",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "visualId": "CASE-2020-0013",
+    "age": {
+      "years": 52
+    },
+    "occupation": "LNG_REFERENCE_DATA_CATEGORY_OCCUPATION_FARMER",
+    "addresses": [
+      {
+        "3": {},
+        "typeId": "LNG_REFERENCE_DATA_CATEGORY_ADDRESS_TYPE_USUAL_PLACE_OF_RESIDENCE",
+        "locationId": "SN001023001000000000",
+        "geoLocationAccurate": false,
+        "geoLocation": {
+          "lat": 80.092831,
+          "lng": 49.979653
+        }
+      }
+    ],
+    "dateOfReporting": "2020-07-10T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfLastContact": "2020-06-15T00:00:00.000Z",
+    "dateOfOnset": "2020-07-10T00:00:00.000Z",
+    "dateRanges": [
+      {
+        "typeId": "LNG_REFERENCE_DATA_CATEGORY_PERSON_DATE_TYPE_HOSPITALIZATION",
+        "centerName": null,
+        "locationId": null,
+        "comments": null,
+        "startDate": "2020-06-03T00:00:00.000Z",
+        "endDate": "2020-06-07T00:00:00.000Z"
+      }
+    ],
+    "classificationHistory": [
+      {
+        "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_CONFIRMED",
+        "startDate": "2020-06-08T00:00:00.000Z",
+        "endDate": null
+      }
+    ],
+    "dateOfOutcome": "2020-05-12T00:00:00.000Z",
+    "hasRelationships": true,
+    "relationshipsRepresentation": [
+      {
+        "id": "90f72cac-4bb8-47bb-89f5-9d510dc426fb",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CONTACT",
+        "otherParticipantId": "661e3539-77f6-4fc3-b664-ef8c51228e10",
+        "source": true
+      },
+      {
+        "id": "9b284be7-4e39-4b5e-9f6f-a39851d48767",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CONTACT",
+        "otherParticipantId": "d82e5d0b-a572-46e5-96ac-cb09b8b72ffb",
+        "source": true
+      },
+      {
+        "id": "f10bb017-fd2e-47fc-8948-15e7db34c6f8",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CONTACT",
+        "otherParticipantId": "01be9322-7ecd-4d8d-858c-49dc048aabe5",
+        "source": true
+      },
+      {
+        "id": "ac65b51a-fa20-4440-bdf0-0fa77d6caa08",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CONTACT",
+        "otherParticipantId": "918a7930-1e48-462b-83c9-61888c33476e",
+        "source": true
+      },
+      {
+        "id": "baaefc3b-6587-4544-8b47-1697271c80e9",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_EVENT",
+        "otherParticipantId": "3b2825b8-9ac5-4c9e-83df-d37ff9205463",
+        "target": true
+      }
+    ],
+    "usualPlaceOfResidenceLocationId": "SN001023001000000000",
+    "createdAt": "2020-06-08T12:39:54.100Z",
+    "createdBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "updatedAt": "2020-08-21T09:58:07.167Z",
+    "updatedBy": "adf6e5ca-77ac-4eaa-84fb-4be588c5d74a",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "Ousmane",
+    "gender": "LNG_REFERENCE_DATA_CATEGORY_GENDER_MALE",
+    "wasContact": false,
+    "outcomeId": "LNG_REFERENCE_DATA_CATEGORY_OUTCOME_RECOVERED",
+    "safeBurial": false,
+    "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_PROBABLE",
+    "transferRefused": false,
+    "questionnaireAnswers": {
+      "report_test_reason": [
+        {
+          "value": "case_contact"
+        }
+      ],
+      "Comcond_present": [
+        {
+          "value": "no"
+        }
+      ],
+      "FA1_preexistingconditions_diabetes": [],
+      "FA1_preexistingconditions_chronickidneydisease": [],
+      "FA1_preexistingconditions_cancer": [],
+      "FA2_complications_cardiacfailure": [],
+      "FA1_preexistingconditions_chronicliverdisease": [],
+      "FA1_preexistingconditions_chroniclungdiseasenonasthma": []
+    },
+    "pregnancyStatus": "LNG_REFERENCE_DATA_CATEGORY_PREGNANCY_STATUS_NOT_PREGNANT",
+    "id": "ebc39d79-246b-433e-8a0d-8b34ddff784a",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "visualId": "CASE-2020-0033",
+    "age": {
+      "years": 5
+    },
+    "occupation": "LNG_REFERENCE_DATA_CATEGORY_OCCUPATION_CHILD",
+    "addresses": [
+      {
+        "3": {},
+        "typeId": "LNG_REFERENCE_DATA_CATEGORY_ADDRESS_TYPE_USUAL_PLACE_OF_RESIDENCE",
+        "locationId": "SN001011001000000000",
+        "geoLocationAccurate": false,
+        "geoLocation": {
+          "lat": 79.992611,
+          "lng": 51.151047
+        }
+      }
+    ],
+    "dateOfReporting": "2020-07-13T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfOnset": "2020-07-10T00:00:00.000Z",
+    "dateRanges": [
+      {
+        "typeId": "LNG_REFERENCE_DATA_CATEGORY_PERSON_DATE_TYPE_HOSPITALIZATION",
+        "centerName": null,
+        "locationId": null,
+        "comments": null,
+        "startDate": "2020-06-02T00:00:00.000Z",
+        "endDate": "2020-06-06T00:00:00.000Z"
+      }
+    ],
+    "classificationHistory": [
+      {
+        "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_PROBABLE",
+        "startDate": "2020-06-08T00:00:00.000Z",
+        "endDate": null
+      }
+    ],
+    "dateOfOutcome": "2020-05-15T00:00:00.000Z",
+    "hasRelationships": false,
+    "relationshipsRepresentation": [],
+    "usualPlaceOfResidenceLocationId": "SN001011001000000000",
+    "createdAt": "2020-06-08T12:39:55.848Z",
+    "createdBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "updatedAt": "2020-07-30T17:33:09.666Z",
+    "updatedBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "Ousseynou",
+    "gender": "LNG_REFERENCE_DATA_CATEGORY_GENDER_MALE",
+    "wasContact": false,
+    "outcomeId": "LNG_REFERENCE_DATA_CATEGORY_OUTCOME_DECEASED",
+    "safeBurial": false,
+    "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_SUSPECT",
+    "transferRefused": false,
+    "questionnaireAnswers": {
+      "report_test_reason": [
+        {
+          "value": "repatriation"
+        }
+      ],
+      "Comcond_present": [
+        {
+          "value": "yes"
+        }
+      ],
+      "FA1_preexistingconditions_diabetes": [
+        {
+          "value": "Yes"
+        }
+      ],
+      "FA1_preexistingconditions_chronickidneydisease": [],
+      "FA1_preexistingconditions_cancer": [],
+      "FA2_complications_cardiacfailure": [],
+      "FA1_preexistingconditions_chronicliverdisease": [],
+      "FA1_preexistingconditions_chroniclungdiseasenonasthma": []
+    },
+    "pregnancyStatus": "LNG_REFERENCE_DATA_CATEGORY_PREGNANCY_STATUS_NOT_PREGNANT",
+    "id": "2c5ac1ac-4a31-424a-a306-905e51bd2807",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "visualId": "CASE-2020-0030",
+    "age": {
+      "years": 52
+    },
+    "occupation": "LNG_REFERENCE_DATA_CATEGORY_OCCUPATION_FARMER",
+    "addresses": [
+      {
+        "3": {},
+        "typeId": "LNG_REFERENCE_DATA_CATEGORY_ADDRESS_TYPE_USUAL_PLACE_OF_RESIDENCE",
+        "locationId": "SN001023002000000000",
+        "geoLocationAccurate": false,
+        "geoLocation": {
+          "lat": 80.156925,
+          "lng": 49.943489
+        }
+      }
+    ],
+    "dateOfReporting": "2020-07-16T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfLastContact": "2020-06-17T00:00:00.000Z",
+    "dateOfOnset": "2020-07-16T00:00:00.000Z",
+    "dateRanges": [
+      {
+        "typeId": "LNG_REFERENCE_DATA_CATEGORY_PERSON_DATE_TYPE_HOSPITALIZATION",
+        "centerName": null,
+        "locationId": null,
+        "comments": null,
+        "startDate": "2020-06-10T00:00:00.000Z",
+        "endDate": "2020-06-16T00:00:00.000Z"
+      }
+    ],
+    "classificationHistory": [
+      {
+        "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_SUSPECT",
+        "startDate": "2020-06-08T00:00:00.000Z",
+        "endDate": null
+      }
+    ],
+    "dateOfOutcome": "2020-05-29T00:00:00.000Z",
+    "hasRelationships": true,
+    "relationshipsRepresentation": [
+      {
+        "id": "507aed50-692c-44f5-a680-b2c92f5347a1",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CONTACT",
+        "otherParticipantId": "efd9e740-71db-44ad-a3f9-6f072afbb604",
+        "source": true
+      },
+      {
+        "id": "3db80f8b-a81e-487d-bd7a-235e18c94208",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CONTACT",
+        "otherParticipantId": "4b501c81-7dab-4de7-b8a7-3124c55ac17f",
+        "source": true
+      },
+      {
+        "id": "36ada744-a05a-4c0f-bed3-b15f89113125",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CONTACT",
+        "otherParticipantId": "726d34f9-6d89-41e3-89ef-85093c6f4b61",
+        "source": true
+      },
+      {
+        "id": "867df3d9-8a72-4e90-9ed0-209b587124ed",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_EVENT",
+        "otherParticipantId": "5633dc8c-5881-42ee-b5ae-1e60aa6b54b0",
+        "target": true
+      }
+    ],
+    "usualPlaceOfResidenceLocationId": "SN001023002000000000",
+    "createdAt": "2020-06-08T12:40:03.645Z",
+    "createdBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "updatedAt": "2020-08-21T09:58:05.988Z",
+    "updatedBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "Pape",
+    "gender": "LNG_REFERENCE_DATA_CATEGORY_GENDER_MALE",
+    "wasContact": false,
+    "outcomeId": "LNG_REFERENCE_DATA_CATEGORY_OUTCOME_RECOVERED",
+    "safeBurial": false,
+    "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_CONFIRMED",
+    "transferRefused": false,
+    "questionnaireAnswers": {
+      "report_test_reason": [
+        {
+          "value": "seeking_hc"
+        }
+      ],
+      "Comcond_present": [
+        {
+          "value": "no"
+        }
+      ],
+      "FA1_preexistingconditions_diabetes": [],
+      "FA1_preexistingconditions_chronickidneydisease": [],
+      "FA1_preexistingconditions_cancer": [],
+      "FA2_complications_cardiacfailure": [],
+      "FA1_preexistingconditions_chronicliverdisease": [],
+      "FA1_preexistingconditions_chroniclungdiseasenonasthma": []
+    },
+    "pregnancyStatus": "LNG_REFERENCE_DATA_CATEGORY_PREGNANCY_STATUS_NOT_PREGNANT",
+    "id": "8cfa8a11-d84c-4ad9-9d06-7fde0fff2e74",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "visualId": "CASE-2020-0032",
+    "age": {
+      "years": 31
+    },
+    "occupation": "LNG_REFERENCE_DATA_CATEGORY_OCCUPATION_OTHER",
+    "addresses": [
+      {
+        "3": {},
+        "typeId": "LNG_REFERENCE_DATA_CATEGORY_ADDRESS_TYPE_USUAL_PLACE_OF_RESIDENCE",
+        "locationId": "SN001011002000000000",
+        "geoLocationAccurate": false,
+        "geoLocation": {
+          "lat": 79.93528,
+          "lng": 51.234656
+        }
+      }
+    ],
+    "dateOfReporting": "2020-08-02T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfLastContact": "2020-07-28T00:00:00.000Z",
+    "dateOfOnset": "2020-08-02T00:00:00.000Z",
+    "dateRanges": [
+      {
+        "typeId": "LNG_REFERENCE_DATA_CATEGORY_PERSON_DATE_TYPE_HOSPITALIZATION",
+        "centerName": null,
+        "locationId": null,
+        "comments": null,
+        "startDate": "2020-06-27T00:00:00.000Z",
+        "endDate": "2020-07-08T00:00:00.000Z"
+      }
+    ],
+    "classificationHistory": [
+      {
+        "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_CONFIRMED",
+        "startDate": "2020-06-08T00:00:00.000Z",
+        "endDate": null
+      }
+    ],
+    "dateOfOutcome": "2020-06-04T00:00:00.000Z",
+    "hasRelationships": true,
+    "relationshipsRepresentation": [
+      {
+        "id": "c759ec5b-5c1d-4ee0-8218-c913fe26cb4e",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CASE",
+        "otherParticipantId": "211b76da-5248-446e-8bf7-2bb449c9b1cf",
+        "target": true
+      }
+    ],
+    "usualPlaceOfResidenceLocationId": "SN001011002000000000",
+    "createdAt": "2020-06-08T12:40:05.641Z",
+    "createdBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "updatedAt": "2020-07-30T17:34:34.834Z",
+    "updatedBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "Samba",
+    "gender": "LNG_REFERENCE_DATA_CATEGORY_GENDER_MALE",
+    "wasContact": false,
+    "outcomeId": "LNG_REFERENCE_DATA_CATEGORY_OUTCOME_DECEASED",
+    "safeBurial": false,
+    "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_CONFIRMED",
+    "transferRefused": false,
+    "questionnaireAnswers": {
+      "report_test_reason": [
+        {
+          "value": "surveillance"
+        }
+      ],
+      "Comcond_present": [
+        {
+          "value": "yes"
+        }
+      ],
+      "FA2_complications_cardiacfailure": [
+        {
+          "value": "Yes"
+        }
+      ],
+      "would_you_like_to_complete_who_basic_case_questionnaire": [
+        {
+          "value": "no"
+        }
+      ]
+    },
+    "pregnancyStatus": "LNG_REFERENCE_DATA_CATEGORY_PREGNANCY_STATUS_NOT_PREGNANT",
+    "id": "4ff5c40f-a05d-4498-adbe-d1f561933bc5",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "visualId": "CASE-2020-0003",
+    "age": {
+      "years": 58
+    },
+    "occupation": "LNG_REFERENCE_DATA_CATEGORY_OCCUPATION_TRADITIONAL_HEALER",
+    "addresses": [
+      {
+        "typeId": "LNG_REFERENCE_DATA_CATEGORY_ADDRESS_TYPE_USUAL_PLACE_OF_RESIDENCE",
+        "country": null,
+        "city": null,
+        "addressLine1": null,
+        "postalCode": null,
+        "locationId": "SN001014003000000000",
+        "geoLocationAccurate": false,
+        "date": "2020-06-12T00:00:00.000Z",
+        "phoneNumber": null,
+        "addressLine2": null,
+        "geoLocation": {
+          "lat": 80.503533,
+          "lng": 48.190267
+        }
+      }
+    ],
+    "dateOfReporting": "2020-07-02T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfLastContact": "2020-06-07T00:00:00.000Z",
+    "dateOfOnset": "2020-06-28T00:00:00.000Z",
+    "dateRanges": [
+      {
+        "typeId": "LNG_REFERENCE_DATA_CATEGORY_PERSON_DATE_TYPE_HOSPITALIZATION",
+        "centerName": null,
+        "locationId": null,
+        "comments": null,
+        "startDate": "2020-05-22T00:00:00.000Z",
+        "endDate": "2020-05-23T00:00:00.000Z"
+      }
+    ],
+    "classificationHistory": [
+      {
+        "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_CONFIRMED",
+        "startDate": "2020-06-08T00:00:00.000Z",
+        "endDate": null
+      }
+    ],
+    "dateOfOutcome": "2020-05-06T00:00:00.000Z",
+    "hasRelationships": true,
+    "relationshipsRepresentation": [
+      {
+        "id": "c2f0a401-3eba-4655-828d-277006714239",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CASE",
+        "otherParticipantId": "418e1595-db57-462c-b167-7c8a03bb295b",
+        "target": true
+      },
+      {
+        "id": "362cfd43-8e2a-407a-b6f0-10c2acf6f4b4",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CONTACT",
+        "otherParticipantId": "ccb69168-505b-4dda-8bcf-1a9182f86b89",
+        "source": true
+      },
+      {
+        "id": "a66da6c0-dd66-4e5c-9763-da2eda51f4c6",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CONTACT",
+        "otherParticipantId": "d0745963-220e-4f5a-a76f-53daf82ea22c",
+        "source": true
+      }
+    ],
+    "usualPlaceOfResidenceLocationId": "SN001014003000000000",
+    "createdAt": "2020-06-08T12:40:10.169Z",
+    "createdBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "updatedAt": "2020-08-21T09:58:05.987Z",
+    "updatedBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "Samba",
+    "gender": "LNG_REFERENCE_DATA_CATEGORY_GENDER_FEMALE",
+    "wasContact": false,
+    "outcomeId": "LNG_REFERENCE_DATA_CATEGORY_OUTCOME_ALIVE",
+    "safeBurial": false,
+    "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_CONFIRMED",
+    "transferRefused": false,
+    "questionnaireAnswers": {
+      "patinfo_occuhcw_country": [
+        {
+          "value": "Trainingland"
+        }
+      ],
+      "would_you_like_to_complete_who_basic_case_questionnaire": [
+        {
+          "value": "no"
+        }
+      ]
+    },
+    "pregnancyStatus": "LNG_REFERENCE_DATA_CATEGORY_PREGNANCY_STATUS_NOT_PREGNANT",
+    "id": "969cc34f-e745-44fb-abd7-6efc4ecad196",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "age": {
+      "years": 45
+    },
+    "occupation": "LNG_REFERENCE_DATA_CATEGORY_OCCUPATION_WORKING_WITH_ANIMALS",
+    "addresses": [
+      {
+        "typeId": "LNG_REFERENCE_DATA_CATEGORY_ADDRESS_TYPE_USUAL_PLACE_OF_RESIDENCE",
+        "country": null,
+        "city": null,
+        "addressLine1": null,
+        "postalCode": null,
+        "locationId": "SN001014003000000000",
+        "geoLocationAccurate": false,
+        "date": "2020-06-12T00:00:00.000Z",
+        "phoneNumber": null,
+        "addressLine2": null,
+        "geoLocation": {
+          "lat": 80.49585,
+          "lng": 48.262621
+        }
+      }
+    ],
+    "dateOfReporting": "2020-07-17T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "classificationHistory": [
+      {
+        "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_CONFIRMED",
+        "startDate": "2020-06-10T00:00:00.000Z",
+        "endDate": null
+      }
+    ],
+    "dateOfOutcome": "2020-05-19T00:00:00.000Z",
+    "hasRelationships": false,
+    "relationshipsRepresentation": [],
+    "usualPlaceOfResidenceLocationId": "SN001014003000000000",
+    "createdAt": "2020-06-10T14:53:40.463Z",
+    "createdBy": "808ef7ce-5e38-4104-8c78-5e4fb0607f0a",
+    "updatedAt": "2020-07-30T17:33:12.314Z",
+    "updatedBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "Seynabou",
+    "gender": "LNG_REFERENCE_DATA_CATEGORY_GENDER_FEMALE",
+    "wasContact": false,
+    "outcomeId": null,
+    "safeBurial": false,
+    "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_CONFIRMED",
+    "transferRefused": false,
+    "questionnaireAnswers": {
+      "report_test_reason": [
+        {
+          "value": "case_contact"
+        }
+      ],
+      "Comcond_present": [
+        {
+          "value": "no"
+        }
+      ],
+      "FA1_preexistingconditions_diabetes": [],
+      "FA1_preexistingconditions_chronickidneydisease": [],
+      "FA1_preexistingconditions_cancer": [],
+      "FA2_complications_cardiacfailure": [],
+      "FA1_preexistingconditions_chronicliverdisease": [],
+      "FA1_preexistingconditions_chroniclungdiseasenonasthma": []
+    },
+    "pregnancyStatus": "LNG_REFERENCE_DATA_CATEGORY_PREGNANCY_STATUS_NOT_PREGNANT",
+    "id": "b89c50d9-37f3-4c89-9140-213fa752cdf2",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "visualId": "CASE-2020-0024",
+    "age": {
+      "years": 56
+    },
+    "occupation": "LNG_REFERENCE_DATA_CATEGORY_OCCUPATION_WORKING_WITH_ANIMALS",
+    "addresses": [
+      {
+        "3": {},
+        "typeId": "LNG_REFERENCE_DATA_CATEGORY_ADDRESS_TYPE_USUAL_PLACE_OF_RESIDENCE",
+        "locationId": "SN001023001000000000",
+        "geoLocationAccurate": false,
+        "geoLocation": {
+          "lat": 80.092831,
+          "lng": 49.979653
+        }
+      }
+    ],
+    "dateOfReporting": "2020-08-08T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfLastContact": "2020-11-01T00:00:00.000Z",
+    "dateOfOnset": "2020-08-09T00:00:00.000Z",
+    "dateRanges": [
+      {
+        "typeId": "LNG_REFERENCE_DATA_CATEGORY_PERSON_DATE_TYPE_HOSPITALIZATION",
+        "centerName": null,
+        "locationId": null,
+        "comments": null,
+        "startDate": "2020-07-05T00:00:00.000Z",
+        "endDate": "2020-07-16T00:00:00.000Z"
+      }
+    ],
+    "classificationHistory": [
+      {
+        "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_CONFIRMED",
+        "startDate": "2020-06-08T00:00:00.000Z",
+        "endDate": null
+      }
+    ],
+    "dateOfOutcome": null,
+    "hasRelationships": true,
+    "relationshipsRepresentation": [
+      {
+        "id": "e1aadbed-eafb-4000-a6e4-4537cbc1ecab",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CASE",
+        "otherParticipantId": "c46b7b3f-121d-4cf8-aff5-34750cc3442b",
+        "target": true
+      },
+      {
+        "id": "eef7349c-e29a-45e9-87da-44090dfa44cc",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CASE",
+        "otherParticipantId": "8465a143-0af4-4c4a-a1aa-20ce190b7a8d",
+        "target": true
+      },
+      {
+        "id": "731016bf-3254-410c-9b73-70aae971628c",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CASE",
+        "otherParticipantId": "8465a143-0af4-4c4a-a1aa-20ce190b7a8d",
+        "target": true
+      }
+    ],
+    "usualPlaceOfResidenceLocationId": "SN001023001000000000",
+    "createdAt": "2020-06-08T12:40:12.803Z",
+    "createdBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "updatedAt": "2020-11-16T09:00:09.356Z",
+    "updatedBy": "0c82815e-26d7-44ed-a234-a84301b4cc2c",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "Souleymane",
+    "gender": "LNG_REFERENCE_DATA_CATEGORY_GENDER_MALE",
+    "wasContact": false,
+    "outcomeId": "LNG_REFERENCE_DATA_CATEGORY_OUTCOME_RECOVERED",
+    "safeBurial": false,
+    "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_CONFIRMED",
+    "transferRefused": false,
+    "questionnaireAnswers": {
+      "report_test_reason": [
+        {
+          "value": "poe_detection"
+        }
+      ],
+      "Comcond_present": [
+        {
+          "value": "no"
+        }
+      ],
+      "FA1_preexistingconditions_diabetes": [],
+      "FA1_preexistingconditions_chronickidneydisease": [],
+      "FA1_preexistingconditions_cancer": [],
+      "FA2_complications_cardiacfailure": [],
+      "FA1_preexistingconditions_chronicliverdisease": [],
+      "FA1_preexistingconditions_chroniclungdiseasenonasthma": []
+    },
+    "pregnancyStatus": "LNG_REFERENCE_DATA_CATEGORY_PREGNANCY_STATUS_NOT_PREGNANT",
+    "id": "02f3ae04-e879-4c75-9eb5-08404b95eb5b",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "visualId": "CASE-2020-0005",
+    "age": {
+      "years": 23
+    },
+    "occupation": "LNG_REFERENCE_DATA_CATEGORY_OCCUPATION_STUDENT",
+    "addresses": [
+      {
+        "3": {},
+        "typeId": "LNG_REFERENCE_DATA_CATEGORY_ADDRESS_TYPE_USUAL_PLACE_OF_RESIDENCE",
+        "locationId": "SN001011010000000000",
+        "geoLocationAccurate": false,
+        "geoLocation": {
+          "lat": 79.96506,
+          "lng": 50.221539
+        }
+      }
+    ],
+    "dateOfReporting": "2020-07-04T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfLastContact": "2020-06-15T00:00:00.000Z",
+    "dateOfOnset": "2020-07-01T00:00:00.000Z",
+    "dateRanges": [
+      {
+        "typeId": "LNG_REFERENCE_DATA_CATEGORY_PERSON_DATE_TYPE_HOSPITALIZATION",
+        "centerName": null,
+        "locationId": null,
+        "comments": null,
+        "startDate": "2020-05-27T00:00:00.000Z",
+        "endDate": "2020-06-03T00:00:00.000Z"
+      }
+    ],
+    "classificationHistory": [
+      {
+        "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_CONFIRMED",
+        "startDate": "2020-06-08T00:00:00.000Z",
+        "endDate": null
+      }
+    ],
+    "dateOfOutcome": "2020-05-08T00:00:00.000Z",
+    "hasRelationships": true,
+    "relationshipsRepresentation": [
+      {
+        "id": "bc596e11-b694-45f5-886e-59858bfa3086",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CONTACT",
+        "otherParticipantId": "aeb0f75d-255a-4f54-a900-9f404e3af7b1",
+        "source": true
+      },
+      {
+        "id": "b004e8c3-e92d-49be-b439-a2d307c3ffb8",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CONTACT",
+        "otherParticipantId": "4dc896e4-bc11-478e-81b1-f08f5965161c",
+        "source": true
+      },
+      {
+        "id": "c51f4b6e-1e7c-442d-9155-a7489b58cf9b",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CONTACT",
+        "otherParticipantId": "772728c9-c9d1-4b89-98f7-a074db19b182",
+        "source": true
+      },
+      {
+        "id": "2a463e83-3a0e-4068-8491-fb928efcf784",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_EVENT",
+        "otherParticipantId": "8fd215fd-84d5-47bc-881f-0a9cb3939c15",
+        "source": true
+      }
+    ],
+    "usualPlaceOfResidenceLocationId": "SN001011010000000000",
+    "createdAt": "2020-06-08T12:40:15.203Z",
+    "createdBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "updatedAt": "2020-08-21T09:58:05.684Z",
+    "updatedBy": "adf6e5ca-77ac-4eaa-84fb-4be588c5d74a",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "carm",
+    "wasContact": false,
+    "safeBurial": false,
+    "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_CONFIRMADO_POR_LABORATORIO",
+    "transferRefused": false,
+    "vaccinesReceived": [],
+    "id": "35357f17-7b84-43bc-940b-afb522034336",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "age": {
+      "years": 0,
+      "months": 0
+    },
+    "documents": [],
+    "addresses": [
+      {
+        "typeId": "LNG_REFERENCE_DATA_CATEGORY_ADDRESS_TYPE_USUAL_PLACE_OF_RESIDENCE",
+        "locationId": "SN001000000000000000",
+        "geoLocationAccurate": false,
+        "date": "2020-11-02T00:00:00.000Z",
+        "geoLocation": {
+          "lat": 80.4559801,
+          "lng": 50.1710003
+        }
+      }
+    ],
+    "dateOfReporting": "2020-11-02T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateRanges": [],
+    "classificationHistory": [
+      {
+        "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_CONFIRMADO_POR_LABORATORIO",
+        "startDate": "2020-11-02T20:11:45.567Z"
+      }
+    ],
+    "hasRelationships": false,
+    "usualPlaceOfResidenceLocationId": "SN001000000000000000",
+    "createdAt": "2020-11-02T20:11:45.568Z",
+    "createdBy": "a8bf9a36-a118-403d-b8fc-f192a8ae1b9f",
+    "updatedAt": "2020-11-02T20:11:45.568Z",
+    "updatedBy": "a8bf9a36-a118-403d-b8fc-f192a8ae1b9f",
+    "createdOn": "API",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "James",
+    "wasContact": false,
+    "safeBurial": false,
+    "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_CONFIRMADO_POR_LABORATORIO",
+    "transferRefused": false,
+    "vaccinesReceived": [],
+    "id": "dd9fc338-596e-421d-bea1-0073cc7f6fb4",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "lastName": "Doe",
+    "age": {
+      "years": 0,
+      "months": 0
+    },
+    "documents": [],
+    "addresses": [
+      {
+        "typeId": "LNG_REFERENCE_DATA_CATEGORY_ADDRESS_TYPE_USUAL_PLACE_OF_RESIDENCE",
+        "locationId": "4f2be592-bdee-4b01-a8c2-dcabe8cd3ac1",
+        "geoLocationAccurate": false,
+        "date": "2020-11-23T00:00:00.000Z",
+        "geoLocation": {
+          "lat": 43.3456,
+          "lng": 21.4567
+        }
+      }
+    ],
+    "dateOfReporting": "2020-11-22T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfLastContact": "2020-11-22T00:00:00.000Z",
+    "dateRanges": [],
+    "classificationHistory": [
+      {
+        "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_CONFIRMADO_POR_LABORATORIO",
+        "startDate": "2020-11-23T08:27:00.192Z"
+      }
+    ],
+    "hasRelationships": true,
+    "relationshipsRepresentation": [
+      {
+        "id": "c1bc5bef-58ff-4f8e-9e65-d0a3240f62c0",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CASE",
+        "otherParticipantId": "c70f107b-ca16-4d05-a8ae-01abb04631b8",
+        "target": true
+      }
+    ],
+    "usualPlaceOfResidenceLocationId": "4f2be592-bdee-4b01-a8c2-dcabe8cd3ac1",
+    "createdAt": "2020-11-23T08:27:00.192Z",
+    "createdBy": "0c82815e-26d7-44ed-a234-a84301b4cc2c",
+    "updatedAt": "2020-11-23T08:37:41.199Z",
+    "updatedBy": "0c82815e-26d7-44ed-a234-a84301b4cc2c",
+    "createdOn": "API",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "Joanna",
+    "wasContact": false,
+    "safeBurial": false,
+    "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_CONFIRMED",
+    "transferRefused": false,
+    "vaccinesReceived": [],
+    "id": "c70f107b-ca16-4d05-a8ae-01abb04631b8",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "lastName": "Doe",
+    "age": {
+      "years": 0,
+      "months": 0
+    },
+    "documents": [],
+    "addresses": [
+      {
+        "typeId": "LNG_REFERENCE_DATA_CATEGORY_ADDRESS_TYPE_USUAL_PLACE_OF_RESIDENCE",
+        "locationId": "4f2be592-bdee-4b01-a8c2-dcabe8cd3ac1",
+        "geoLocationAccurate": false,
+        "date": "2020-11-23T00:00:00.000Z",
+        "geoLocation": {
+          "lat": 43.3456,
+          "lng": 21.4567
+        }
+      }
+    ],
+    "dateOfReporting": "2020-11-22T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfLastContact": "2020-11-22T00:00:00.000Z",
+    "dateRanges": [],
+    "classificationHistory": [
+      {
+        "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_SUSPECT",
+        "startDate": "2020-11-23T08:35:32.466Z",
+        "endDate": "2020-11-23T08:35:57.985Z"
+      },
+      {
+        "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_CONFIRMED",
+        "startDate": "2020-11-23T08:35:57.985Z",
+        "endDate": null
+      }
+    ],
+    "hasRelationships": true,
+    "relationshipsRepresentation": [
+      {
+        "id": "c1bc5bef-58ff-4f8e-9e65-d0a3240f62c0",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CASE",
+        "otherParticipantId": "dd9fc338-596e-421d-bea1-0073cc7f6fb4",
+        "source": true
+      }
+    ],
+    "usualPlaceOfResidenceLocationId": "4f2be592-bdee-4b01-a8c2-dcabe8cd3ac1",
+    "createdAt": "2020-11-23T08:35:32.466Z",
+    "createdBy": "0c82815e-26d7-44ed-a234-a84301b4cc2c",
+    "updatedAt": "2020-11-23T08:37:41.201Z",
+    "updatedBy": "0c82815e-26d7-44ed-a234-a84301b4cc2c",
+    "createdOn": "API",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "Elisabeth",
+    "gender": "LNG_REFERENCE_DATA_CATEGORY_GENDER_FEMALE",
+    "isDateOfOnsetApproximate": true,
+    "wasContact": false,
+    "outcomeId": "LNG_REFERENCE_DATA_CATEGORY_OUTCOME_DECEASED",
+    "safeBurial": false,
+    "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_CONFIRMED",
+    "transferRefused": true,
+    "questionnaireAnswers": {
+      "report_test_reason": [
+        {
+          "value": "surveillance"
+        }
+      ],
+      "Comcond_present": [
+        {
+          "value": "yes"
+        }
+      ],
+      "FA1_preexistingconditions_chroniclungdiseasenonasthma": [
+        {
+          "value": "Yes"
+        }
+      ],
+      "would_you_like_to_complete_who_basic_case_questionnaire": [
+        {
+          "value": "no"
+        }
+      ]
+    },
+    "pregnancyStatus": "LNG_REFERENCE_DATA_CATEGORY_PREGNANCY_STATUS_NOT_PREGNANT",
+    "id": "418e1595-db57-462c-b167-7c8a03bb295b",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "visualId": "CASE-2020-0001",
+    "lastName": "Hopkins",
+    "age": {
+      "years": 49
+    },
+    "occupation": "LNG_REFERENCE_DATA_CATEGORY_OCCUPATION_FARMER",
+    "addresses": [
+      {
+        "3": {},
+        "typeId": "LNG_REFERENCE_DATA_CATEGORY_ADDRESS_TYPE_USUAL_PLACE_OF_RESIDENCE",
+        "locationId": "SN001014003000000000",
+        "geoLocationAccurate": false,
+        "geoLocation": {
+          "lat": 80.493903,
+          "lng": 48.254891
+        }
+      }
+    ],
+    "dateOfReporting": "2020-06-29T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfLastContact": "2020-07-17T00:00:00.000Z",
+    "dateOfOnset": "2020-06-24T00:00:00.000Z",
+    "dateRanges": [
+      {
+        "typeId": "LNG_REFERENCE_DATA_CATEGORY_PERSON_DATE_TYPE_HOSPITALIZATION",
+        "centerName": null,
+        "locationId": null,
+        "comments": null,
+        "startDate": "2020-05-17T00:00:00.000Z",
+        "endDate": "2020-05-20T00:00:00.000Z"
+      }
+    ],
+    "classificationHistory": [
+      {
+        "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_CONFIRMED",
+        "startDate": "2020-06-08T00:00:00.000Z",
+        "endDate": null
+      }
+    ],
+    "dateOfOutcome": "2020-05-04T00:00:00.000Z",
+    "hasRelationships": true,
+    "relationshipsRepresentation": [
+      {
+        "id": "3eebedb4-d086-4a42-b086-70af25b77d1a",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CONTACT",
+        "otherParticipantId": "95941c2d-b94a-4c10-b518-59444cf3ab01",
+        "source": true
+      },
+      {
+        "id": "6d3b7d85-c923-44c5-aa61-973ecadcf09d",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CONTACT",
+        "otherParticipantId": "b6b2d286-6a91-4bb7-a65d-90353ada5d2c",
+        "source": true
+      },
+      {
+        "id": "c41484a1-0a6f-4364-a7aa-facad78db837",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CONTACT",
+        "otherParticipantId": "7cf8fded-44d7-42f1-a218-d8b8f5d62078",
+        "source": true
+      },
+      {
+        "id": "367eda86-1074-4833-904c-ce0ca0d79621",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CASE",
+        "otherParticipantId": "3225fe6a-01db-4710-8cb7-1863e1bfd968",
+        "source": true
+      },
+      {
+        "id": "93b14d22-6a45-4a62-a22e-1512bd4595d9",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CONTACT",
+        "otherParticipantId": "874c5b14-f983-456b-a329-91ecfc09fd46",
+        "source": true
+      },
+      {
+        "id": "b0050b36-adc4-46b2-a8ad-131222dd029e",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CONTACT",
+        "otherParticipantId": "4fcdb57b-ec1e-47ba-a938-350ae798d8d1",
+        "source": true
+      },
+      {
+        "id": "290a7262-b0d2-4b7e-80f1-de9658ae0fb8",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CASE",
+        "otherParticipantId": "79cee4f8-6c47-45d6-aa2c-1cc2ed8eb4eb",
+        "source": true
+      },
+      {
+        "id": "c2f0a401-3eba-4655-828d-277006714239",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CASE",
+        "otherParticipantId": "4ff5c40f-a05d-4498-adbe-d1f561933bc5",
+        "source": true
+      }
+    ],
+    "usualPlaceOfResidenceLocationId": "SN001014003000000000",
+    "createdAt": "2020-06-08T12:39:07.264Z",
+    "createdBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "updatedAt": "2020-08-21T09:58:05.684Z",
+    "updatedBy": "adf6e5ca-77ac-4eaa-84fb-4be588c5d74a",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "Elisabeth",
+    "gender": "LNG_REFERENCE_DATA_CATEGORY_GENDER_FEMALE",
+    "wasContact": false,
+    "outcomeId": "LNG_REFERENCE_DATA_CATEGORY_OUTCOME_RECOVERED",
+    "safeBurial": false,
+    "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_CONFIRMED",
+    "transferRefused": false,
+    "questionnaireAnswers": {
+      "patinfo_occuhcw_country": [
+        {
+          "value": "Trainingland"
+        }
+      ],
+      "would_you_like_to_complete_who_basic_case_questionnaire": [
+        {
+          "value": "no"
+        }
+      ]
+    },
+    "pregnancyStatus": "LNG_REFERENCE_DATA_CATEGORY_PREGNANCY_STATUS_NOT_PREGNANT",
+    "id": "0714f53c-b315-400c-9afe-4dea978458d2",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "lastName": "Hopkins",
+    "age": {
+      "years": 43
+    },
+    "occupation": "LNG_REFERENCE_DATA_CATEGORY_OCCUPATION_HEALTH_CARE_WORKER",
+    "addresses": [
+      {
+        "typeId": "LNG_REFERENCE_DATA_CATEGORY_ADDRESS_TYPE_USUAL_PLACE_OF_RESIDENCE",
+        "country": null,
+        "city": null,
+        "addressLine1": null,
+        "postalCode": null,
+        "locationId": "SN001014003000000000",
+        "geoLocationAccurate": false,
+        "date": "2020-06-12T00:00:00.000Z",
+        "phoneNumber": null,
+        "addressLine2": null,
+        "geoLocation": {
+          "lat": 80.493903,
+          "lng": 48.254891
+        }
+      }
+    ],
+    "dateOfReporting": "2020-07-14T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "dateOfLastContact": "2020-10-19T00:00:00.000Z",
+    "classificationHistory": [
+      {
+        "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_CONFIRMED",
+        "startDate": "2020-06-10T00:00:00.000Z",
+        "endDate": null
+      }
+    ],
+    "dateOfOutcome": "2020-05-16T00:00:00.000Z",
+    "hasRelationships": true,
+    "relationshipsRepresentation": [
+      {
+        "id": "7ce8f54e-238f-454d-b7ac-49068c626db1",
+        "active": true,
+        "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_EVENT",
+        "otherParticipantId": "2f99f4f2-06ad-4ac6-b352-ae7d87b77281",
+        "target": true,
+        "source": null
+      }
+    ],
+    "usualPlaceOfResidenceLocationId": "SN001014003000000000",
+    "createdAt": "2020-06-10T14:53:40.318Z",
+    "createdBy": "808ef7ce-5e38-4104-8c78-5e4fb0607f0a",
+    "updatedAt": "2020-10-19T21:06:57.445Z",
+    "updatedBy": "eff67980-d2c0-4a9d-bd08-f20dad487635",
+    "deleted": false,
+    "address": {}
+  },
+  {
+    "firstName": "Charles",
+    "gender": "LNG_REFERENCE_DATA_CATEGORY_GENDER_MALE",
+    "wasContact": false,
+    "outcomeId": "LNG_REFERENCE_DATA_CATEGORY_OUTCOME_RECOVERED",
+    "safeBurial": false,
+    "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_PROBABLE",
+    "transferRefused": false,
+    "questionnaireAnswers": {
+      "patinfo_occuhcw_country": [
+        {
+          "value": "Trainingland"
+        }
+      ],
+      "would_you_like_to_complete_who_basic_case_questionnaire": [
+        {
+          "value": "no"
+        }
+      ]
+    },
+    "pregnancyStatus": "LNG_REFERENCE_DATA_CATEGORY_PREGNANCY_STATUS_NOT_PREGNANT",
+    "id": "1996f8b5-4df7-4b59-a961-00f57eaad462",
+    "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+    "lastName": "Williams",
+    "age": {
+      "years": 43
+    },
+    "occupation": "LNG_REFERENCE_DATA_CATEGORY_OCCUPATION_HEALTH_CARE_WORKER",
+    "addresses": [
+      {
+        "typeId": "LNG_REFERENCE_DATA_CATEGORY_ADDRESS_TYPE_USUAL_PLACE_OF_RESIDENCE",
+        "country": null,
+        "city": null,
+        "addressLine1": null,
+        "postalCode": null,
+        "locationId": "SN001014003000000000",
+        "geoLocationAccurate": false,
+        "date": "2020-06-12T00:00:00.000Z",
+        "phoneNumber": null,
+        "addressLine2": null,
+        "geoLocation": {
+          "lat": 80.493903,
+          "lng": 48.254891
+        }
+      }
+    ],
+    "dateOfReporting": "2020-07-15T00:00:00.000Z",
+    "isDateOfReportingApproximate": false,
+    "classificationHistory": [
+      {
+        "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_PROBABLE",
+        "startDate": "2020-06-10T00:00:00.000Z",
+        "endDate": null
+      }
+    ],
+    "dateOfOutcome": "2020-05-17T00:00:00.000Z",
+    "hasRelationships": false,
+    "relationshipsRepresentation": [],
+    "usualPlaceOfResidenceLocationId": "SN001014003000000000",
+    "createdAt": "2020-06-10T14:53:40.351Z",
+    "createdBy": "808ef7ce-5e38-4104-8c78-5e4fb0607f0a",
+    "updatedAt": "2020-07-30T17:33:15.732Z",
+    "updatedBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+    "deleted": false,
+    "address": {}
+  }
+]
