@@ -1,0 +1,756 @@
+{
+    "headers": [
+        {
+            "name": "pe",
+            "column": "Period",
+            "valueType": "TEXT",
+            "type": "java.lang.String",
+            "hidden": false,
+            "meta": true
+        },
+        {
+            "name": "lv8UXn17ZOm",
+            "column": "Morbidity/Mortality",
+            "valueType": "TEXT",
+            "type": "java.lang.String",
+            "hidden": false,
+            "meta": true
+        },
+        {
+            "name": "jp826jAJHUc",
+            "column": "Diagnosis",
+            "valueType": "TEXT",
+            "type": "java.lang.String",
+            "hidden": false,
+            "meta": true
+        },
+        {
+            "name": "value",
+            "column": "Value",
+            "valueType": "NUMBER",
+            "type": "java.lang.Double",
+            "hidden": false,
+            "meta": false
+        },
+        {
+            "name": "numerator",
+            "column": "Numerator",
+            "valueType": "NUMBER",
+            "type": "java.lang.Double",
+            "hidden": false,
+            "meta": false
+        },
+        {
+            "name": "denominator",
+            "column": "Denominator",
+            "valueType": "NUMBER",
+            "type": "java.lang.Double",
+            "hidden": false,
+            "meta": false
+        },
+        {
+            "name": "factor",
+            "column": "Factor",
+            "valueType": "NUMBER",
+            "type": "java.lang.Double",
+            "hidden": false,
+            "meta": false
+        },
+        {
+            "name": "multiplier",
+            "column": "Multiplier",
+            "valueType": "NUMBER",
+            "type": "java.lang.Double",
+            "hidden": false,
+            "meta": false
+        },
+        {
+            "name": "divisor",
+            "column": "Divisor",
+            "valueType": "NUMBER",
+            "type": "java.lang.Double",
+            "hidden": false,
+            "meta": false
+        }
+    ],
+    "metaData": {
+        "items": {
+            "U0uJG4kydwE": {
+                "uid": "U0uJG4kydwE",
+                "name": "Leprosy",
+                "dimensionItemType": "DATA_ELEMENT_GROUP",
+                "valueType": "NUMBER",
+                "aggregationType": "SUM",
+                "totalAggregationType": "SUM"
+            },
+            "kE8lP5t0b5R": {
+                "uid": "kE8lP5t0b5R",
+                "name": "Diarrhoea Without Severe Dehydration",
+                "dimensionItemType": "DATA_ELEMENT_GROUP",
+                "valueType": "NUMBER",
+                "aggregationType": "SUM",
+                "totalAggregationType": "SUM"
+            },
+            "VCoSeRRVS1n": {
+                "uid": "VCoSeRRVS1n",
+                "name": "Skin Infection",
+                "dimensionItemType": "DATA_ELEMENT_GROUP",
+                "valueType": "NUMBER",
+                "aggregationType": "SUM",
+                "totalAggregationType": "SUM"
+            },
+            "THIS_YEAR": {
+                "name": "This year"
+            },
+            "HDdnX6XqxIn": {
+                "uid": "HDdnX6XqxIn",
+                "name": "Onchocerciasis",
+                "dimensionItemType": "DATA_ELEMENT_GROUP",
+                "valueType": "NUMBER",
+                "aggregationType": "SUM",
+                "totalAggregationType": "SUM"
+            },
+            "RSFc8ADyKTw": {
+                "uid": "RSFc8ADyKTw",
+                "name": "Diarrhoea With Severe Dehydration",
+                "dimensionItemType": "DATA_ELEMENT_GROUP",
+                "valueType": "NUMBER",
+                "aggregationType": "SUM",
+                "totalAggregationType": "SUM"
+            },
+            "LgtuBcNaMB3": {
+                "uid": "LgtuBcNaMB3",
+                "name": "Tetanus",
+                "dimensionItemType": "DATA_ELEMENT_GROUP",
+                "valueType": "NUMBER",
+                "aggregationType": "SUM",
+                "totalAggregationType": "SUM"
+            },
+            "LqG1FnAUhyb": {
+                "uid": "LqG1FnAUhyb",
+                "name": "Schistosomiasis",
+                "dimensionItemType": "DATA_ELEMENT_GROUP",
+                "valueType": "NUMBER",
+                "aggregationType": "SUM",
+                "totalAggregationType": "SUM"
+            },
+            "yhg8oYU9ekY": {
+                "uid": "yhg8oYU9ekY",
+                "name": "ARI Treated Without Antibiotics (Cough)",
+                "dimensionItemType": "DATA_ELEMENT_GROUP",
+                "valueType": "NUMBER",
+                "aggregationType": "SUM",
+                "totalAggregationType": "SUM"
+            },
+            "qk2KOBMX4Mf": {
+                "uid": "qk2KOBMX4Mf",
+                "name": "Measles",
+                "dimensionItemType": "DATA_ELEMENT_GROUP",
+                "valueType": "NUMBER",
+                "aggregationType": "SUM",
+                "totalAggregationType": "SUM"
+            },
+            "mcjC3qZgIkO": {
+                "uid": "mcjC3qZgIkO",
+                "name": "Diarrhoea With Blood (Dysentery)",
+                "dimensionItemType": "DATA_ELEMENT_GROUP",
+                "valueType": "NUMBER",
+                "aggregationType": "SUM",
+                "totalAggregationType": "SUM"
+            },
+            "KUSvwZQsMSN": {
+                "uid": "KUSvwZQsMSN",
+                "name": "Cholera",
+                "dimensionItemType": "DATA_ELEMENT_GROUP",
+                "valueType": "NUMBER",
+                "aggregationType": "SUM",
+                "totalAggregationType": "SUM"
+            },
+            "jp826jAJHUc": {
+                "uid": "jp826jAJHUc",
+                "name": "Diagnosis",
+                "dimensionType": "DATA_ELEMENT_GROUP_SET"
+            },
+            "weRMUzBs8T7": {
+                "uid": "weRMUzBs8T7",
+                "name": "New cases",
+                "dimensionItemType": "DATA_ELEMENT_GROUP",
+                "valueType": "NUMBER",
+                "aggregationType": "SUM",
+                "totalAggregationType": "SUM"
+            },
+            "SriP0jBXMr6": {
+                "uid": "SriP0jBXMr6",
+                "name": "Lassa Fever",
+                "dimensionItemType": "DATA_ELEMENT_GROUP",
+                "valueType": "NUMBER",
+                "aggregationType": "SUM",
+                "totalAggregationType": "SUM"
+            },
+            "GBHN1a1Jddh": {
+                "uid": "GBHN1a1Jddh",
+                "name": "All Others",
+                "dimensionItemType": "DATA_ELEMENT_GROUP",
+                "valueType": "NUMBER",
+                "aggregationType": "AVERAGE",
+                "totalAggregationType": "SUM"
+            },
+            "KmwPVkjp7yl": {
+                "uid": "KmwPVkjp7yl",
+                "name": "Anaemia",
+                "dimensionItemType": "DATA_ELEMENT_GROUP",
+                "valueType": "NUMBER",
+                "aggregationType": "SUM",
+                "totalAggregationType": "SUM"
+            },
+            "zmWJAEjfv59": {
+                "uid": "zmWJAEjfv59",
+                "name": "Yaws",
+                "dimensionItemType": "DATA_ELEMENT_GROUP",
+                "valueType": "NUMBER",
+                "aggregationType": "SUM",
+                "totalAggregationType": "SUM"
+            },
+            "HKU7L73im5r": {
+                "uid": "HKU7L73im5r",
+                "name": "HIV/AIDS",
+                "dimensionItemType": "DATA_ELEMENT_GROUP",
+                "valueType": "NUMBER",
+                "totalAggregationType": "SUM"
+            },
+            "HAraPb0v7ex": {
+                "uid": "HAraPb0v7ex",
+                "name": "Yellow Fever",
+                "dimensionItemType": "DATA_ELEMENT_GROUP",
+                "valueType": "NUMBER",
+                "aggregationType": "SUM",
+                "totalAggregationType": "SUM"
+            },
+            "ZPtRFVLY40u": {
+                "uid": "ZPtRFVLY40u",
+                "name": "Pregnancy-related (PHUF5)",
+                "dimensionItemType": "DATA_ELEMENT_GROUP",
+                "valueType": "NUMBER",
+                "aggregationType": "SUM",
+                "totalAggregationType": "SUM"
+            },
+            "yHtsPZqpAxm": {
+                "uid": "yHtsPZqpAxm",
+                "name": "Tuberculosis",
+                "dimensionItemType": "DATA_ELEMENT_GROUP",
+                "valueType": "NUMBER",
+                "aggregationType": "SUM",
+                "totalAggregationType": "SUM"
+            },
+            "IUZ0GidX0jh": {
+                "uid": "IUZ0GidX0jh",
+                "name": "Wounds/Trauma",
+                "dimensionItemType": "DATA_ELEMENT_GROUP",
+                "valueType": "NUMBER",
+                "aggregationType": "SUM",
+                "totalAggregationType": "SUM"
+            },
+            "oGktdmYkRNo": {
+                "uid": "oGktdmYkRNo",
+                "name": "Burns",
+                "dimensionItemType": "DATA_ELEMENT_GROUP",
+                "valueType": "NUMBER",
+                "aggregationType": "SUM",
+                "totalAggregationType": "SUM"
+            },
+            "TzwKbcw1nUK": {
+                "uid": "TzwKbcw1nUK",
+                "name": "Malaria",
+                "dimensionItemType": "DATA_ELEMENT_GROUP",
+                "valueType": "NUMBER",
+                "aggregationType": "SUM",
+                "totalAggregationType": "SUM"
+            },
+            "UAEhIWpoQFN": {
+                "uid": "UAEhIWpoQFN",
+                "name": "Neonatal Tetanus",
+                "dimensionItemType": "DATA_ELEMENT_GROUP",
+                "valueType": "NUMBER",
+                "aggregationType": "SUM",
+                "totalAggregationType": "SUM"
+            },
+            "2020": {
+                "uid": "2020",
+                "code": "2020",
+                "name": "2020",
+                "dimensionItemType": "PERIOD",
+                "valueType": "NUMBER",
+                "totalAggregationType": "SUM",
+                "startDate": "2020-01-01T00:00:00.000",
+                "endDate": "2020-12-31T00:00:00.000"
+            },
+            "lv8UXn17ZOm": {
+                "uid": "lv8UXn17ZOm",
+                "name": "Morbidity/Mortality",
+                "dimensionType": "DATA_ELEMENT_GROUP_SET"
+            },
+            "UmyRWILcoed": {
+                "uid": "UmyRWILcoed",
+                "name": "STI - Genital Ulcer",
+                "dimensionItemType": "DATA_ELEMENT_GROUP",
+                "valueType": "NUMBER",
+                "aggregationType": "SUM",
+                "totalAggregationType": "SUM"
+            },
+            "jWgEsdH87Jk": {
+                "uid": "jWgEsdH87Jk",
+                "name": "Hypertension",
+                "dimensionItemType": "DATA_ELEMENT_GROUP",
+                "valueType": "NUMBER",
+                "aggregationType": "SUM",
+                "totalAggregationType": "SUM"
+            },
+            "Euvh58hLl61": {
+                "uid": "Euvh58hLl61",
+                "name": "Clinical Malnutrition",
+                "dimensionItemType": "DATA_ELEMENT_GROUP",
+                "valueType": "NUMBER",
+                "aggregationType": "SUM",
+                "totalAggregationType": "SUM"
+            },
+            "lLKpwhjd1dM": {
+                "uid": "lLKpwhjd1dM",
+                "name": "Eye Infection",
+                "dimensionItemType": "DATA_ELEMENT_GROUP",
+                "valueType": "NUMBER",
+                "aggregationType": "SUM",
+                "totalAggregationType": "SUM"
+            },
+            "xNrDrDbJgnm": {
+                "uid": "xNrDrDbJgnm",
+                "name": "STI - Genital Discharge",
+                "dimensionItemType": "DATA_ELEMENT_GROUP",
+                "valueType": "NUMBER",
+                "aggregationType": "SUM",
+                "totalAggregationType": "SUM"
+            },
+            "JZ3usxLEcc9": {
+                "uid": "JZ3usxLEcc9",
+                "name": "Otitis Media",
+                "dimensionItemType": "DATA_ELEMENT_GROUP",
+                "valueType": "NUMBER",
+                "aggregationType": "SUM",
+                "totalAggregationType": "SUM"
+            },
+            "dUK38PhdUdV": {
+                "uid": "dUK38PhdUdV",
+                "name": "Typhoid Fever",
+                "dimensionItemType": "DATA_ELEMENT_GROUP",
+                "valueType": "NUMBER",
+                "aggregationType": "SUM",
+                "totalAggregationType": "SUM"
+            },
+            "M2cth8EmrlT": {
+                "uid": "M2cth8EmrlT",
+                "name": "ARI treated with antibiotics (Pneumonia)",
+                "dimensionItemType": "DATA_ELEMENT_GROUP",
+                "valueType": "NUMBER",
+                "aggregationType": "SUM",
+                "totalAggregationType": "SUM"
+            },
+            "pe": {
+                "uid": "pe",
+                "name": "Period",
+                "dimensionType": "PERIOD"
+            },
+            "lnLbEej0gwe": {
+                "uid": "lnLbEej0gwe",
+                "name": "Meningitis / Severe Bacterial Infection",
+                "dimensionItemType": "DATA_ELEMENT_GROUP",
+                "valueType": "NUMBER",
+                "aggregationType": "SUM",
+                "totalAggregationType": "SUM"
+            },
+            "oDkJh5Ddh7d": {
+                "uid": "oDkJh5Ddh7d",
+                "name": "Acute Flaccid Paralysis (AFP) ",
+                "dimensionItemType": "DATA_ELEMENT_GROUP",
+                "valueType": "NUMBER",
+                "aggregationType": "SUM",
+                "totalAggregationType": "SUM"
+            },
+            "LzDaTmQYWcj": {
+                "uid": "LzDaTmQYWcj",
+                "name": "Worm Infestation",
+                "dimensionItemType": "DATA_ELEMENT_GROUP",
+                "valueType": "NUMBER",
+                "aggregationType": "SUM",
+                "totalAggregationType": "SUM"
+            }
+        },
+        "dimensions": {
+            "pe": [
+                "2020"
+            ],
+            "jp826jAJHUc": [
+                "KUSvwZQsMSN",
+                "UmyRWILcoed",
+                "xNrDrDbJgnm",
+                "U0uJG4kydwE",
+                "kE8lP5t0b5R",
+                "yhg8oYU9ekY",
+                "oGktdmYkRNo",
+                "VCoSeRRVS1n",
+                "lLKpwhjd1dM",
+                "LzDaTmQYWcj",
+                "HDdnX6XqxIn",
+                "jWgEsdH87Jk",
+                "JZ3usxLEcc9",
+                "LqG1FnAUhyb",
+                "ZPtRFVLY40u",
+                "zmWJAEjfv59",
+                "Euvh58hLl61",
+                "RSFc8ADyKTw",
+                "SriP0jBXMr6",
+                "mcjC3qZgIkO",
+                "qk2KOBMX4Mf",
+                "HKU7L73im5r",
+                "TzwKbcw1nUK",
+                "lnLbEej0gwe",
+                "UAEhIWpoQFN",
+                "IUZ0GidX0jh",
+                "LgtuBcNaMB3",
+                "yHtsPZqpAxm",
+                "dUK38PhdUdV",
+                "HAraPb0v7ex",
+                "M2cth8EmrlT",
+                "GBHN1a1Jddh",
+                "KmwPVkjp7yl",
+                "oDkJh5Ddh7d"
+            ],
+            "co": [],
+            "lv8UXn17ZOm": [
+                "weRMUzBs8T7"
+            ]
+        }
+    },
+    "height": 29,
+    "width": 9,
+    "rows": [
+        [
+            "2020",
+            "New cases",
+            "Schistosomiasis",
+            "6742.0",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "2020",
+            "New cases",
+            "Diarrhoea With Severe Dehydration",
+            "22878.0",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "2020",
+            "New cases",
+            "Meningitis / Severe Bacterial Infection",
+            "1190.0",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "2020",
+            "New cases",
+            "ARI Treated Without Antibiotics (Cough)",
+            "164463.0",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "2020",
+            "New cases",
+            "Acute Flaccid Paralysis (AFP) ",
+            "53750.0",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "2020",
+            "New cases",
+            "Skin Infection",
+            "97262.0",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "2020",
+            "New cases",
+            "Hypertension",
+            "18693.0",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "2020",
+            "New cases",
+            "Measles",
+            "6691.0",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "2020",
+            "New cases",
+            "Diarrhoea Without Severe Dehydration",
+            "166551.0",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "2020",
+            "New cases",
+            "Lassa Fever",
+            "111.0",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "2020",
+            "New cases",
+            "STI - Genital Ulcer",
+            "11349.0",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "2020",
+            "New cases",
+            "Diarrhoea With Blood (Dysentery)",
+            "30154.0",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "2020",
+            "New cases",
+            "Tuberculosis",
+            "4648.0",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "2020",
+            "New cases",
+            "Neonatal Tetanus",
+            "85.0",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "2020",
+            "New cases",
+            "Yellow Fever",
+            "483.0",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "2020",
+            "New cases",
+            "Malaria",
+            "1398966.0",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "2020",
+            "New cases",
+            "Otitis Media",
+            "12171.0",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "2020",
+            "New cases",
+            "STI - Genital Discharge",
+            "69905.0",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "2020",
+            "New cases",
+            "Clinical Malnutrition",
+            "71283.0",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "2020",
+            "New cases",
+            "Tetanus",
+            "522.0",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "2020",
+            "New cases",
+            "Wounds/Trauma",
+            "46424.0",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "2020",
+            "New cases",
+            "ARI treated with antibiotics (Pneumonia)",
+            "505371.0",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "2020",
+            "New cases",
+            "Worm Infestation",
+            "94529.0",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "2020",
+            "New cases",
+            "Burns",
+            "7853.0",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "2020",
+            "New cases",
+            "Leprosy",
+            "393.0",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "2020",
+            "New cases",
+            "Typhoid Fever",
+            "17257.0",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "2020",
+            "New cases",
+            "Onchocerciasis",
+            "1052.0",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "2020",
+            "New cases",
+            "Eye Infection",
+            "36521.0",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "2020",
+            "New cases",
+            "Yaws",
+            "693.0",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    ],
+    "headerWidth": 9
+}
