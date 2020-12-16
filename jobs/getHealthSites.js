@@ -1,14 +1,25 @@
-// get("/myendpoint", {
-//     query: {foo: "bar", a: 1},
-//     headers: {"content-type": "application/json"},
-//     authentication: {username: "user", password: "pass"}
-//   },
-//   function(state) {
-//     return state;
-//   }
-// )
+get(
+  `${state.configuration.hostUrl}/api/v2/facilities/`,
+  {
+    query: {
+      "api-key": state.configuration["api-key"],
+      country: "Senegal",
+      page: 1,
+    },
+    headers: { "content-type": "application/json" },
+  },
+  function (state) {
+    return state;
+  }
+);
 
-alterState((state) => {
-  console.log("state.configuration");
-  return state;
-});
+post(
+  state.configuration.inboxUrl,
+  {
+    body: (state) => state.data,
+    headers: { "content-type": "application/json" },
+  },
+  function (state) {
+    return state;
+  }
+);
