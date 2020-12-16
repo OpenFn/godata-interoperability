@@ -1,5 +1,5 @@
 get(
-  `${state.configuration.hostUrl}/api/v2/facilities/`,
+  `${state.configuration.baseUrl}/api/v2/facilities/`,
   {
     query: {
       "api-key": state.configuration["api-key"],
