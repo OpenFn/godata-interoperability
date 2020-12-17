@@ -20,11 +20,11 @@
     },
     {
       "path": "/api/v2/facilities/count",
-      "description": "Count of facilities"
+      "description": "Returns count of facilities with some filtering parameters."
     },
     {
       "path": "/api/v2/facilities/statistic",
-      "description": "Returns count of facilities with some filtering parameters."
+      "description": "Returns statistic of facilities with some filtering parameters.."
     }
 
  */

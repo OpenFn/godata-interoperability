@@ -11,7 +11,7 @@ You can fetch data from [HealthSites.io api](https://healthsites.io/api/docs/) u
 5. Click on the `pencil` icon to **edit** the **endpoint** of the data you want to fetch, as in the steps below:
    - While in the **edit mode**:
      - Find a section named `alterState`
-     - Edit the `url` and `description` of the `endpoint` code snippet, to your desired `url` and `description`
+     - Edit the `url` and `description` of the `endpoint` [code snippet](https://github.com/OpenFn/godata-interoperability/blob/64f7e07750f2554aec5ef56ae20013d83a1b15a0/jobs/getHealthSites.js#L34-L37), to your desired `url` and `description`
      - Or you can use any of the **example endpoints** listed at the beggining of the job
 6. Click on the `disc` icon to **save** the changes
 7. Click on the `play` icon to **run** the job and fetch the desired data
