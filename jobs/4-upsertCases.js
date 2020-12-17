@@ -1,1 +1,1 @@
-//Upsert cases from GoData based on a custom unique Id
+//Upsert cases from GoData based on Case Id
