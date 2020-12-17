@@ -1,0 +1,99 @@
+{
+    "references": [
+      null
+    ],
+    "data": [
+      {
+        "firstName": "Abdoulaye",
+        "gender": "LNG_REFERENCE_DATA_CATEGORY_GENDER_MALE",
+        "wasContact": false,
+        "outcomeId": null,
+        "safeBurial": false,
+        "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_CONFIRMED",
+        "transferRefused": true,
+        "questionnaireAnswers": {
+          "report_test_reason": [
+            {
+              "value": "case_contact"
+            }
+          ],
+          "Comcond_present": [
+            {
+              "value": "no"
+            }
+          ],
+          "would_you_like_to_complete_who_basic_case_questionnaire": [
+            {
+              "value": "yes"
+            }
+          ]
+        },
+        "pregnancyStatus": "LNG_REFERENCE_DATA_CATEGORY_PREGNANCY_STATUS_NOT_PREGNANT",
+        "id": "e2d87af7-fde2-4ea6-a2be-9dc0cc03c2cd",
+        "outbreakId": "3b5554d7-2c19-41d0-b9af-475ad25a382b",
+        "visualId": "CASE-2020-0029",
+        "age": {
+          "years": 46
+        },
+        "occupation": "LNG_REFERENCE_DATA_CATEGORY_OCCUPATION_WORKING_WITH_ANIMALS",
+        "addresses": [
+          {
+            "typeId": "LNG_REFERENCE_DATA_CATEGORY_ADDRESS_TYPE_USUAL_PLACE_OF_RESIDENCE",
+            "locationId": "SN001023001000000000",
+            "geoLocationAccurate": false,
+            "geoLocation": {
+              "lat": 80.092831,
+              "lng": 49.979653
+            }
+          }
+        ],
+        "dateOfReporting": "2020-08-09T00:00:00.000Z",
+        "isDateOfReportingApproximate": false,
+        "dateOfLastContact": "2020-10-19T00:00:00.000Z",
+        "dateOfOnset": "2020-08-09T00:00:00.000Z",
+        "dateRanges": [
+          {
+            "typeId": "LNG_REFERENCE_DATA_CATEGORY_PERSON_DATE_TYPE_HOSPITALIZATION",
+            "centerName": null,
+            "locationId": null,
+            "comments": null,
+            "startDate": "2020-07-05T00:00:00.000Z",
+            "endDate": "2020-07-19T00:00:00.000Z"
+          }
+        ],
+        "classificationHistory": [
+          {
+            "classification": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_CONFIRMED",
+            "startDate": "2020-06-08T00:00:00.000Z",
+            "endDate": null
+          }
+        ],
+        "dateOfOutcome": "2020-06-10T00:00:00.000Z",
+        "hasRelationships": true,
+        "relationshipsRepresentation": [
+          {
+            "id": "74ffdb2d-0a42-4790-b158-999955884103",
+            "active": true,
+            "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_CASE",
+            "otherParticipantId": "211b76da-5248-446e-8bf7-2bb449c9b1cf",
+            "target": true
+          },
+          {
+            "id": "74ad1e86-8804-4c5c-b1de-41a01517f439",
+            "active": true,
+            "otherParticipantType": "LNG_REFERENCE_DATA_CATEGORY_PERSON_TYPE_EVENT",
+            "otherParticipantId": "2f99f4f2-06ad-4ac6-b352-ae7d87b77281",
+            "target": true
+          }
+        ],
+        "usualPlaceOfResidenceLocationId": "SN001023001000000000",
+        "createdAt": "2020-06-08T12:37:47.617Z",
+        "createdBy": "371b710d-bb99-40ac-9bc5-dcdb186f81e8",
+        "updatedAt": "2020-10-19T21:13:42.230Z",
+        "updatedBy": "eff67980-d2c0-4a9d-bd08-f20dad487635",
+        "deleted": false,
+        "address": {}
+      }
+    ],
+    
+  }
