@@ -24,7 +24,7 @@
     },
     {
       "path": "/api/v2/facilities/statistic",
-      "description": "Returns statistic of facilities with some filtering parameters.."
+      "description": "Returns statistic of facilities with some filtering parameters."
     }
 
  */
@@ -33,7 +33,8 @@ alterState((state) => {
   // Replace this endpoint with any of the examples above
   let endpoint = {
     path: "/api/v2/facilities/statistic",
-    description: "Returns count of facilities with some filtering parameters.",
+    description:
+      "Returns statistic of facilities with some filtering parameters.",
   };
 
   state["endpoint"] = endpoint;
