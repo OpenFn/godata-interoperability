@@ -5,8 +5,8 @@ upsertCase(
   {
     externalId: 'visual_id',
     data: {
-      firstName: dataValue('body.Patient_name').split(' ')[0],
-      lastName: dataValue('body.Patient_name').split(' ')[1],
+      firstName: state => state.data.body.Patient_name.split(' ')[0],
+      lastName: state => state.data.body.Patient_name.split(' ')[1],
       classification: dataValue('body.Sample_Classification'),
       visual_id: dataValue('body.Case_ID'),
       'age:years': dataValue('body.Age_in_year'),
