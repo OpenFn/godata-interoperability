@@ -1,18 +1,23 @@
 // Upsert cases from GoData based on Case Id
 
 upsertCase(
-  'd4eecdeb-252d-44ec-bf76-515e005e03bd', // the outbreak ID
+  '3b5554d7-2c19-41d0-b9af-475ad25a382b', // the outbreak ID
+  'visualId',
   {
-    externalId: 'visual_id',
-    data: {
-      firstName: state => state.data.body.Patient_name.split(' ')[0],
-      lastName: state => state.data.body.Patient_name.split(' ')[1],
-      classification: dataValue('body.Sample_Classification'),
-      visual_id: dataValue('body.Case_ID'),
-      'age:years': dataValue('body.Age_in_year'),
-      'addresses:country': 'Bangladesh',
-      'addresses:city': dataValue('patient_address/Upazilla'),
-      gender: dataValue('body.Sex'),
+    data: state => {
+      const patient = state.data.body;
+      return {
+        firstName: patient.Patient_name.split(' ')[0],
+        lastName: patient.Patient_name.split(' ')[1],
+        classification:
+          'LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_SUSPECT',
+        visualId: patient.Godata_ID,
+        'age:years': patient.Age_in_year,
+        'addresses:country': 'Argentina',
+        'addresses:city': patient['patient_address/Upazilla'],
+        gender: patient.Sex,
+        dateOfReporting: patient.Date,
+      };
     },
   }
 );
