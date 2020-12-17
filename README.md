@@ -2,7 +2,7 @@
 
 ## Fetching data from HealthSites.io api
 
-You can fetch data from [HealthSites.io api](https://healthsites.io/api/docs/) using the OpenFn [GET Health Sites Data Job](https://openfn.org/projects/3037/jobs/3849):
+You can fetch data from [HealthSites.io api](https://healthsites.io/api/docs/) using the OpenFn [GET Health Sites Data](https://openfn.org/projects/3037/jobs/3849) job:
 
 1. Login into [OpenFn](https://openfn.org/)
 2. Go to the `Jobs` section
