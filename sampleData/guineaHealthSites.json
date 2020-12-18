@@ -1,0 +1,2275 @@
+{
+  "0": {
+    "attributes": {
+      "amenity": "doctors",
+      "changeset_id": 77520438,
+      "changeset_timestamp": "2019-11-25T12:23:03",
+      "changeset_user": "Ismaeldiarria",
+      "changeset_version": 4,
+      "name": "Centre de Santé du Port",
+      "uuid": "39c3693106a94060bee9ffbf57c2bd7b"
+    },
+    "centroid": {
+      "coordinates": [
+        -13.713756127217408,
+        9.516094325061488
+      ],
+      "type": "Point"
+    },
+    "completeness": 9,
+    "osm_id": 6866835406,
+    "osm_type": "node"
+  },
+  "1": {
+    "attributes": {
+      "amenity": "pharmacy",
+      "changeset_id": 68166753,
+      "changeset_timestamp": "2019-03-15T08:59:47",
+      "changeset_user": "Ismaeldiarria",
+      "changeset_version": 1,
+      "name": "Pharmacie la Christine",
+      "uuid": "333956b4ef6c4f3abe1a44f6c4319e8c"
+    },
+    "centroid": {
+      "coordinates": [
+        -13.644243663094926,
+        9.605100246118468
+      ],
+      "type": "Point"
+    },
+    "completeness": 9,
+    "osm_id": 6339346728,
+    "osm_type": "node"
+  },
+  "2": {
+    "attributes": {
+      "amenity": "pharmacy",
+      "changeset_id": 64274636,
+      "changeset_timestamp": "2018-11-07T21:30:32",
+      "changeset_user": "Ismaeldiarria",
+      "changeset_version": 1,
+      "name": "Pharmacie Kaporo Rails",
+      "uuid": "0787d234c1f74f13a0eee545282adcd9"
+    },
+    "centroid": {
+      "coordinates": [
+        -13.641143867663317,
+        9.602806538315036
+      ],
+      "type": "Point"
+    },
+    "completeness": 9,
+    "osm_id": 6044957184,
+    "osm_type": "node"
+  },
+  "3": {
+    "attributes": {
+      "amenity": "pharmacy",
+      "changeset_id": 59227966,
+      "changeset_timestamp": "2018-05-24T01:31:29",
+      "changeset_user": "Ismaeldiarria",
+      "changeset_version": 2,
+      "name": "Pharmacie Manque Pas",
+      "uuid": "8d27443fb5cd4cd5864f22937811822a"
+    },
+    "centroid": {
+      "coordinates": [
+        -13.71144196757021,
+        9.508769631335241
+      ],
+      "type": "Point"
+    },
+    "completeness": 9,
+    "osm_id": 5597291782,
+    "osm_type": "node"
+  },
+  "4": {
+    "attributes": {
+      "amenity": "pharmacy",
+      "changeset_id": 77186150,
+      "changeset_timestamp": "2019-11-17T11:39:40",
+      "changeset_user": "SerV",
+      "changeset_version": 3,
+      "healthcare": "pharmacy",
+      "name": "MED Guinée",
+      "uuid": "5bcc730901134b55bdf1124b4fd68be9"
+    },
+    "centroid": {
+      "coordinates": [
+        -13.605477528555497,
+        9.590207951112006
+      ],
+      "type": "Point"
+    },
+    "completeness": 12,
+    "osm_id": 5522080564,
+    "osm_type": "node"
+  },
+  "5": {
+    "attributes": {
+      "amenity": "pharmacy",
+      "changeset_id": 78952713,
+      "changeset_timestamp": "2019-12-28T11:17:03",
+      "changeset_user": "Ismaeldiarria",
+      "changeset_version": 3,
+      "healthcare": "pharmacy",
+      "name": "Pharmacie Nongo centre",
+      "uuid": "6e164cf35e42482abf1107dd2ab0ee46"
+    },
+    "centroid": {
+      "coordinates": [
+        -13.634131651287362,
+        9.617084942733044
+      ],
+      "type": "Point"
+    },
+    "completeness": 12,
+    "osm_id": 5960834353,
+    "osm_type": "node"
+  },
+  "6": {
+    "attributes": {
+      "addr_city": "Galagpaye",
+      "amenity": "clinic",
+      "changeset_id": 53840965,
+      "changeset_timestamp": "2017-11-16T13:14:52",
+      "changeset_user": "thetornado76",
+      "changeset_version": 2,
+      "contact_number": "624464480",
+      "dispensing": "yes",
+      "emergency": "yes",
+      "healthcare": "clinic",
+      "name": "Poste de santé de Galagpaye",
+      "opening_hours": "07:00-17:00",
+      "operator": "government",
+      "source": "Red Cross Field Survey",
+      "speciality": "community",
+      "uuid": "b1456a88793144d089d6328df15a9679"
+    },
+    "centroid": {
+      "coordinates": [
+        -9.151632829360068,
+        7.346636333874159
+      ],
+      "type": "Point"
+    },
+    "completeness": 37,
+    "osm_id": 4532570454,
+    "osm_type": "node"
+  },
+  "7": {
+    "attributes": {
+      "amenity": "hospital",
+      "changeset_id": 85567516,
+      "changeset_timestamp": "2020-05-21T17:41:59",
+      "changeset_user": "WorldStar007",
+      "changeset_version": 2,
+      "healthcare": "hospital",
+      "name": "Flamboyant",
+      "uuid": "324bff6254d44259a66e1ac550f693e0"
+    },
+    "centroid": {
+      "coordinates": [
+        -13.619962526529747,
+        9.620858263746168
+      ],
+      "type": "Point"
+    },
+    "completeness": 12,
+    "osm_id": 617729519,
+    "osm_type": "way"
+  },
+  "8": {
+    "attributes": {
+      "amenity": "hospital",
+      "changeset_id": 83774729,
+      "changeset_timestamp": "2020-04-19T14:25:56",
+      "changeset_user": "Djiro Stanislas",
+      "changeset_version": 1,
+      "name": "CS-KAKONI",
+      "uuid": "959b4533616e4e6583694de5b0f5c42c"
+    },
+    "centroid": {
+      "coordinates": [
+        -13.18083111922698,
+        11.321804875884595
+      ],
+      "type": "Point"
+    },
+    "completeness": 9,
+    "osm_id": 7419418896,
+    "osm_type": "node"
+  },
+  "9": {
+    "attributes": {
+      "addr_city": "Gbokomey",
+      "amenity": "clinic",
+      "changeset_id": 53840965,
+      "changeset_timestamp": "2017-11-16T13:14:51",
+      "changeset_user": "thetornado76",
+      "changeset_version": 2,
+      "contact_number": "620700858",
+      "dispensing": "yes",
+      "emergency": "yes",
+      "healthcare": "clinic",
+      "name": "Poste De Santé De Gbokomey",
+      "opening_hours": "08:00-16:00",
+      "operator": "government",
+      "source": "Red Cross Field Survey",
+      "speciality": "community",
+      "uuid": "9073b67f2847447bad4044388f907a4e"
+    },
+    "centroid": {
+      "coordinates": [
+        -9.259586377816902,
+        7.667420150227713
+      ],
+      "type": "Point"
+    },
+    "completeness": 37,
+    "osm_id": 4532570431,
+    "osm_type": "node"
+  },
+  "10": {
+    "attributes": {
+      "addr_city": "Oweit Djiba",
+      "amenity": "clinic",
+      "changeset_id": 53840965,
+      "changeset_timestamp": "2017-11-16T13:14:40",
+      "changeset_user": "thetornado76",
+      "changeset_version": 2,
+      "contact_number": "622872576",
+      "dispensing": "yes",
+      "emergency": "yes",
+      "healthcare": "clinic",
+      "name": "Poste de Santé de Owet Djiba",
+      "opening_hours": "08:00-17:00",
+      "operator": "government",
+      "source": "Red Cross Field Survey",
+      "speciality": "community",
+      "uuid": "78f308d9d9b747e2b62f28767cee448a"
+    },
+    "centroid": {
+      "coordinates": [
+        -10.410231833433528,
+        8.48237708926763
+      ],
+      "type": "Point"
+    },
+    "completeness": 37,
+    "osm_id": 4532563927,
+    "osm_type": "node"
+  },
+  "11": {
+    "attributes": {
+      "amenity": "pharmacy",
+      "changeset_id": 77043634,
+      "changeset_timestamp": "2019-11-14T00:19:06",
+      "changeset_user": "SerV",
+      "changeset_version": 2,
+      "healthcare": "pharmacy",
+      "name": "Pharmacie Booba",
+      "uuid": "2715fe1e9d244394aeb5fc67c372eea9"
+    },
+    "centroid": {
+      "coordinates": [
+        -13.6804896108072,
+        9.541753929065607
+      ],
+      "type": "Point"
+    },
+    "completeness": 12,
+    "osm_id": 5550527012,
+    "osm_type": "node"
+  },
+  "12": {
+    "attributes": {
+      "amenity": "pharmacy",
+      "changeset_id": 77311823,
+      "changeset_timestamp": "2019-11-20T09:19:45",
+      "changeset_user": "Lawi_Gn",
+      "changeset_version": 1,
+      "name": "Espace santé cimenterie",
+      "uuid": "aabc385a9780409380b391607d22586e"
+    },
+    "centroid": {
+      "coordinates": [
+        -9.330513455737957,
+        10.399455137710135
+      ],
+      "type": "Point"
+    },
+    "completeness": 9,
+    "osm_id": 6991941192,
+    "osm_type": "node"
+  },
+  "13": {
+    "attributes": {
+      "addr_city": "conakry",
+      "amenity": "pharmacy",
+      "changeset_id": 68357832,
+      "changeset_timestamp": "2019-03-21T00:42:53",
+      "changeset_user": "aissata fria",
+      "changeset_version": 8,
+      "name": "Pharmacie Manize Kolie",
+      "operator": "Dr Kolié Manize Mohamed",
+      "uuid": "83bf156e3dfa488a9cf403a2fe86096b"
+    },
+    "centroid": {
+      "coordinates": [
+        -13.675224937423906,
+        9.54948179233449
+      ],
+      "type": "Point"
+    },
+    "completeness": 15,
+    "osm_id": 2865696653,
+    "osm_type": "node"
+  },
+  "14": {
+    "attributes": {
+      "amenity": "doctors",
+      "changeset_id": 68404087,
+      "changeset_timestamp": "2019-03-22T09:57:20",
+      "changeset_user": "Jean-Marc Liotier",
+      "changeset_version": 2,
+      "name": "poste de santé",
+      "uuid": "607c45b967cb4fb99def5aa251d81eb1"
+    },
+    "centroid": {
+      "coordinates": [
+        -14.165861710289956,
+        10.225817749185056
+      ],
+      "type": "Point"
+    },
+    "completeness": 9,
+    "osm_id": 630686581,
+    "osm_type": "way"
+  },
+  "15": {
+    "attributes": {
+      "amenity": "pharmacy",
+      "changeset_id": 77043634,
+      "changeset_timestamp": "2019-11-14T00:19:06",
+      "changeset_user": "SerV",
+      "changeset_version": 2,
+      "healthcare": "pharmacy",
+      "name": "Prince Pharma",
+      "uuid": "e67802f6309549669975685a0062bc7e"
+    },
+    "centroid": {
+      "coordinates": [
+        -13.67530733153211,
+        9.537924740419811
+      ],
+      "type": "Point"
+    },
+    "completeness": 12,
+    "osm_id": 5739437516,
+    "osm_type": "node"
+  },
+  "16": {
+    "attributes": {
+      "amenity": "pharmacy",
+      "changeset_id": 64905286,
+      "changeset_timestamp": "2018-11-26T17:15:19",
+      "changeset_user": "Senateur",
+      "changeset_version": 3,
+      "name": "Pharmacie Nakany",
+      "uuid": "70c32cac752e4182bc46dc7be118fd75"
+    },
+    "centroid": {
+      "coordinates": [
+        -13.583633702152099,
+        9.628979617707557
+      ],
+      "type": "Point"
+    },
+    "completeness": 9,
+    "osm_id": 6093019193,
+    "osm_type": "node"
+  },
+  "17": {
+    "attributes": {
+      "amenity": "clinic",
+      "changeset_id": 87214253,
+      "changeset_timestamp": "2020-06-26T21:59:35",
+      "changeset_user": "vamougna dore",
+      "changeset_version": 1,
+      "name": "Clinique Fouta",
+      "uuid": "acdba71747924b6e9fe67959fd0923e6"
+    },
+    "centroid": {
+      "coordinates": [
+        -12.296546117934412,
+        11.316517068448547
+      ],
+      "type": "Point"
+    },
+    "completeness": 9,
+    "osm_id": 7657262424,
+    "osm_type": "node"
+  },
+  "18": {
+    "attributes": {
+      "addr_city": "Mongo",
+      "amenity": "clinic",
+      "changeset_id": 53840965,
+      "changeset_timestamp": "2017-11-16T13:14:40",
+      "changeset_user": "thetornado76",
+      "changeset_version": 2,
+      "contact_number": "621950775",
+      "dispensing": "yes",
+      "emergency": "yes",
+      "healthcare": "clinic",
+      "name": "Poste De Santé De Mongo",
+      "opening_hours": "08:00-16:00",
+      "operator": "government",
+      "source": "Red Cross Field Survey",
+      "speciality": "community",
+      "uuid": "1780b0a9b6f2472787c15d2853a5fbb3"
+    },
+    "centroid": {
+      "coordinates": [
+        -10.262485283479464,
+        8.613066969177794
+      ],
+      "type": "Point"
+    },
+    "completeness": 37,
+    "osm_id": 4532563800,
+    "osm_type": "node"
+  },
+  "19": {
+    "attributes": {
+      "amenity": "dentist",
+      "changeset_id": 82311058,
+      "changeset_timestamp": "2020-03-17T16:44:39",
+      "changeset_user": "Ismaeldiarria",
+      "changeset_version": 2,
+      "name": "Cabinet dentaire le remède",
+      "uuid": "c12504bd6fec4b2397af3d246e5a14e8"
+    },
+    "centroid": {
+      "coordinates": [
+        -13.64425263173132,
+        9.582631129738331
+      ],
+      "type": "Point"
+    },
+    "completeness": 9,
+    "osm_id": 5511951114,
+    "osm_type": "node"
+  },
+  "20": {
+    "attributes": {
+      "amenity": "pharmacy",
+      "changeset_id": 90995597,
+      "changeset_timestamp": "2020-09-16T15:29:03",
+      "changeset_user": "vamougna dore",
+      "changeset_version": 1,
+      "name": "Pharmacie DÖYAMA",
+      "uuid": "e71ea8c1e07c467a8d4e19cdec23e065"
+    },
+    "centroid": {
+      "coordinates": [
+        -13.510420041045307,
+        9.687436686820263
+      ],
+      "type": "Point"
+    },
+    "completeness": 9,
+    "osm_id": 7913430860,
+    "osm_type": "node"
+  },
+  "21": {
+    "attributes": {
+      "amenity": "clinic",
+      "changeset_id": 64147788,
+      "changeset_timestamp": "2018-11-03T18:39:07",
+      "changeset_user": "Ismaeldiarria",
+      "changeset_version": 1,
+      "name": "Clinique médical Point B",
+      "uuid": "f32827fc5d954634a19a70929aac7219"
+    },
+    "centroid": {
+      "coordinates": [
+        -13.656731106261873,
+        9.576184775645629
+      ],
+      "type": "Point"
+    },
+    "completeness": 9,
+    "osm_id": 6034746878,
+    "osm_type": "node"
+  },
+  "22": {
+    "attributes": {
+      "amenity": "clinic",
+      "changeset_id": 83565279,
+      "changeset_timestamp": "2020-04-15T05:27:01",
+      "changeset_user": "user_5359",
+      "changeset_version": 2,
+      "name": "Clinique médicale de la minière",
+      "opening_hours": "24/7",
+      "uuid": "d9fa9a5ea8ce4581a5257867ef127fdd"
+    },
+    "centroid": {
+      "coordinates": [
+        -13.660429956313294,
+        9.568243592940973
+      ],
+      "type": "Point"
+    },
+    "completeness": 12,
+    "osm_id": 5585471223,
+    "osm_type": "node"
+  },
+  "23": {
+    "attributes": {
+      "amenity": "pharmacy",
+      "changeset_id": 61441490,
+      "changeset_timestamp": "2018-08-07T17:07:01",
+      "changeset_user": "Ismaeldiarria",
+      "changeset_version": 2,
+      "name": "Pharmacie Faimmar",
+      "uuid": "b10a26d1c7174b09ad2af1421b96c24a"
+    },
+    "centroid": {
+      "coordinates": [
+        -13.609903005793058,
+        9.641101861353206
+      ],
+      "type": "Point"
+    },
+    "completeness": 9,
+    "osm_id": 5522081622,
+    "osm_type": "node"
+  },
+  "24": {
+    "attributes": {
+      "amenity": "pharmacy",
+      "changeset_id": 72637485,
+      "changeset_timestamp": "2019-07-25T10:27:49",
+      "changeset_user": "Ismaeldiarria",
+      "changeset_version": 1,
+      "name": "Pharmacie Barry Sory",
+      "uuid": "0b855f0c87d04ac695310ac6d38636ca"
+    },
+    "centroid": {
+      "coordinates": [
+        -13.58221581941126,
+        9.67119741997385
+      ],
+      "type": "Point"
+    },
+    "completeness": 9,
+    "osm_id": 6646297887,
+    "osm_type": "node"
+  },
+  "25": {
+    "attributes": {
+      "amenity": "doctors",
+      "changeset_id": 83820916,
+      "changeset_timestamp": "2020-04-20T12:02:20",
+      "changeset_user": "Djiro Stanislas",
+      "changeset_version": 3,
+      "name": "Centre de santé Sanoyah",
+      "uuid": "dead0c52af024fa3949c624d7ae9a6a6"
+    },
+    "centroid": {
+      "coordinates": [
+        -13.498462250339912,
+        9.70400293170951
+      ],
+      "type": "Point"
+    },
+    "completeness": 9,
+    "osm_id": 5644865826,
+    "osm_type": "node"
+  },
+  "26": {
+    "attributes": {
+      "amenity": "pharmacy",
+      "changeset_id": 78943281,
+      "changeset_timestamp": "2019-12-27T22:25:53",
+      "changeset_user": "Ismaeldiarria",
+      "changeset_version": 3,
+      "healthcare": "pharmacy",
+      "name": "Pharmacie Madame DIALLO",
+      "uuid": "7c94cc5ba03f44678b682bed65d6245c"
+    },
+    "centroid": {
+      "coordinates": [
+        -13.64948537006353,
+        9.6063221599631
+      ],
+      "type": "Point"
+    },
+    "completeness": 12,
+    "osm_id": 6044919409,
+    "osm_type": "node"
+  },
+  "27": {
+    "attributes": {
+      "amenity": "pharmacy",
+      "changeset_id": 59227966,
+      "changeset_timestamp": "2018-05-24T01:31:29",
+      "changeset_user": "Ismaeldiarria",
+      "changeset_version": 2,
+      "name": "Pharmacie la Paix",
+      "uuid": "f256cdbfcf75496d82a249f092c2e732"
+    },
+    "centroid": {
+      "coordinates": [
+        -13.707009030438854,
+        9.507952563413909
+      ],
+      "type": "Point"
+    },
+    "completeness": 9,
+    "osm_id": 5582859855,
+    "osm_type": "node"
+  },
+  "28": {
+    "attributes": {
+      "amenity": "pharmacy",
+      "changeset_id": 77186150,
+      "changeset_timestamp": "2019-11-17T11:39:40",
+      "changeset_user": "SerV",
+      "changeset_version": 2,
+      "healthcare": "pharmacy",
+      "name": "pharmacie centre émetteur",
+      "uuid": "71d720061cfc4be2abb3c856f6ecb6ce"
+    },
+    "centroid": {
+      "coordinates": [
+        -13.650744751015338,
+        9.604763042153792
+      ],
+      "type": "Point"
+    },
+    "completeness": 12,
+    "osm_id": 5528597981,
+    "osm_type": "node"
+  },
+  "29": {
+    "attributes": {
+      "amenity": "hospital",
+      "changeset_id": 90533368,
+      "changeset_timestamp": "2020-09-07T13:10:06",
+      "changeset_user": "hamster85",
+      "changeset_version": 4,
+      "healthcare": "hospital",
+      "name": "CDS",
+      "uuid": "a638e77312174bbbabf76319514ea484"
+    },
+    "centroid": {
+      "coordinates": [
+        -12.866588601900933,
+        10.06311463941485
+      ],
+      "type": "Point"
+    },
+    "completeness": 12,
+    "osm_id": 788920372,
+    "osm_type": "way"
+  },
+  "30": {
+    "attributes": {
+      "amenity": "doctors",
+      "changeset_id": 61605743,
+      "changeset_timestamp": "2018-08-13T00:43:11",
+      "changeset_user": "Ismaeldiarria",
+      "changeset_version": 2,
+      "healthcare": "centre",
+      "name": "Centre médical les amis d'orphelins et enfants vulnérables",
+      "uuid": "f147c80445d7468fbf5cf92c16c31906"
+    },
+    "centroid": {
+      "coordinates": [
+        -13.562689337778238,
+        9.65164026057522
+      ],
+      "type": "Point"
+    },
+    "completeness": 12,
+    "osm_id": 5670049602,
+    "osm_type": "node"
+  },
+  "31": {
+    "attributes": {
+      "amenity": "pharmacy",
+      "changeset_id": 77311850,
+      "changeset_timestamp": "2019-11-20T09:20:15",
+      "changeset_user": "Lawi_Gn",
+      "changeset_version": 1,
+      "uuid": "4b48b859ab524ac9a756fd310d8d1617"
+    },
+    "centroid": {
+      "coordinates": [
+        -8.69265104332868,
+        10.626900259618282
+      ],
+      "type": "Point"
+    },
+    "completeness": 6,
+    "osm_id": 6991961658,
+    "osm_type": "node"
+  },
+  "32": {
+    "attributes": {
+      "amenity": "pharmacy",
+      "changeset_id": 57733601,
+      "changeset_timestamp": "2018-04-02T09:16:33",
+      "changeset_user": "Ismaeldiarria",
+      "changeset_version": 1,
+      "name": "Pharmacie Safaye",
+      "uuid": "c655d8344cca4089991dc71294b8f245"
+    },
+    "centroid": {
+      "coordinates": [
+        -13.592322047705636,
+        9.629809090845612
+      ],
+      "type": "Point"
+    },
+    "completeness": 9,
+    "osm_id": 5522080566,
+    "osm_type": "node"
+  },
+  "33": {
+    "attributes": {
+      "addr_city": "Koyama",
+      "amenity": "pharmacy",
+      "changeset_id": 44218781,
+      "changeset_timestamp": "2016-12-06T20:11:56",
+      "changeset_user": "Giblet",
+      "changeset_version": 1,
+      "name": "Pharmacie",
+      "source": "Red Cross Field Survey",
+      "uuid": "b4d9b4a6990c4181a8a5c9dffb1b3309"
+    },
+    "centroid": {
+      "coordinates": [
+        -9.3571662314491,
+        7.901412041428557
+      ],
+      "type": "Point"
+    },
+    "completeness": 15,
+    "osm_id": 4541907837,
+    "osm_type": "node"
+  },
+  "34": {
+    "attributes": {
+      "amenity": "hospital",
+      "changeset_id": 84062500,
+      "changeset_timestamp": "2020-04-24T12:59:13",
+      "changeset_user": "Djiro Stanislas",
+      "changeset_version": 1,
+      "uuid": "ec652228f1a540a88c33352a36cb892c"
+    },
+    "centroid": {
+      "coordinates": [
+        -11.360793792025014,
+        10.762033540754484
+      ],
+      "type": "Point"
+    },
+    "completeness": 6,
+    "osm_id": 795639045,
+    "osm_type": "way"
+  },
+  "35": {
+    "attributes": {
+      "amenity": "pharmacy",
+      "changeset_id": 59304926,
+      "changeset_timestamp": "2018-05-27T02:40:02",
+      "changeset_user": "Ismaeldiarria",
+      "changeset_version": 2,
+      "name": "Pharmacie Elohim",
+      "uuid": "b73dbb6ce88e454093a34fa19bdae04f"
+    },
+    "centroid": {
+      "coordinates": [
+        -13.61305728359531,
+        9.64067865906199
+      ],
+      "type": "Point"
+    },
+    "completeness": 9,
+    "osm_id": 5528602839,
+    "osm_type": "node"
+  },
+  "36": {
+    "attributes": {
+      "amenity": "pharmacy",
+      "changeset_id": 83146220,
+      "changeset_timestamp": "2020-04-06T12:35:49",
+      "changeset_user": "Lawi_Gn",
+      "changeset_version": 1,
+      "name": "Pharmacie Kenata",
+      "opening_hours": "Mo-Sa 08:00-22:00",
+      "uuid": "e54089904fd645208438294efb4609a0"
+    },
+    "centroid": {
+      "coordinates": [
+        -13.624612156215136,
+        9.62745084238773
+      ],
+      "type": "Point"
+    },
+    "completeness": 12,
+    "osm_id": 7372079893,
+    "osm_type": "node"
+  },
+  "37": {
+    "attributes": {
+      "amenity": "pharmacy",
+      "changeset_id": 61441490,
+      "changeset_timestamp": "2018-08-07T17:07:24",
+      "changeset_user": "Ismaeldiarria",
+      "changeset_version": 3,
+      "name": "Pharmacie Univers",
+      "uuid": "3f08044d7b094914b14aa6dc246ca6e0"
+    },
+    "centroid": {
+      "coordinates": [
+        -13.64802926584423,
+        9.580955084379752
+      ],
+      "type": "Point"
+    },
+    "completeness": 9,
+    "osm_id": 5511951107,
+    "osm_type": "node"
+  },
+  "38": {
+    "attributes": {
+      "amenity": "pharmacy",
+      "changeset_id": 77043634,
+      "changeset_timestamp": "2019-11-14T00:19:06",
+      "changeset_user": "SerV",
+      "changeset_version": 3,
+      "healthcare": "pharmacy",
+      "name": "Pharmacie Matam",
+      "uuid": "10605e508df3448897b769f5656a6816"
+    },
+    "centroid": {
+      "coordinates": [
+        -13.651028813713879,
+        9.552313618321648
+      ],
+      "type": "Point"
+    },
+    "completeness": 12,
+    "osm_id": 5494060388,
+    "osm_type": "node"
+  },
+  "39": {
+    "attributes": {
+      "amenity": "doctors",
+      "changeset_id": 61807152,
+      "changeset_timestamp": "2018-08-20T00:26:03",
+      "changeset_user": "Ismaeldiarria",
+      "changeset_version": 4,
+      "healthcare": "doctor",
+      "name": "clinique Dr Camara",
+      "speciality": "general",
+      "uuid": "1bfa31275ebb4e759b1f4bd95bdf9171"
+    },
+    "centroid": {
+      "coordinates": [
+        -13.662126118239485,
+        9.55811062637548
+      ],
+      "type": "Point"
+    },
+    "completeness": 15,
+    "osm_id": 5489304503,
+    "osm_type": "node"
+  },
+  "40": {
+    "attributes": {
+      "amenity": "pharmacy",
+      "changeset_id": 62402706,
+      "changeset_timestamp": "2018-09-08T13:56:12",
+      "changeset_user": "Ismaeldiarria",
+      "changeset_version": 1,
+      "name": "Pharmacie Al Zahra",
+      "uuid": "5971bcf852e341978f1181893f334927"
+    },
+    "centroid": {
+      "coordinates": [
+        -13.559236412765898,
+        9.667409386472627
+      ],
+      "type": "Point"
+    },
+    "completeness": 9,
+    "osm_id": 5892892933,
+    "osm_type": "node"
+  },
+  "41": {
+    "attributes": {
+      "amenity": "pharmacy",
+      "changeset_id": 68446766,
+      "changeset_timestamp": "2019-03-23T15:11:37",
+      "changeset_user": "Mariama Diallo",
+      "changeset_version": 2,
+      "name": "Pharmacie marché",
+      "uuid": "3879697e88d6491cb5b2be9e6422207b"
+    },
+    "centroid": {
+      "coordinates": [
+        -13.523533528560279,
+        9.791415788249338
+      ],
+      "type": "Point"
+    },
+    "completeness": 9,
+    "osm_id": 6356286875,
+    "osm_type": "node"
+  },
+  "42": {
+    "attributes": {
+      "amenity": "pharmacy",
+      "changeset_id": 82348867,
+      "changeset_timestamp": "2020-03-18T13:12:27",
+      "changeset_user": "Ismaeldiarria",
+      "changeset_version": 5,
+      "name": "Pharmacie Kiaye Boké",
+      "opening_hours": "Mo-Su 08:00-22:30",
+      "operator": "Dr KEITA",
+      "uuid": "d56f7927985945429eb9c27599e4a662"
+    },
+    "centroid": {
+      "coordinates": [
+        -13.58172103566693,
+        9.622691849222917
+      ],
+      "type": "Point"
+    },
+    "completeness": 15,
+    "osm_id": 5611985569,
+    "osm_type": "node"
+  },
+  "43": {
+    "attributes": {
+      "addr_city": "Mamou",
+      "amenity": "doctors",
+      "changeset_id": 53840965,
+      "changeset_timestamp": "2017-11-16T13:14:37",
+      "changeset_user": "thetornado76",
+      "changeset_version": 2,
+      "contact_number": "623021052",
+      "dispensing": "yes",
+      "emergency": "no",
+      "healthcare": "doctor",
+      "name": "Cabinet Médical Chinois",
+      "source": "Red Cross Field Survey",
+      "speciality": "general",
+      "uuid": "b42421a26f1c436bb76559d601bf6927"
+    },
+    "centroid": {
+      "coordinates": [
+        -12.081816426959534,
+        10.399328151877057
+      ],
+      "type": "Point"
+    },
+    "completeness": 31,
+    "osm_id": 4532371746,
+    "osm_type": "node"
+  },
+  "44": {
+    "attributes": {
+      "amenity": "pharmacy",
+      "changeset_id": 85748807,
+      "changeset_timestamp": "2020-05-26T07:03:04",
+      "changeset_user": "Lawi_Gn",
+      "changeset_version": 4,
+      "name": "Pharmacie",
+      "opening_hours": "Mo-Sa 07:30-20:30",
+      "uuid": "1958acbf12734d2ca5248da2b5d2f2ff",
+      "wheelchair": "no"
+    },
+    "centroid": {
+      "coordinates": [
+        -13.601917315182533,
+        9.651961790380938
+      ],
+      "type": "Point"
+    },
+    "completeness": 15,
+    "osm_id": 7372047605,
+    "osm_type": "node"
+  },
+  "45": {
+    "attributes": {
+      "amenity": "hospital",
+      "changeset_id": 85567516,
+      "changeset_timestamp": "2020-05-21T17:41:59",
+      "changeset_user": "WorldStar007",
+      "changeset_version": 2,
+      "healthcare": "hospital",
+      "uuid": "7cf72d0b9dea415c8ca16a9bb6a03af5"
+    },
+    "centroid": {
+      "coordinates": [
+        -13.812276040632652,
+        11.101643124885712
+      ],
+      "type": "Point"
+    },
+    "completeness": 9,
+    "osm_id": 788920317,
+    "osm_type": "way"
+  },
+  "46": {
+    "attributes": {
+      "addr_city": "Balancia",
+      "amenity": "pharmacy",
+      "changeset_id": 44117939,
+      "changeset_timestamp": "2016-12-02T16:20:15",
+      "changeset_user": "Giblet",
+      "changeset_version": 1,
+      "name": "Mr Lama André",
+      "source": "Red Cross Field Survey",
+      "uuid": "7898fdd3aaa240a2bb07086aba9beeab"
+    },
+    "centroid": {
+      "coordinates": [
+        -11.842654829338386,
+        10.187992125859068
+      ],
+      "type": "Point"
+    },
+    "completeness": 15,
+    "osm_id": 4534379774,
+    "osm_type": "node"
+  },
+  "47": {
+    "attributes": {
+      "amenity": "hospital",
+      "changeset_id": 86982275,
+      "changeset_timestamp": "2020-06-22T13:02:12",
+      "changeset_user": "Ambassador_Spock",
+      "changeset_version": 1,
+      "healthcare": "hospital",
+      "name": "Laboratoire Analyse Biomédicale",
+      "uuid": "36bb8570c2ad4e86bc846477d40488f1"
+    },
+    "centroid": {
+      "coordinates": [
+        -13.70666310929488,
+        9.511488720724742
+      ],
+      "type": "Point"
+    },
+    "completeness": 12,
+    "osm_id": 7643476326,
+    "osm_type": "node"
+  },
+  "48": {
+    "attributes": {
+      "amenity": "hospital",
+      "changeset_id": 95636200,
+      "changeset_timestamp": "2020-12-10T18:55:11",
+      "changeset_user": "abdoulaye alimou",
+      "changeset_version": 1,
+      "name": "Hôpital préfectoral de kouroussa",
+      "uuid": "beed1566ce8747ce916edb4c4b13c949"
+    },
+    "centroid": {
+      "coordinates": [
+        -9.873677880464157,
+        10.649753853896982
+      ],
+      "type": "Point"
+    },
+    "completeness": 9,
+    "osm_id": 8214889629,
+    "osm_type": "node"
+  },
+  "49": {
+    "attributes": {
+      "amenity": "clinic",
+      "changeset_id": 88885332,
+      "changeset_timestamp": "2020-08-03T16:02:26",
+      "changeset_user": "Koakun1",
+      "changeset_version": 3,
+      "name": "Yeala Clinic",
+      "source": "Ministry of Health and National Public Health Institute",
+      "uuid": "ddff753f3f2e4a36a3d8aa3b3407199d"
+    },
+    "centroid": {
+      "coordinates": [
+        -9.400712649187426,
+        7.82241293929431
+      ],
+      "type": "Point"
+    },
+    "completeness": 12,
+    "osm_id": 7707004602,
+    "osm_type": "node"
+  },
+  "50": {
+    "attributes": {
+      "amenity": "hospital",
+      "changeset_id": 83880269,
+      "changeset_timestamp": "2020-04-21T12:16:00",
+      "changeset_user": "Djiro Stanislas",
+      "changeset_version": 2,
+      "name": "CS_Wondy",
+      "uuid": "5297d04046564b758275806407ad8c02"
+    },
+    "centroid": {
+      "coordinates": [
+        -12.845731407367605,
+        10.043349037642312
+      ],
+      "type": "Point"
+    },
+    "completeness": 9,
+    "osm_id": 329014092,
+    "osm_type": "way"
+  },
+  "51": {
+    "attributes": {
+      "amenity": "clinic",
+      "changeset_id": 59464618,
+      "changeset_timestamp": "2018-06-01T15:16:06",
+      "changeset_user": "Ismaeldiarria",
+      "changeset_version": 1,
+      "name": "Polyclinique Coeur et vaisseau",
+      "uuid": "ff0bff7d3ead4f19a8504082b76943b2"
+    },
+    "centroid": {
+      "coordinates": [
+        -13.580549329422297,
+        9.623283360129875
+      ],
+      "type": "Point"
+    },
+    "completeness": 9,
+    "osm_id": 5656620643,
+    "osm_type": "node"
+  },
+  "52": {
+    "attributes": {
+      "amenity": "pharmacy",
+      "changeset_id": 63990846,
+      "changeset_timestamp": "2018-10-29T20:28:24",
+      "changeset_user": "Ismaeldiarria",
+      "changeset_version": 3,
+      "name": "Pharmacie Safiatou",
+      "uuid": "d158c343cb294765a4ebd997ab329104"
+    },
+    "centroid": {
+      "coordinates": [
+        -13.534696379568686,
+        9.681019920845785
+      ],
+      "type": "Point"
+    },
+    "completeness": 9,
+    "osm_id": 4852198622,
+    "osm_type": "node"
+  },
+  "53": {
+    "attributes": {
+      "amenity": "doctors",
+      "changeset_id": 63662388,
+      "changeset_timestamp": "2018-10-18T23:16:35",
+      "changeset_user": "SeverinGeo",
+      "changeset_version": 1,
+      "name": "Cabinet de Pédiatrie",
+      "uuid": "3e0ca5c4b4354b02aaed23c65e58e15e"
+    },
+    "centroid": {
+      "coordinates": [
+        -13.593140037636346,
+        9.663642978281615
+      ],
+      "type": "Point"
+    },
+    "completeness": 9,
+    "osm_id": 5996730589,
+    "osm_type": "node"
+  },
+  "54": {
+    "attributes": {
+      "amenity": "hospital",
+      "changeset_id": 59926544,
+      "changeset_timestamp": "2018-06-18T01:06:56",
+      "changeset_user": "Ismaeldiarria",
+      "changeset_version": 3,
+      "name": "hôpital de l'amitié sino-guinéenne",
+      "uuid": "bd96014cc6584d2499c5586e7a9ca0d7"
+    },
+    "centroid": {
+      "coordinates": [
+        -13.647838823738645,
+        9.599294360456632
+      ],
+      "type": "Point"
+    },
+    "completeness": 9,
+    "osm_id": 217948117,
+    "osm_type": "way"
+  },
+  "55": {
+    "attributes": {
+      "amenity": "pharmacy",
+      "changeset_id": 77186150,
+      "changeset_timestamp": "2019-11-17T11:39:40",
+      "changeset_user": "SerV",
+      "changeset_version": 2,
+      "healthcare": "pharmacy",
+      "name": "Pharmacie Mme Fofana Binta Kolon",
+      "uuid": "8d0bfe454ad94ca48c28a3ec400e4cd4"
+    },
+    "centroid": {
+      "coordinates": [
+        -13.601901641023602,
+        9.603240469442312
+      ],
+      "type": "Point"
+    },
+    "completeness": 12,
+    "osm_id": 5998452766,
+    "osm_type": "node"
+  },
+  "56": {
+    "attributes": {
+      "addr_city": "Diomai",
+      "amenity": "clinic",
+      "changeset_id": 53840965,
+      "changeset_timestamp": "2017-11-16T13:14:48",
+      "changeset_user": "thetornado76",
+      "changeset_version": 2,
+      "contact_number": "625423047",
+      "dispensing": "no",
+      "emergency": "no",
+      "healthcare": "clinic",
+      "name": "Poste de santé de Diomai",
+      "opening_hours": "07:00-18:00",
+      "operator": "government",
+      "source": "Red Cross Field Survey",
+      "speciality": "women",
+      "uuid": "257d636345674e5cbb5513fe23bc8dba"
+    },
+    "centroid": {
+      "coordinates": [
+        -9.397854252567186,
+        8.419378872653567
+      ],
+      "type": "Point"
+    },
+    "completeness": 37,
+    "osm_id": 4532566769,
+    "osm_type": "node"
+  },
+  "57": {
+    "attributes": {
+      "addr_city": "Nongoa",
+      "amenity": "pharmacy",
+      "changeset_id": 44123040,
+      "changeset_timestamp": "2016-12-02T20:15:25",
+      "changeset_user": "Giblet",
+      "changeset_version": 1,
+      "name": "pharmacie de monsieur Nitan",
+      "source": "Red Cross Field Survey",
+      "uuid": "1c1e23bf45ae410bbe0a216cf61d24b2"
+    },
+    "centroid": {
+      "coordinates": [
+        -10.331584603594507,
+        8.504351170446341
+      ],
+      "type": "Point"
+    },
+    "completeness": 15,
+    "osm_id": 4534784662,
+    "osm_type": "node"
+  },
+  "58": {
+    "attributes": {
+      "addr_city": "Forécariah",
+      "amenity": "clinic",
+      "changeset_id": 53840965,
+      "changeset_timestamp": "2017-11-16T13:14:31",
+      "changeset_user": "thetornado76",
+      "changeset_version": 2,
+      "emergency": "yes",
+      "healthcare": "clinic",
+      "opening_hours": "24/7",
+      "operator": "government",
+      "source": "Red Cross Field Survey",
+      "speciality": "general",
+      "uuid": "a3a96747e8114517b098651d5259e064"
+    },
+    "centroid": {
+      "coordinates": [
+        -13.074752183414915,
+        9.431895760750649
+      ],
+      "type": "Point"
+    },
+    "completeness": 28,
+    "osm_id": 4532269341,
+    "osm_type": "node"
+  },
+  "59": {
+    "attributes": {
+      "addr_city": "sokourani",
+      "amenity": "doctors",
+      "changeset_id": 68404087,
+      "changeset_timestamp": "2019-03-22T09:57:06",
+      "changeset_user": "Jean-Marc Liotier",
+      "changeset_version": 2,
+      "contact_number": "620133456",
+      "dispensing": "yes",
+      "electricity": "solar",
+      "emergency": "no",
+      "name": "poste de santé sokourani",
+      "opening_hours": "8h a 17h",
+      "operator": "government",
+      "uuid": "7c10f148c33e43658ac6974b7ea0acb3",
+      "water_source": "tubewell"
+    },
+    "centroid": {
+      "coordinates": [
+        -10.125274701995494,
+        8.543676545565518
+      ],
+      "type": "Point"
+    },
+    "completeness": 34,
+    "osm_id": 4218028765,
+    "osm_type": "node"
+  },
+  "60": {
+    "attributes": {
+      "amenity": "hospital",
+      "changeset_id": 95153265,
+      "changeset_timestamp": "2020-12-02T11:42:43",
+      "changeset_user": "Keita_Ibrahima",
+      "changeset_version": 3,
+      "healthcare": "hospital",
+      "name": "Centre Médical SOS drepano Guinée",
+      "uuid": "c0717ff7bb104880b17f94699527ecce"
+    },
+    "centroid": {
+      "coordinates": [
+        -13.624081456015716,
+        9.617649212454694
+      ],
+      "type": "Point"
+    },
+    "completeness": 12,
+    "osm_id": 759134329,
+    "osm_type": "way"
+  },
+  "61": {
+    "attributes": {
+      "amenity": "clinic",
+      "changeset_id": 59304524,
+      "changeset_timestamp": "2018-05-27T01:46:09",
+      "changeset_user": "Ismaeldiarria",
+      "changeset_version": 1,
+      "name": "Centre médico chirurgical Jean Koulouba",
+      "uuid": "1cab69eafe8a4b308fb585ceb800b0a0"
+    },
+    "centroid": {
+      "coordinates": [
+        -13.512239836043307,
+        9.689082054413234
+      ],
+      "type": "Point"
+    },
+    "completeness": 9,
+    "osm_id": 5644904747,
+    "osm_type": "node"
+  },
+  "62": {
+    "attributes": {
+      "amenity": "pharmacy",
+      "changeset_id": 72377806,
+      "changeset_timestamp": "2019-07-18T08:15:22",
+      "changeset_user": "Ismaeldiarria",
+      "changeset_version": 1,
+      "name": "Pharmacie Saidou",
+      "uuid": "616cac3fe8ed4a7cbc3e50cf218c6766"
+    },
+    "centroid": {
+      "coordinates": [
+        -13.587549559676688,
+        9.642949987183954
+      ],
+      "type": "Point"
+    },
+    "completeness": 9,
+    "osm_id": 6627138688,
+    "osm_type": "node"
+  },
+  "63": {
+    "attributes": {
+      "addr_city": "Koyama",
+      "amenity": "pharmacy",
+      "changeset_id": 44218781,
+      "changeset_timestamp": "2016-12-06T20:11:55",
+      "changeset_user": "Giblet",
+      "changeset_version": 1,
+      "name": "Pharmacie",
+      "source": "Red Cross Field Survey",
+      "uuid": "bc8dc8075a6045b9a187c7849cba2aaa"
+    },
+    "centroid": {
+      "coordinates": [
+        -9.357383322741299,
+        7.899370880367741
+      ],
+      "type": "Point"
+    },
+    "completeness": 15,
+    "osm_id": 4541907829,
+    "osm_type": "node"
+  },
+  "64": {
+    "attributes": {
+      "amenity": "pharmacy",
+      "changeset_id": 77043634,
+      "changeset_timestamp": "2019-11-14T00:19:06",
+      "changeset_user": "SerV",
+      "changeset_version": 3,
+      "healthcare": "pharmacy",
+      "name": "Pharmacie Tinka",
+      "uuid": "d7d85e977909413da569312d50374c9e"
+    },
+    "centroid": {
+      "coordinates": [
+        -13.67037977829446,
+        9.547514559659646
+      ],
+      "type": "Point"
+    },
+    "completeness": 12,
+    "osm_id": 5485089550,
+    "osm_type": "node"
+  },
+  "65": {
+    "attributes": {
+      "amenity": "clinic",
+      "changeset_id": 87220022,
+      "changeset_timestamp": "2020-06-27T07:48:38",
+      "changeset_user": "Lawi_Gn",
+      "changeset_version": 4,
+      "name": "Clinique des Nations Unies",
+      "opening_hours": "Mo-Sa 07:30-22:00",
+      "uuid": "c1dd9468c8c04d6abc170c2d1503df5e"
+    },
+    "centroid": {
+      "coordinates": [
+        -13.664038868543685,
+        9.56736139763197
+      ],
+      "type": "Point"
+    },
+    "completeness": 12,
+    "osm_id": 5550525382,
+    "osm_type": "node"
+  },
+  "66": {
+    "attributes": {
+      "amenity": "pharmacy",
+      "changeset_id": 82344987,
+      "changeset_timestamp": "2020-03-18T11:17:02",
+      "changeset_user": "Ismaeldiarria",
+      "changeset_version": 2,
+      "name": "Pharmacie de progrès",
+      "uuid": "f3f1d4f2169e429ca452d02faaa961ff"
+    },
+    "centroid": {
+      "coordinates": [
+        -13.556981177898052,
+        9.66808186656425
+      ],
+      "type": "Point"
+    },
+    "completeness": 9,
+    "osm_id": 6902240635,
+    "osm_type": "node"
+  },
+  "67": {
+    "attributes": {
+      "amenity": "pharmacy",
+      "changeset_id": 84720668,
+      "changeset_timestamp": "2020-05-05T22:58:29",
+      "changeset_user": "Ismaeldiarria",
+      "changeset_version": 4,
+      "name": "Pharmacie Lomou",
+      "operational_status": "private",
+      "operator": "Dr François ONI",
+      "uuid": "f636e552decd479d8fd5bd1e648be407"
+    },
+    "centroid": {
+      "coordinates": [
+        -13.645025862299093,
+        9.569344891198938
+      ],
+      "type": "Point"
+    },
+    "completeness": 15,
+    "osm_id": 5483737791,
+    "osm_type": "node"
+  },
+  "68": {
+    "attributes": {
+      "amenity": "pharmacy",
+      "changeset_id": 75584407,
+      "changeset_timestamp": "2019-10-11T19:58:02",
+      "changeset_user": "Lawi_Gn",
+      "changeset_version": 1,
+      "name": "Pharmacie FELLAH Nongo",
+      "uuid": "d2449cb7c1f84f139184b9b0cf495e05"
+    },
+    "centroid": {
+      "coordinates": [
+        -13.637869225731464,
+        9.623120918846354
+      ],
+      "type": "Point"
+    },
+    "completeness": 9,
+    "osm_id": 6871962995,
+    "osm_type": "node"
+  },
+  "69": {
+    "attributes": {
+      "amenity": "doctors",
+      "changeset_id": 68404386,
+      "changeset_timestamp": "2019-03-22T10:01:39",
+      "changeset_user": "Jean-Marc Liotier",
+      "changeset_version": 2,
+      "name": "Centre de santé de Beindou",
+      "uuid": "4ac5d7abfff04c80a10a8029bc538454"
+    },
+    "centroid": {
+      "coordinates": [
+        -10.003095052196443,
+        9.099194135369828
+      ],
+      "type": "Point"
+    },
+    "completeness": 9,
+    "osm_id": 6349834531,
+    "osm_type": "node"
+  },
+  "70": {
+    "attributes": {
+      "amenity": "hospital",
+      "changeset_id": 86975988,
+      "changeset_timestamp": "2020-06-22T10:56:55",
+      "changeset_user": "Ambassador_Spock",
+      "changeset_version": 3,
+      "healthcare": "hospital",
+      "name": "Bossou",
+      "uuid": "773a460c80b6410583454f8d80601b88"
+    },
+    "centroid": {
+      "coordinates": [
+        -8.506008491108743,
+        7.646465631960711
+      ],
+      "type": "Point"
+    },
+    "completeness": 12,
+    "osm_id": 788920359,
+    "osm_type": "way"
+  },
+  "71": {
+    "attributes": {
+      "addr_city": "Fangamadou Centre",
+      "amenity": "clinic",
+      "changeset_id": 53840965,
+      "changeset_timestamp": "2017-11-16T13:14:42",
+      "changeset_user": "thetornado76",
+      "changeset_version": 2,
+      "contact_number": "622886253",
+      "dispensing": "yes",
+      "emergency": "yes",
+      "healthcare": "clinic",
+      "name": "Centre de santé De Fangamadou",
+      "opening_hours": "08:00-16:00",
+      "operator": "government",
+      "source": "Red Cross Field Survey",
+      "speciality": "community",
+      "uuid": "6890268edc9c4e1bb2483df10bff0ee5"
+    },
+    "centroid": {
+      "coordinates": [
+        -10.59253328213461,
+        8.490003782965204
+      ],
+      "type": "Point"
+    },
+    "completeness": 37,
+    "osm_id": 4532563934,
+    "osm_type": "node"
+  },
+  "72": {
+    "attributes": {
+      "amenity": "pharmacy",
+      "changeset_id": 75517590,
+      "changeset_timestamp": "2019-10-10T14:09:59",
+      "changeset_user": "Alane Konan",
+      "changeset_version": 1,
+      "name": "Pharmacie Nafaya",
+      "uuid": "5dc5f8a3e1514ad18ecc389f0309c4e7"
+    },
+    "centroid": {
+      "coordinates": [
+        -13.710190381788351,
+        9.507230294817447
+      ],
+      "type": "Point"
+    },
+    "completeness": 9,
+    "osm_id": 6867101815,
+    "osm_type": "node"
+  },
+  "73": {
+    "attributes": {
+      "amenity": "pharmacy",
+      "changeset_id": 77311823,
+      "changeset_timestamp": "2019-11-20T09:19:46",
+      "changeset_user": "Lawi_Gn",
+      "changeset_version": 1,
+      "name": "Pharmacie Matho",
+      "uuid": "90244de98fe84e0295c08780920a00dd"
+    },
+    "centroid": {
+      "coordinates": [
+        -9.305444775907574,
+        10.370086876827884
+      ],
+      "type": "Point"
+    },
+    "completeness": 9,
+    "osm_id": 6991881137,
+    "osm_type": "node"
+  },
+  "74": {
+    "attributes": {
+      "amenity": "pharmacy",
+      "changeset_id": 77043634,
+      "changeset_timestamp": "2019-11-14T00:19:06",
+      "changeset_user": "SerV",
+      "changeset_version": 2,
+      "healthcare": "pharmacy",
+      "name": "Pharmacie Kaniya",
+      "uuid": "d3f5313e21ea4d4abcb8f1b0e80a718d"
+    },
+    "centroid": {
+      "coordinates": [
+        -13.635683309202847,
+        9.568366974555687
+      ],
+      "type": "Point"
+    },
+    "completeness": 12,
+    "osm_id": 5784054958,
+    "osm_type": "node"
+  },
+  "75": {
+    "attributes": {
+      "addr_city": "Macenta",
+      "amenity": "clinic",
+      "changeset_id": 44218690,
+      "changeset_timestamp": "2016-12-06T20:07:57",
+      "changeset_user": "Giblet",
+      "changeset_version": 1,
+      "name": "Pharmacie",
+      "source": "Red Cross Field Survey",
+      "uuid": "b16fb514f06f44ec9049c758dd03d602"
+    },
+    "centroid": {
+      "coordinates": [
+        -9.463936171358796,
+        8.54754169257592
+      ],
+      "type": "Point"
+    },
+    "completeness": 15,
+    "osm_id": 4541902294,
+    "osm_type": "node"
+  },
+  "76": {
+    "attributes": {
+      "amenity": "clinic",
+      "changeset_id": 76062416,
+      "changeset_timestamp": "2019-10-22T17:39:38",
+      "changeset_user": "Alane Konan",
+      "changeset_version": 2,
+      "name": "Poste de Santé de la Gare",
+      "uuid": "4bd2e10695374f47a4da81bb75b37a7b"
+    },
+    "centroid": {
+      "coordinates": [
+        -13.70947305851476,
+        9.514181071843097
+      ],
+      "type": "Point"
+    },
+    "completeness": 9,
+    "osm_id": 6866835407,
+    "osm_type": "node"
+  },
+  "77": {
+    "attributes": {
+      "addr_city": "Forécariah",
+      "amenity": "hospital",
+      "changeset_id": 85567516,
+      "changeset_timestamp": "2020-05-21T17:41:59",
+      "changeset_user": "WorldStar007",
+      "changeset_version": 2,
+      "healthcare": "hospital",
+      "name": "Hôpital en construction à Karakoro",
+      "source": "Red Cross Field Survey",
+      "uuid": "7e01b554251745efa438e45d38e5973a"
+    },
+    "centroid": {
+      "coordinates": [
+        -13.074584910756176,
+        9.43549249955829
+      ],
+      "type": "Point"
+    },
+    "completeness": 18,
+    "osm_id": 349881097,
+    "osm_type": "way"
+  },
+  "78": {
+    "attributes": {
+      "amenity": "pharmacy",
+      "changeset_id": 77043634,
+      "changeset_timestamp": "2019-11-14T00:19:06",
+      "changeset_user": "SerV",
+      "changeset_version": 2,
+      "healthcare": "pharmacy",
+      "name": "Pharmacie Sibiribaro",
+      "uuid": "56f98c57fbd04fce931dd080e5a7d228"
+    },
+    "centroid": {
+      "coordinates": [
+        -13.629919744942669,
+        9.567690219693475
+      ],
+      "type": "Point"
+    },
+    "completeness": 12,
+    "osm_id": 5866701392,
+    "osm_type": "node"
+  },
+  "79": {
+    "attributes": {
+      "addr_city": "Kobikoro",
+      "amenity": "pharmacy",
+      "changeset_id": 44118994,
+      "changeset_timestamp": "2016-12-02T17:07:37",
+      "changeset_user": "Giblet",
+      "changeset_version": 1,
+      "name": "Ibrahima Mansaré",
+      "source": "Red Cross Field Survey",
+      "uuid": "d7e1ddee11b3478b82c90c408e336448"
+    },
+    "centroid": {
+      "coordinates": [
+        -10.54446591728157,
+        9.211548769725965
+      ],
+      "type": "Point"
+    },
+    "completeness": 15,
+    "osm_id": 4534510732,
+    "osm_type": "node"
+  },
+  "80": {
+    "attributes": {
+      "addr_city": "Matoto",
+      "amenity": "doctors",
+      "changeset_id": 77186150,
+      "changeset_timestamp": "2019-11-17T11:39:40",
+      "changeset_user": "SerV",
+      "changeset_version": 4,
+      "healthcare": "doctor",
+      "name": "Centre de santé Matoto",
+      "operator_type": "government",
+      "uuid": "1175eb6a15324eb69675382ffcd878a6"
+    },
+    "centroid": {
+      "coordinates": [
+        -13.593590313474806,
+        9.612038282651298
+      ],
+      "type": "Point"
+    },
+    "completeness": 18,
+    "osm_id": 5526337171,
+    "osm_type": "node"
+  },
+  "81": {
+    "attributes": {
+      "amenity": "pharmacy",
+      "changeset_id": 58539886,
+      "changeset_timestamp": "2018-04-29T23:51:51",
+      "changeset_user": "Ismaeldiarria",
+      "changeset_version": 2,
+      "name": "Pharmacie Dougun",
+      "uuid": "43fed20dea6946b0b870fe16d5711f53"
+    },
+    "centroid": {
+      "coordinates": [
+        -13.656541842888203,
+        9.577676419134406
+      ],
+      "type": "Point"
+    },
+    "completeness": 9,
+    "osm_id": 4432678810,
+    "osm_type": "node"
+  },
+  "82": {
+    "attributes": {
+      "amenity": "hospital",
+      "changeset_id": 59087103,
+      "changeset_timestamp": "2018-05-18T18:19:48",
+      "changeset_user": "Ismaeldiarria",
+      "changeset_version": 3,
+      "name": "Hôpital Indo Guinéen",
+      "uuid": "3f6e1c5a136e443c8c7ed10db967b5bb"
+    },
+    "centroid": {
+      "coordinates": [
+        -13.622519310384957,
+        9.5803355877502
+      ],
+      "type": "Point"
+    },
+    "completeness": 9,
+    "osm_id": 38839844,
+    "osm_type": "way"
+  },
+  "83": {
+    "attributes": {
+      "amenity": "hospital",
+      "changeset_id": 62461120,
+      "changeset_timestamp": "2018-09-10T17:06:04",
+      "changeset_user": "Ismaeldiarria",
+      "changeset_version": 2,
+      "name": "Centre Hospitalier ANAIM de Kamsar",
+      "operator": "ANAIM",
+      "uuid": "9b6352944c6d48dbaaa53bec9837e0ac"
+    },
+    "centroid": {
+      "coordinates": [
+        -14.604336785592198,
+        10.659110301126958
+      ],
+      "type": "Point"
+    },
+    "completeness": 12,
+    "osm_id": 534409914,
+    "osm_type": "way"
+  },
+  "84": {
+    "attributes": {
+      "amenity": "doctors",
+      "changeset_id": 63624873,
+      "changeset_timestamp": "2018-10-17T20:40:48",
+      "changeset_user": "Ismaeldiarria",
+      "changeset_version": 1,
+      "name": "Cabinet médical Lansanayah Barrage",
+      "uuid": "4effa968ed92492a9b9ec6458611f537"
+    },
+    "centroid": {
+      "coordinates": [
+        -13.524160243460557,
+        9.667344175265953
+      ],
+      "type": "Point"
+    },
+    "completeness": 9,
+    "osm_id": 5994146714,
+    "osm_type": "node"
+  },
+  "85": {
+    "attributes": {
+      "addr_city": "Macenta",
+      "amenity": "pharmacy",
+      "changeset_id": 44241110,
+      "changeset_timestamp": "2016-12-07T17:54:28",
+      "changeset_user": "Giblet",
+      "changeset_version": 1,
+      "name": "Pharmacie de Kpabdè Béavogui",
+      "source": "Red Cross Field Survey",
+      "uuid": "a79d903e4c5b4a2a92f290d1ab03fe75"
+    },
+    "centroid": {
+      "coordinates": [
+        -9.472324612416799,
+        8.555484384023146
+      ],
+      "type": "Point"
+    },
+    "completeness": 15,
+    "osm_id": 4543522937,
+    "osm_type": "node"
+  },
+  "86": {
+    "attributes": {
+      "addr_city": "District Toumandou",
+      "amenity": "clinic",
+      "changeset_id": 53840965,
+      "changeset_timestamp": "2017-11-16T13:14:39",
+      "changeset_user": "thetornado76",
+      "changeset_version": 2,
+      "contact_number": "628636403",
+      "dispensing": "yes",
+      "emergency": "yes",
+      "healthcare": "clinic",
+      "name": "Clinique de Toumandou",
+      "opening_hours": "07:00-22:00",
+      "operator": "private_profit",
+      "source": "Red Cross Field Survey",
+      "speciality": "infirmier d'état",
+      "uuid": "c30cb30b33a84870a361276f4798faec"
+    },
+    "centroid": {
+      "coordinates": [
+        -10.4722541450611,
+        8.900247148975495
+      ],
+      "type": "Point"
+    },
+    "completeness": 37,
+    "osm_id": 4532563473,
+    "osm_type": "node"
+  },
+  "87": {
+    "attributes": {
+      "addr_city": "Sougueta",
+      "amenity": "clinic",
+      "changeset_id": 53840965,
+      "changeset_timestamp": "2017-11-16T13:14:36",
+      "changeset_user": "thetornado76",
+      "changeset_version": 2,
+      "contact_number": "631703496",
+      "dispensing": "yes",
+      "emergency": "yes",
+      "healthcare": "clinic",
+      "name": "Centre De Santé Sougueta",
+      "opening_hours": "07:00-18:00",
+      "operator": "government",
+      "source": "Red Cross Field Survey",
+      "speciality": "community",
+      "uuid": "4b15330796d74da8b89cdd76f6db61e4"
+    },
+    "centroid": {
+      "coordinates": [
+        -12.535792540415713,
+        10.153919521820683
+      ],
+      "type": "Point"
+    },
+    "completeness": 37,
+    "osm_id": 4532363819,
+    "osm_type": "node"
+  },
+  "88": {
+    "attributes": {
+      "addr_city": "BARDOU KAMA-KAMA BARDOU",
+      "changeset_id": 73885888,
+      "changeset_timestamp": "2019-08-29T14:09:34",
+      "changeset_user": "Aly Diallo",
+      "changeset_version": 1,
+      "healthcare": "hospital",
+      "name": "HOPITAL",
+      "operator": "PUBLIC",
+      "speciality": "general",
+      "uuid": "aeda889685e24cf8afa4912a107f3a3b"
+    },
+    "centroid": {
+      "coordinates": [
+        -9.862483638504866,
+        9.035444897597612
+      ],
+      "type": "Point"
+    },
+    "completeness": 18,
+    "osm_id": 719926229,
+    "osm_type": "way"
+  },
+  "89": {
+    "attributes": {
+      "amenity": "pharmacy",
+      "changeset_id": 64691701,
+      "changeset_timestamp": "2018-11-20T11:01:02",
+      "changeset_user": "Ismaeldiarria",
+      "changeset_version": 5,
+      "name": "pharmacie bilivogui",
+      "opening_hours": "Mo-Su 08:00-22:00",
+      "operator": "Dr Alexi",
+      "uuid": "64a93cf535f343b9a6e69ed1c156dda2"
+    },
+    "centroid": {
+      "coordinates": [
+        -13.509765246769376,
+        9.690660534418868
+      ],
+      "type": "Point"
+    },
+    "completeness": 15,
+    "osm_id": 5296855023,
+    "osm_type": "node"
+  },
+  "90": {
+    "attributes": {
+      "addr_city": "Loo",
+      "amenity": "clinic",
+      "changeset_id": 53840965,
+      "changeset_timestamp": "2017-11-16T13:14:48",
+      "changeset_user": "thetornado76",
+      "changeset_version": 2,
+      "contact_number": "664595804",
+      "dispensing": "yes",
+      "emergency": "yes",
+      "healthcare": "clinic",
+      "name": "Poste de santé de Loo",
+      "opening_hours": "08:00-00:00",
+      "operator": "government",
+      "source": "Red Cross Field Survey",
+      "speciality": "community",
+      "uuid": "7209012190984ee18428a131179b9d2e"
+    },
+    "centroid": {
+      "coordinates": [
+        -9.279783244065754,
+        7.854243719509924
+      ],
+      "type": "Point"
+    },
+    "completeness": 37,
+    "osm_id": 4532568774,
+    "osm_type": "node"
+  },
+  "91": {
+    "attributes": {
+      "addr_city": "Forécariah",
+      "amenity": "hospital",
+      "changeset_id": 85567516,
+      "changeset_timestamp": "2020-05-21T17:41:59",
+      "changeset_user": "WorldStar007",
+      "changeset_version": 2,
+      "healthcare": "hospital",
+      "name": "Hôpital",
+      "source": "Red Cross Field Survey",
+      "uuid": "0001805b6ac549ce876b2cc53bede018"
+    },
+    "centroid": {
+      "coordinates": [
+        -13.074772251940672,
+        9.435771466296126
+      ],
+      "type": "Point"
+    },
+    "completeness": 18,
+    "osm_id": 349881092,
+    "osm_type": "way"
+  },
+  "92": {
+    "attributes": {
+      "amenity": "hospital",
+      "changeset_id": 87569998,
+      "changeset_timestamp": "2020-07-06T01:29:33",
+      "changeset_user": "Edgar François Loua",
+      "changeset_version": 2,
+      "name": "Poste de santé",
+      "uuid": "e0ba56f981684b439dc378e5ec4475db"
+    },
+    "centroid": {
+      "coordinates": [
+        -12.830388273770069,
+        10.48027059826208
+      ],
+      "type": "Point"
+    },
+    "completeness": 9,
+    "osm_id": 7129349185,
+    "osm_type": "node"
+  },
+  "93": {
+    "attributes": {
+      "amenity": "pharmacy",
+      "changeset_id": 57809591,
+      "changeset_timestamp": "2018-04-04T17:11:29",
+      "changeset_user": "Ismaeldiarria",
+      "changeset_version": 1,
+      "name": "pharmacie Afia",
+      "uuid": "2dd54fcd9b23409a83bd6232296147ec"
+    },
+    "centroid": {
+      "coordinates": [
+        -13.642195880330604,
+        9.603890569852467
+      ],
+      "type": "Point"
+    },
+    "completeness": 9,
+    "osm_id": 5528602729,
+    "osm_type": "node"
+  },
+  "94": {
+    "attributes": {
+      "amenity": "clinic",
+      "changeset_id": 55308339,
+      "changeset_timestamp": "2018-01-10T00:49:56",
+      "changeset_user": "Ismaeldiarria",
+      "changeset_version": 1,
+      "name": "Clinique Pasteur",
+      "uuid": "d3bb64c7f09b436186b3d48f0f9f1591"
+    },
+    "centroid": {
+      "coordinates": [
+        -13.712040514379767,
+        9.507873622266452
+      ],
+      "type": "Point"
+    },
+    "completeness": 9,
+    "osm_id": 552008399,
+    "osm_type": "way"
+  },
+  "95": {
+    "attributes": {
+      "amenity": "pharmacy",
+      "changeset_id": 58773537,
+      "changeset_timestamp": "2018-05-08T00:19:49",
+      "changeset_user": "Ismaeldiarria",
+      "changeset_version": 1,
+      "name": "Pharmacie",
+      "uuid": "c565bcaa1dee48aaae6da21a84ed2dfb"
+    },
+    "centroid": {
+      "coordinates": [
+        -13.500941365841527,
+        9.706384398039177
+      ],
+      "type": "Point"
+    },
+    "completeness": 9,
+    "osm_id": 5603202980,
+    "osm_type": "node"
+  },
+  "96": {
+    "attributes": {
+      "amenity": "pharmacy",
+      "changeset_id": 58623871,
+      "changeset_timestamp": "2018-05-02T18:47:58",
+      "changeset_user": "Ismaeldiarria",
+      "changeset_version": 1,
+      "name": "Pharmacie Hassan",
+      "uuid": "8f24c5e4554f4d99a21bd11236a340e4"
+    },
+    "centroid": {
+      "coordinates": [
+        -13.538896048334749,
+        9.656061463042136
+      ],
+      "type": "Point"
+    },
+    "completeness": 9,
+    "osm_id": 5592972607,
+    "osm_type": "node"
+  },
+  "97": {
+    "attributes": {
+      "amenity": "pharmacy",
+      "changeset_id": 61518128,
+      "changeset_timestamp": "2018-08-10T03:32:23",
+      "changeset_user": "Ismaeldiarria",
+      "changeset_version": 1,
+      "name": "Pharmacie Nadalo",
+      "uuid": "682c4ee631d749f393a3d8bd86cb1bab"
+    },
+    "centroid": {
+      "coordinates": [
+        -13.562703922289757,
+        9.64315509235459
+      ],
+      "type": "Point"
+    },
+    "completeness": 9,
+    "osm_id": 5821766785,
+    "osm_type": "node"
+  },
+  "98": {
+    "attributes": {
+      "amenity": "pharmacy",
+      "changeset_id": 63316064,
+      "changeset_timestamp": "2018-10-08T15:43:53",
+      "changeset_user": "aurelien kouame",
+      "changeset_version": 3,
+      "name": "Pharmacie Filany",
+      "uuid": "b5ab4e9398aa4c8db4369bcbe442ce26"
+    },
+    "centroid": {
+      "coordinates": [
+        -13.675821226015671,
+        9.547896355349224
+      ],
+      "type": "Point"
+    },
+    "completeness": 9,
+    "osm_id": 4764511822,
+    "osm_type": "node"
+  },
+  "99": {
+    "attributes": {
+      "addr_city": "Sikhourou",
+      "amenity": "clinic",
+      "changeset_id": 53840965,
+      "changeset_timestamp": "2017-11-16T13:14:34",
+      "changeset_user": "thetornado76",
+      "changeset_version": 2,
+      "dispensing": "yes",
+      "emergency": "yes",
+      "healthcare": "clinic",
+      "name": "Poste De Santé",
+      "opening_hours": "07:00-17:00",
+      "operator": "government",
+      "source": "Red Cross Field Survey",
+      "speciality": "community",
+      "uuid": "94128087b82b42b5aa2da44b0d3c3b1c"
+    },
+    "centroid": {
+      "coordinates": [
+        -12.809126570542077,
+        9.61206879277887
+      ],
+      "type": "Point"
+    },
+    "completeness": 34,
+    "osm_id": 4532362719,
+    "osm_type": "node"
+  },
+  "endpoint": {
+    "description": "Returns statistic of facilities with some filtering parameters.",
+    "path": "/api/v2/facilities"
+  },
+  "__query_params": {}
+}
