@@ -47,7 +47,7 @@ get(
   {
     query: {
       "api-key": state.configuration["api-key"],
-      country: "Guinea",
+      country: "Bangladesh",
       page: 1,
     },
     headers: { "content-type": "application/json" },
