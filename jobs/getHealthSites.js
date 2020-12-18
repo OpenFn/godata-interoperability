@@ -32,7 +32,7 @@
 alterState((state) => {
   // Replace this endpoint with any of the examples above
   let endpoint = {
-    path: "/api/v2/facilities/statistic",
+    path: "/api/v2/facilities",
     description:
       "Returns statistic of facilities with some filtering parameters.",
   };
@@ -47,7 +47,7 @@ get(
   {
     query: {
       "api-key": state.configuration["api-key"],
-      country: "Senegal",
+      country: "Guinea",
       page: 1,
     },
     headers: { "content-type": "application/json" },
