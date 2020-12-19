@@ -29,28 +29,37 @@
 
  */
 
-alterState((state) => {
+alterState(state => {
   // Replace this endpoint with any of the examples above
   let endpoint = {
-    path: "/api/v2/facilities",
-    description:
-      "Returns statistic of facilities with some filtering parameters.",
+    path: '/api/v2/facilities',
+    description: 'Returns a list of facilities with some filtering parameters.',
   };
 
-  state["endpoint"] = endpoint;
+  state['endpoint'] = endpoint;
 
+  // Replace this a query filter to match the desired results
+  let query = {
+    'api-key': state.configuration['api-key'],
+    country: 'Bangladesh',
+    page: 1,
+  };
+
+  state.query = query;
+
+  console.log('HealthSites.io Endpoint:\n', state.endpoint);
+  console.log('Endpoint Query:', {
+    ...state.query,
+    'api-key': '********************',
+  });
   return state;
 })(state);
 
 get(
   `${state.configuration.hostUrl + state.endpoint.path}`,
   {
-    query: {
-      "api-key": state.configuration["api-key"],
-      country: "Bangladesh",
-      page: 1,
-    },
-    headers: { "content-type": "application/json" },
+    query: state.query,
+    headers: { 'content-type': 'application/json' },
   },
   function (state) {
     return state;
@@ -60,12 +69,13 @@ get(
 post(
   state.configuration.inboxUrl,
   {
-    body: (state) => {
-      let endpoint = state.endpoint;
-      let data = { endpoint, ...state.data };
+    body: state => {
+      let __endpoint = state.endpoint;
+      let __query = { ...state.query, 'api-key': '********************' };
+      let data = { __endpoint, __query, ...state.data };
       return data;
     },
-    headers: { "content-type": "application/json" },
+    headers: { 'content-type': 'application/json' },
   },
   function (state) {
     return state;
