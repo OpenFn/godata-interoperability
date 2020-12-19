@@ -38,7 +38,7 @@ alterState(state => {
 
   state['endpoint'] = endpoint;
 
-  // Replace this a query filter to match the desired results
+  // Replace this with a query filter to match the desired results
   let query = {
     'api-key': state.configuration['api-key'],
     country: 'Bangladesh',
