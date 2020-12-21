@@ -1,0 +1,103 @@
+{
+    "lastUpdated": "2020-03-27T10:44:08.017",
+    "id": "ocBlGrHZy6Q",
+    "href": "https://covid19.dhis2.org/demo/api/indicators/ocBlGrHZy6Q",
+    "created": "2020-03-18T09:46:52.459",
+    "name": "COVID-19 - Confirmed cases",
+    "shortName": "Confirmed cases",
+    "displayName": "COVID-19 - Confirmed cases",
+    "publicAccess": "r-------",
+    "displayShortName": "Confirmed cases",
+    "externalAccess": false,
+    "denominatorDescription": "1",
+    "numeratorDescription": "Suspected cases that were confirmed through laboratory testing (multiple lab tests may be conducted; this indicator assumes that the last test result).",
+    "dimensionItem": "ocBlGrHZy6Q",
+    "numerator": "#{CnPsS2xE8UN}",
+    "denominator": "1",
+    "annualized": false,
+    "favorite": false,
+    "dimensionItemType": "INDICATOR",
+    "access": {
+        "read": true,
+        "update": false,
+        "externalize": false,
+        "delete": false,
+        "write": false,
+        "manage": false
+    },
+    "indicatorType": {
+        "id": "kHy61PbChXr"
+    },
+    "lastUpdatedBy": {
+        "id": "M2foyBloz3g"
+    },
+    "user": {
+        "id": "vUeLeQMSwhN"
+    },
+    "favorites": [],
+    "translations": [
+        {
+            "property": "SHORT_NAME",
+            "locale": "en",
+            "value": "Confirmed cases"
+        },
+        {
+            "property": "NAME",
+            "locale": "ru",
+            "value": "COVID-19 - Подтвержденные случаи"
+        },
+        {
+            "property": "NAME",
+            "locale": "en",
+            "value": "COVID-19 - Confirmed cases"
+        },
+        {
+            "property": "NAME",
+            "locale": "es",
+            "value": "COVID-19 - Casos confirmados"
+        },
+        {
+            "property": "NAME",
+            "locale": "pt",
+            "value": "COVID-19 - Casos confirmados"
+        },
+        {
+            "property": "SHORT_NAME",
+            "locale": "fr",
+            "value": "Cas confirmés"
+        },
+        {
+            "property": "SHORT_NAME",
+            "locale": "es",
+            "value": "Casos confirmados"
+        },
+        {
+            "property": "NAME",
+            "locale": "fr",
+            "value": "COVID-19 - Cas confirmés"
+        }
+    ],
+    "userGroupAccesses": [
+        {
+            "access": "rw------",
+            "userGroupUid": "w4iJeNKy9br",
+            "displayName": "COVID19 admin",
+            "id": "w4iJeNKy9br"
+        },
+        {
+            "access": "r-------",
+            "userGroupUid": "DoYehxUvmwT",
+            "displayName": "COVID19 access",
+            "id": "DoYehxUvmwT"
+        }
+    ],
+    "attributeValues": [],
+    "indicatorGroups": [
+        {
+            "id": "YKyPfpFUAVo"
+        }
+    ],
+    "userAccesses": [],
+    "dataSets": [],
+    "legendSets": []
+}

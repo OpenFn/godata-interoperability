@@ -1,0 +1,126 @@
+{
+    "code": "COVID_19_NEW_CONFIRMED_CASES",
+    "lastUpdated": "2020-03-27T10:41:01.627",
+    "id": "CnPsS2xE8UN",
+    "href": "https://covid19.dhis2.org/demo/api/dataElements/CnPsS2xE8UN",
+    "created": "2020-03-18T10:01:35.110",
+    "name": "COVID-19 - New confirmed cases (sex/age)",
+    "shortName": "New confirmed cases (sex/age)",
+    "aggregationType": "SUM",
+    "domainType": "AGGREGATE",
+    "displayName": "COVID-19 - New confirmed cases (sex/age)",
+    "publicAccess": "r-------",
+    "displayShortName": "New confirmed cases (sex/age)",
+    "externalAccess": false,
+    "valueType": "INTEGER_ZERO_OR_POSITIVE",
+    "formName": "Number of new confirmed cases",
+    "dimensionItem": "CnPsS2xE8UN",
+    "displayFormName": "Number of new confirmed cases",
+    "zeroIsSignificant": false,
+    "favorite": false,
+    "optionSetValue": false,
+    "dimensionItemType": "DATA_ELEMENT",
+    "access": {
+        "read": true,
+        "update": false,
+        "externalize": false,
+        "delete": false,
+        "write": false,
+        "manage": false
+    },
+    "categoryCombo": {
+        "id": "o3OiZXHwBzY"
+    },
+    "lastUpdatedBy": {
+        "id": "M2foyBloz3g"
+    },
+    "user": {
+        "id": "vUeLeQMSwhN"
+    },
+    "favorites": [],
+    "dataSetElements": [
+        {
+            "dataElement": {
+                "id": "CnPsS2xE8UN"
+            },
+            "dataSet": {
+                "id": "kIfMNugiTgd"
+            }
+        }
+    ],
+    "translations": [
+        {
+            "property": "FORM_NAME",
+            "locale": "ru",
+            "value": "Количество новых подтвержденных случаев"
+        },
+        {
+            "property": "FORM_NAME",
+            "locale": "es",
+            "value": "Numero de nuevos confirmados"
+        },
+        {
+            "property": "NAME",
+            "locale": "ru",
+            "value": "COVID-19 - Новые подтвержденные случаи (пол / возраст)"
+        },
+        {
+            "property": "NAME",
+            "locale": "es",
+            "value": "COVID-19 - Nuevos casos confirmados (sexo/edad)"
+        },
+        {
+            "property": "NAME",
+            "locale": "pt",
+            "value": "COVID-19 - Novos casos confirmados (sexo/idade)"
+        },
+        {
+            "property": "FORM_NAME",
+            "locale": "pt",
+            "value": "Número de novos casos confirmados "
+        },
+        {
+            "property": "SHORT_NAME",
+            "locale": "fr",
+            "value": "Nouveaux cas confirmés (sexe/âge)"
+        },
+        {
+            "property": "NAME",
+            "locale": "fr",
+            "value": "COVID-19 - Nouveaux cas confirmés (Sexe/âge)"
+        },
+        {
+            "property": "SHORT_NAME",
+            "locale": "es",
+            "value": "Nuevos casos confirmados (sexo/edad)"
+        },
+        {
+            "property": "FORM_NAME",
+            "locale": "fr",
+            "value": "Nombre de nouveaux cas confirmés"
+        }
+    ],
+    "userGroupAccesses": [
+        {
+            "access": "rw------",
+            "userGroupUid": "w4iJeNKy9br",
+            "displayName": "COVID19 admin",
+            "id": "w4iJeNKy9br"
+        },
+        {
+            "access": "r-------",
+            "userGroupUid": "DoYehxUvmwT",
+            "displayName": "COVID19 access",
+            "id": "DoYehxUvmwT"
+        }
+    ],
+    "dataElementGroups": [
+        {
+            "id": "RUadO5Cbck8"
+        }
+    ],
+    "attributeValues": [],
+    "userAccesses": [],
+    "legendSets": [],
+    "aggregationLevels": []
+}
