@@ -28,12 +28,15 @@ listCases('3b5554d7-2c19-41d0-b9af-475ad25a382b', {}, state => {
 
 // Bulk post to OpenFn Inbox
 alterState(state => {
-  const { openfnInboxUrl, username, password_post } = state.configuration;
+  const { openfnInboxUrl } = state.configuration;
   const data = state.cases;
   console.log(`Sending to OpenFn Inbox in bulk...`);
-  return post(`${openfnInboxUrl}`, {
-    body: { data },
-    headers: { 'content-type': 'json' },
-    authentication: { username, password: password_post },
-  })(state);
+  return axios({
+    method: 'POST',
+    url: `${openfnInboxUrl}`,
+    data,
+  }).then(response => {
+    console.log(response);
+    return state;
+  });
 });
