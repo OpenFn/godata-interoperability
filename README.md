@@ -28,19 +28,22 @@ Categories are another dimension commonly used to define data elements in aggreg
 #### Step 2. Identify the `period` for which this data will be submitted
 
 - In this example, we will use `202011` as the month of reporting
+- You can learn about the `allowed reporting frequency` for a given `dataSet` by inspecting the result of the call to this [endpoint](https://play.dhis2.org/2.35.1/api/dataSets/eZDhcZi6FLP), on a property named `periodType`
 
 #### Step 3. Identify the `dataSet` associated with the data you will be uploading
 
 - In this example,  we will use the **[Morbidity data set](https://play.dhis2.org/2.35.1/api/dataSets/eZDhcZi6FLP)** from DHIS2 play instance.
-- We would need to find and take note of the `id(eZDhcZi6FLP)` of the `Morbidity data set.
+- We would need to find and take note of the `id(eZDhcZi6FLP)` of the `Morbidity data set`.
+- You can get the list of available `dataSets` for a given `orgUnit` by inspecting the results of this [endpoint](https://play.dhis2.org/2.35.1/api/dataSets?orgUnit=y77LiPqLMoq)
 
 #### Step 4. Identify the dataElement Id(s) (in this case the `Id` of [`Measles new`](https://play.dhis2.org/2.35.1/api/dataElements/GCvqIM3IzN0) data element)
 
 - The `Id` of the `Measles new` dataElement is `GCvqIM3IzN0`
+- You can get the list of available `dataElements` for a given `dataSet` by inspecting the results of this [endpoint](https://play.dhis2.org/2.35.1/api/dataElements?orgUnit=y77LiPqLMoq&dataSet=eZDhcZi6FLP&pageSize=1035&fields=*).
 
-#### Step 5. Identify the CategoryComboOptions associated with a given data element
+#### Step 5. Identify the CategoryComboOptions(Disaggregate Options) associated with a given data element
 
-- In this example, the CategoryComboOptions associated with the `Measles new` data element can be found here, or as below:
+- In this example, the CategoryComboOptions associated with the `Measles new` data element can be found [here](https://play.dhis2.org/2.35.1/api/categoryOptionCombos?fields=*&filter=categoryCombo.id:eq:t3aNCvHsoSn), or as below:
 ```
 { "id": "S34ULMcHMca","name": "0-11m", "id": "wHBMVthqIX4","name": "12-59m",  "id": "SdOUI2yT46H","name": "5-14y", "id": "jOkIbJVhECg","name": "15y+"}
 ```
@@ -166,10 +169,10 @@ Categories are another dimension commonly used to define data elements in aggreg
 
 ##### _2.  Http Client_
 
-- Any http client such as `[curl](https://github.com/curl/curl)`, [`axios`](https://github.com/axios/axios) or [`postman`](https://www.postman.com/) to upload the data via the http`POST` request to this endpoint: https://play.dhis2.org/2.35.1/api/dataValueSets
+- Any http client such as [`curl`](https://github.com/curl/curl), [`axios`](https://github.com/axios/axios) or [`postman`](https://www.postman.com/) to upload the data via the http`POST` request to this endpoint: https://play.dhis2.org/2.35.1/api/dataValueSets
 
 ###### Notes
-- Note that you can easily get the template of the `data value sets` by querying the `dataSets` endpoint as in the example,below:
+- Note that you can easily get a **template of the dataValueSets Payload** by querying the `dataSets` endpoint as in the example,below:
 ```json
 GET https://play.dhis2.org/2.35.1/api/dataSets/eZDhcZi6FLP/dataValueSet.json?orgUnit=y77LiPqLMoq&period=202011
 ```
