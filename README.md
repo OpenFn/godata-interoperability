@@ -42,6 +42,8 @@ Categories are another dimension commonly used to define data elements in aggreg
 
 - The `Id` of the `Measles new` dataElement is `GCvqIM3IzN0`
 - You can get the list of available `dataElements` for a given `dataSet` by inspecting the results of this [endpoint](https://play.dhis2.org/2.35.1/api/dataElements?orgUnit=y77LiPqLMoq&dataSet=eZDhcZi6FLP&pageSize=1035&fields=*).
+- Note also that you are **not limited** to working with `only one data element`. 
+- You can include all or as many data elements as data is available for. But in this example we will only send data for **one** data element(**Measles new**), for brevity.
 
 #### Step 5. Identify the CategoryComboOptions(Disaggregate Options) associated with a given data element
 
@@ -51,8 +53,9 @@ Categories are another dimension commonly used to define data elements in aggreg
 ```
 - Take note of the `Id`(s).
 
-#### Step 6. Based on the information collected in steps `1-5`, design the `payload` to be uploaded to DHIS2 as shown below:
-
+#### Step 6. Based on the information collected in steps `1-5`, design the `payload` to be uploaded to DHIS2 as shown below
+- Also note that a given `data element` can be **repeated multiple times** in the payload, equivalent to the number of `categoryOptionCombos`(disaggregates) designated for that data element
+- In this case, `data values` for the **same data element(GCvqIM3IzN0)** is repeated **4 times**, equivalent to `categoryOptionCombo` values `0-11m(S34ULMcHMca)`, `12-59m(wHBMVthqIX4)`, `5-14y(SdOUI2yT46H)` and `15y+(jOkIbJVhECg)`, respectively:
 ```json
 {
     "dataValues": [
