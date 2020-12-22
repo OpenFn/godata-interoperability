@@ -32,7 +32,7 @@ Categories are another dimension commonly used to define data elements in aggreg
 #### Step 3. Identify the `dataSet` associated with the data you will be uploading
 
 - In this example,  we will use the **[Morbidity data set](https://play.dhis2.org/2.35.1/api/dataSets/eZDhcZi6FLP.json)** from DHIS2 play instance.
-- We would need to find and take note of the `id(eZDhcZi6FLP)` of the `Morbidity data set.
+- We would need to find and take note of the `id(eZDhcZi6FLP)` of the `Morbidity data set`.
 
 #### Step 4. Identify the dataElement Id(s) (in this case the `Id` of [`Measles new`](https://play.dhis2.org/2.35.1/api/dataElements/GCvqIM3IzN0.json) data element)
 
