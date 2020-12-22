@@ -169,7 +169,7 @@ Categories are another dimension commonly used to define data elements in aggreg
 - Any http client such as [`curl`](https://github.com/curl/curl), [`axios`](https://github.com/axios/axios) or [`postman`](https://www.postman.com/) to upload the data via the http`POST` request to this endpoint: https://play.dhis2.org/2.35.1/api/dataValueSets
 
 ###### Notes
-- Note that you can easily get the template of the `data value sets` by querying the `dataSets` endpoint as in the example,below:
+- Note that you can easily get the **template of the data value sets** by querying the `dataSets` endpoint as in the example,below:
 ```json
 GET https://play.dhis2.org/2.35.1/api/dataSets/eZDhcZi6FLP/dataValueSet.json?orgUnit=y77LiPqLMoq&period=202011
 ```
