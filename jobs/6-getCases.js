@@ -52,7 +52,7 @@ alterState(state => {
   console.log(`Sending to OpenFn Inbox in bulk...`);
   return axios({
     method: 'POST',
-    url: `${openfnInboxUrl}`,
+    url: 'https://www.openfn.org/inbox/8775c5e5-72c2-4524-b2ba-e422510ba115',//`${openfnInboxUrl}`,
     data,
   }).then(response => {
     console.log(response);
