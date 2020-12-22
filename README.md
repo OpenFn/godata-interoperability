@@ -22,7 +22,7 @@ Categories are another dimension commonly used to define data elements in aggreg
 ### Example steps for preparing data import for New Measles Cases
 #### Step 1. Identify the `orgUnit` for which this data will be submitted
 
-- In this example,  we will use the **[Gbenikoro MCHP](https://play.dhis2.org/2.35.1/api/organisationUnits/y77LiPqLMoq)** organisation unit from DHIS2 play instance.
+- In this example,  we will use the **[Gbenikoro MCHP](https://play.dhis2.org/2.35.1/api/organisationUnits/y77LiPqLMoq.json)** organisation unit from DHIS2 play instance.
 - The `Id` of this `orgUnit` is `y77LiPqLMoq`
 
 #### Step 2. Identify the `period` for which this data will be submitted
@@ -31,16 +31,16 @@ Categories are another dimension commonly used to define data elements in aggreg
 
 #### Step 3. Identify the `dataSet` associated with the data you will be uploading
 
-- In this example,  we will use the **[Morbidity data set](https://play.dhis2.org/2.35.1/api/dataSets/eZDhcZi6FLP)** from DHIS2 play instance.
+- In this example,  we will use the **[Morbidity data set](https://play.dhis2.org/2.35.1/api/dataSets/eZDhcZi6FLP.json)** from DHIS2 play instance.
 - We would need to find and take note of the `id(eZDhcZi6FLP)` of the `Morbidity data set.
 
-#### Step 4. Identify the dataElement Id(s) (in this case the `Id` of [`Measles new`](https://play.dhis2.org/2.35.1/api/dataElements/GCvqIM3IzN0) data element)
+#### Step 4. Identify the dataElement Id(s) (in this case the `Id` of [`Measles new`](https://play.dhis2.org/2.35.1/api/dataElements/GCvqIM3IzN0.json) data element)
 
 - The `Id` of the `Measles new` dataElement is `GCvqIM3IzN0`
 
 #### Step 5. Identify the CategoryComboOptions associated with a given data element
 
-- In this example, the CategoryComboOptions associated with the `Measles new` data element can be found here, or as below:
+- In this example, the CategoryComboOptions associated with the `Measles new` data element can be found [here](https://play.dhis2.org/2.35.1/api/categoryOptionCombos.json?fields=*&filter=categoryCombo.id:eq:t3aNCvHsoSn), or as below:
 ```
 { "id": "S34ULMcHMca","name": "0-11m", "id": "wHBMVthqIX4","name": "12-59m",  "id": "SdOUI2yT46H","name": "5-14y", "id": "jOkIbJVhECg","name": "15y+"}
 ```
