@@ -1,8 +1,7 @@
 alterState(state => {
   const { dateOfReporting, value } = state.summary;
-  console.log(compl);
 
-  return dataValueSet({
+  const dataValue = {
     completeDate: `${dateOfReporting.substring(
       0,
       4
@@ -19,5 +18,10 @@ alterState(state => {
         value,
       },
     ],
-  })(state);
+  };
+
+  console.log('Importing data on DHIS2...');
+  console.log(dataValue);
+
+  return dataValueSet(dataValue)(state);
 });
