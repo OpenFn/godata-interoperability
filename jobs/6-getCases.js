@@ -2,42 +2,60 @@
 
 // Fetch cases from Go.Data matching a specific outbreak id
 listCases('3b5554d7-2c19-41d0-b9af-475ad25a382b', {}, state => {
-    state.cases = state.data.map(element => {
+  function yesterdayDate() {
+    const date = new Date();
+    date.setDate(date.getDate() - 1);
+    date.setHours(0, 0, 0, 0);
+    return date.toISOString();
+  }
+
+  // set to null if we want to use manualCursor.
+  // set to yesterDayDate() to use the date of yesterday.
+  const yesterday = null;
+  const manualCursor = '2020-07-24T00:00:00.000Z';
+
+  const cases = state.data
+    .filter(report => {
+      return report.dateOfReporting === (yesterday || manualCursor);
+    })
+    .map(report => {
       return {
-        name: `${element.firstName}, ${element.lastName || ''}`,
-        status: element.classification,
-        externalId: element.id,
-        caseId: element.visualId,
-        age: element.age ? element.age.years : element['age:years'],
+        name: `${report.firstName}, ${report.lastName || ''}`,
+        status: report.classification,
+        externalId: report.id,
+        caseId: report.visualId,
+        age: report.age ? report.age.years : report['age:years'],
         phone:
-          element.addresses && element.addresses[0]
-            ? element.addresses[0].phoneNumber
-            : element['addresses:phoneNumber'],
+          report.addresses && report.addresses[0]
+            ? report.addresses[0].phoneNumber
+            : report['addresses:phoneNumber'],
         country:
-          element.addresses && element.addresses[0]
-            ? element.addresses[0].country
-            : element['addresses:country'],
+          report.addresses && report.addresses[0]
+            ? report.addresses[0].country
+            : report['addresses:country'],
         location:
-          element.addresses && element.addresses[0]
-            ? element.addresses[0].locationId
-            : element['addresses:locationId'],
+          report.addresses && report.addresses[0]
+            ? report.addresses[0].locationId
+            : report['addresses:locationId'],
       };
     });
+
+  console.log('Cases received...');
+  console.log(cases);
+  return { ...state, cases };
+});
+
+// Bulk post to OpenFn Inbox
+alterState(state => {
+  const { openfnInboxUrl } = state.configuration;
+  const data = state.cases;
+  console.log(`Sending to OpenFn Inbox in bulk...`);
+  return axios({
+    method: 'POST',
+    url: `${openfnInboxUrl}`,
+    data,
+  }).then(response => {
+    console.log(response);
     return state;
   });
-  
-  // Bulk post to OpenFn Inbox
-  alterState(state => {
-    const { openfnInboxUrl } = state.configuration;
-    const data = state.cases;
-    console.log(`Sending to OpenFn Inbox in bulk...`);
-    return axios({
-      method: 'POST',
-      url: `${openfnInboxUrl}`,
-      data,
-    }).then(response => {
-      console.log(response);
-      return state;
-    });
-  });
-  
+});
