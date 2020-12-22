@@ -31,8 +31,8 @@ each(
         'LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_HOSPITAL_FACILITY',
     };
 
-    console.log(`Upserting location for ${state.data.name}`);
-    console.log(state.data);
+    console.log(`Upserting location for ${data.name}`);
+    console.log(data);
     return upsertLocation('name', {
       data,
     })(state);
