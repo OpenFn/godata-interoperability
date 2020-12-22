@@ -1,0 +1,33 @@
+//Sample JSON object to post to DHIS2 to update `Measles` Cases dataset
+{
+    "dataValues": [
+         {
+            "dataElement": "GCvqIM3IzN0",
+            "categoryOptionCombo": "S34ULMcHMca",
+            "period": "202011",
+            "orgUnit": "y77LiPqLMoq",
+            "value": "60"
+        },
+        {
+            "dataElement": "GCvqIM3IzN0",
+            "categoryOptionCombo": "wHBMVthqIX4",
+            "period": "202011",
+            "orgUnit": "y77LiPqLMoq",
+            "value": "60"
+        },
+        {
+            "dataElement": "GCvqIM3IzN0",
+            "categoryOptionCombo": "SdOUI2yT46H",
+            "period": "202011",
+            "orgUnit": "y77LiPqLMoq",
+            "value": "60"
+        },
+        {
+            "dataElement": "GCvqIM3IzN0",
+            "categoryOptionCombo": "jOkIbJVhECg",
+            "period": "202011",
+            "orgUnit": "y77LiPqLMoq",
+            "value": "60"
+        }     
+    ]
+}
