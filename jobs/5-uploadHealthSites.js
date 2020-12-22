@@ -1,4 +1,4 @@
-//Job to upload Health Sites to Go.Data as reference data
+// Filter locations
 alterState(state => {
   let locations = [];
   Object.keys(state.data).forEach(key => {
@@ -14,6 +14,7 @@ alterState(state => {
   return { ...state, locations: valid_locations };
 });
 
+// Upsert each location to Go.Data 
 each(
   '$.locations[*]',
   alterState(state => {
