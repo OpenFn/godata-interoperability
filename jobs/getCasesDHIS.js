@@ -12,8 +12,17 @@ getCase(
   {},
   state => {
     console.log(`Previous cursor: ${state.lastDateOfReporting}`);
+    function yesterdayDate() {
+      const date = new Date();
+      date.setDate(date.getDate() - 1);
+      date.setHours(0, 0, 0, 0);
+      return date.toISOString();
+    }
 
-    const manualCursor = '2020-12-01T14:32:43.325+01:00';
+    // set to null if we want to use manualCursor.
+    // set to yesterDayDate() to use the date of yesterday.
+    const yesterday = null;
+    const manualCursor = '2020-07-24T00:00:00.000Z';
 
     function is24(date) {
       // check if a given date fits in last 24 hours
@@ -24,18 +33,25 @@ getCase(
     }
 
     const currentCases = state.data.filter(report => {
-      return (
-        report.dateOfReporting > (state.lastDateOfReporting || manualCursor)
-      );
+      return report.dateOfReporting === (yesterday || manualCursor);
     });
 
-    const lastDateOfReporting = state.data
+    const lastDateOfReporting = currentCases
       .filter(item => item.dateOfReporting)
       .map(s => s.dateOfReporting)
       .sort((a, b) => new Date(b) - new Date(a))[0];
 
-    console.log('last day', lastDateOfReporting);
+    console.log('last day of reporting:', lastDateOfReporting);
 
-    return { ...state, currentCases, lastDateOfReporting };
+    const summary = [
+      {
+        dateOfReporting: lastDateOfReporting,
+        value: currentCases.length,
+      },
+    ];
+
+    console.log('summary', summary);
+
+    return { ...state, currentCases, lastDateOfReporting, summary };
   }
 );
