@@ -32,7 +32,7 @@ Categories are another dimension commonly used to define data elements in aggreg
 - You can learn about the `allowed reporting frequency` for a given `dataSet` by inspecting the result of the call to this [endpoint](https://play.dhis2.org/2.35.1/api/dataSets/eZDhcZi6FLP), on a property named `periodType`
 
 #### Step 3. Identify the `dataSet` associated with the data you will be uploading
-- A `data value set` represents a set of data values which have a logical relationship, usually from being captured off the same data entry form or by belonging to the same `dataSet`.
+- A `data value set` represents a set of data values which have a **logical relationship**, usually from being captured off the **same data entry form** or by belonging to the **same dataSet**.
 - So this step helps you identify that **logical grouping** of the **data values** you will be uploading.
 - In this example,  we will use the **[Morbidity data set](https://play.dhis2.org/2.35.1/api/dataSets/eZDhcZi6FLP)** from DHIS2 play instance, of which, the data element used to collect data values for Measles cases, is a member.
 - We would need to find and take note of the `id(eZDhcZi6FLP)` of the `Morbidity data set`.
