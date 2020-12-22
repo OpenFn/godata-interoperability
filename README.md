@@ -32,8 +32,9 @@ Categories are another dimension commonly used to define data elements in aggreg
 - You can learn about the `allowed reporting frequency` for a given `dataSet` by inspecting the result of the call to this [endpoint](https://play.dhis2.org/2.35.1/api/dataSets/eZDhcZi6FLP), on a property named `periodType`
 
 #### Step 3. Identify the `dataSet` associated with the data you will be uploading
-
-- In this example,  we will use the **[Morbidity data set](https://play.dhis2.org/2.35.1/api/dataSets/eZDhcZi6FLP)** from DHIS2 play instance.
+- A `data value set` represents a set of data values which have a logical relationship, usually from being captured off the same data entry form or by belonging to the same `dataSet`.
+- So this step helps you identify that **logical grouping** of the **data values** you will be uploading.
+- In this example,  we will use the **[Morbidity data set](https://play.dhis2.org/2.35.1/api/dataSets/eZDhcZi6FLP)** from DHIS2 play instance, of which, the data element used to collect data values for Measles cases, is a member.
 - We would need to find and take note of the `id(eZDhcZi6FLP)` of the `Morbidity data set`.
 - You can get the list of available `dataSets` for a given `orgUnit` by inspecting the results of this [endpoint](https://play.dhis2.org/2.35.1/api/dataSets?orgUnit=y77LiPqLMoq)
 
@@ -93,7 +94,7 @@ Categories are another dimension commonly used to define data elements in aggreg
 
 ##### _a.) Upload data and associate it with a `dataSet`_
 
-  - In this case, you will need to modify the `payload` in `Step 6` to look as below:
+  - In this case, you will need to modify the `payload` in `Step 6` to look as below. Note the use of `completeDate` to denote the `date` the `data set was completed or entered`:
   
   ```josn
   {
@@ -125,7 +126,7 @@ Categories are another dimension commonly used to define data elements in aggreg
     ]
 }
   ```
-##### _b.) Upload data without associating it with a `dataSet`_
+##### _b.) Upload data without associating it with a `dataSet`(useful for Bulk uploading data for various orgUnits and Periods in a single request)_
   - In this case, you will **not need** to modify the `payload` in `Step 6`:
   ```json
   {
@@ -180,7 +181,8 @@ GET https://play.dhis2.org/2.35.1/api/dataSets/eZDhcZi6FLP/dataValueSet.json?org
 _where `eZDhcZi6FLP` is the `dataSet Id` for the data set you wish to upload, `orgUnit` is the organisation unit for which you are submitting data, `period` is the reporting month_
 
 - This would return a result that would help you easily identify the data element `Ids` available, associated `categoryOptionCombos` and their possibble combinations, and the `expected structure` of the `payload`, for a given `dataSet`, as shown in the example below. 
-- After the template is generated for you by the `api`, your task would then be to **replace** the `values` with the ones you are uploading:
+- After the template is generated for you by the `api`, your task would then be to **replace** the `values` with the ones you are uploading.
+- Note also that this **generated template** enables us to **send data values** for **various periods and org units**, in a **single http POST request**:
 
 ```json
 {
