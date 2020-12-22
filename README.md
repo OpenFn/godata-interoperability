@@ -55,7 +55,7 @@ Categories are another dimension commonly used to define data elements in aggreg
 
 #### Step 6. Based on the information collected in steps `1-5`, design the `payload` to be uploaded to DHIS2 as shown below
 - Also note that a given `data element` can be **repeated multiple times** in the payload, equivalent to the number of `categoryOptionCombos`(disaggregates) designated for that data element
-- In this case, `data values` for the **same data element(GCvqIM3IzN0)** is entered **4 times**, equivalent to `categoryOptionCombo` values `0-11m(S34ULMcHMca)`, `12-59m(wHBMVthqIX4)`, `5-14y(SdOUI2yT46H)` and `15y+(jOkIbJVhECg)`, respectively:
+- In this case, `data values` for the **same data element(GCvqIM3IzN0)** is entered **4 times**, equivalent to the number of available`categoryOptionCombo(disaggregates)` values `0-11m(S34ULMcHMca)`, `12-59m(wHBMVthqIX4)`, `5-14y(SdOUI2yT46H)` and `15y+(jOkIbJVhECg)`, respectively:
 ```json
 {
     "dataValues": [
