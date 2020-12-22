@@ -19,7 +19,7 @@ Calculations for DHIS2 `indicators` are based on `dataElements`. For each DHIS2 
 ### Categories
 Categories are another dimension commonly used to define data elements in aggregate reporting...  
 
-### Example steps for preparing data import for Measles
+### Example steps for preparing data import for New Measles Cases
 #### Step 1. Identify the `orgUnit` for which this data will be submitted
 
 - In this example,  we will use the **[Gbenikoro MCHP](https://play.dhis2.org/2.35.1/api/organisationUnits/y77LiPqLMoq)** organisation unit from DHIS2 play instance.
