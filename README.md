@@ -38,7 +38,7 @@ Categories are another dimension commonly used to define data elements in aggreg
 
 - The `Id` of the `Measles new` dataElement is `GCvqIM3IzN0`
 
-#### Step 5. Identify the CategoryComboOptions associated with a given data element
+#### Step 5. Identify the CategoryComboOptions(Disaggregate Options) associated with a given data element
 
 - In this example, the CategoryComboOptions associated with the `Measles new` data element can be found [here](https://play.dhis2.org/2.35.1/api/categoryOptionCombos.json?fields=*&filter=categoryCombo.id:eq:t3aNCvHsoSn), or as below:
 ```
