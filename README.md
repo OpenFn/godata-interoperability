@@ -24,6 +24,7 @@ Categories are another dimension commonly used to define data elements in aggreg
 
 - In this example,  we will use the **[Gbenikoro MCHP](https://play.dhis2.org/2.35.1/api/organisationUnits/y77LiPqLMoq)** organisation unit from DHIS2 play instance.
 - The `Id` of this `orgUnit` is `y77LiPqLMoq`
+- You can get a list of available organisation units by inspecting the results of this [endpoint](https://play.dhis2.org/2.35.1/api/organisationUnits).
 
 #### Step 2. Identify the `period` for which this data will be submitted
 
