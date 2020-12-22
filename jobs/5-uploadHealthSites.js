@@ -14,7 +14,7 @@ alterState(state => {
   return { ...state, locations: valid_locations };
 });
 
-// Upsert each location to Go.Data 
+// Upsert each location to Go.Data
 each(
   '$.locations[*]',
   alterState(state => {
@@ -31,6 +31,8 @@ each(
         'LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_HOSPITAL_FACILITY',
     };
 
+    console.log(`Upserting location for ${state.data.name}`);
+    console.log(state.data);
     return upsertLocation('name', {
       data,
     })(state);
