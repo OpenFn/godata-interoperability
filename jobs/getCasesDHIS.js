@@ -43,13 +43,10 @@ getCase(
 
     console.log('last day of reporting:', lastDateOfReporting);
 
-    const summary = [
-      {
-        dateOfReporting: lastDateOfReporting,
-        value: currentCases.length,
-      },
-    ];
-
+    const summary = {
+      dateOfReporting: lastDateOfReporting,
+      value: currentCases.length,
+    };
     console.log('summary', summary);
 
     return { ...state, currentCases, lastDateOfReporting, summary };
