@@ -1,6 +1,3 @@
-// Upsert cases from GoData based on Case Id
-
-// Upsert each location to Go.Data
 each(
   '$.cases[*]',
   alterState(state => {
