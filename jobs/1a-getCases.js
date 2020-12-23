@@ -40,9 +40,13 @@ listCases('3b5554d7-2c19-41d0-b9af-475ad25a382b', {}, state => {
       };
     });
 
+  const HMISCases = state.data.filter(report => {
+    return report.dateOfReporting === (yesterday || manualCursor);
+  });
+
   console.log('Cases received...');
   console.log(cases);
-  return { ...state, cases };
+  return { ...state, cases, HMISCases };
 });
 
 // Bulk post to OpenFn Inbox
@@ -52,10 +56,9 @@ alterState(state => {
   console.log(`Sending to OpenFn Inbox in bulk...`);
   return axios({
     method: 'POST',
-    url: 'https://www.openfn.org/inbox/8775c5e5-72c2-4524-b2ba-e422510ba115',//`${openfnInboxUrl}`,
+    url: 'https://www.openfn.org/inbox/8775c5e5-72c2-4524-b2ba-e422510ba115', //`${openfnInboxUrl}`,
     data,
   }).then(response => {
-    console.log(response);
     return state;
   });
 });
