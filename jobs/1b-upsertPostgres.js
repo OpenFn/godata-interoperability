@@ -15,7 +15,7 @@ alterState(state => {
         )}-${telecom.substring(6)}`
       : undefined;
     return {
-      name: `${report.firstName}, ${report.lastName || ''}`,
+      name: `${report.firstName} ${report.lastName || ''}`,
       active:
         report.classification ===
         'LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_SUSPECT'
