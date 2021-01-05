@@ -6,7 +6,7 @@ getCase(
   {
     where: {
       classification:
-        'LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_SUSPECTED',
+        'LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_CONFIRMED',
     },
   },
   {},
