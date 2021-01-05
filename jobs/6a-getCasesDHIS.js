@@ -22,7 +22,7 @@ getCase(
     // set to null if we want to use manualCursor.
     // set to yesterDayDate() to use the date of yesterday.
     const yesterday = null;
-    const manualCursor = '2020-07-24T00:00:00.000Z';
+    const manualCursor = '2020-07-14T00:00:00.000Z';
 
     function is24(date) {
       // check if a given date fits in last 24 hours
@@ -36,19 +36,24 @@ getCase(
       return report.dateOfReporting === (yesterday || manualCursor);
     });
 
-    const lastDateOfReporting = currentCases
-      .filter(item => item.dateOfReporting)
-      .map(s => s.dateOfReporting)
-      .sort((a, b) => new Date(b) - new Date(a))[0];
+    if (currentCases.length === 0) {
+      console.log('No cases were found for', manualCursor);
+      return state;
+    } else {
+      const lastDateOfReporting = currentCases
+        .filter(item => item.dateOfReporting)
+        .map(s => s.dateOfReporting)
+        .sort((a, b) => new Date(b) - new Date(a))[0];
 
-    console.log('last day of reporting:', lastDateOfReporting);
+      console.log('last day of reporting:', lastDateOfReporting);
+      console.log(currentCases.length, 'cases found...');
 
-    const summary = {
-      dateOfReporting: lastDateOfReporting,
-      value: currentCases.length,
-    };
-    console.log('summary', summary);
-
-    return { ...state, currentCases, lastDateOfReporting, summary };
+      const summary = {
+        dateOfReporting: lastDateOfReporting,
+        value: currentCases.length,
+      };
+      console.log('summary', summary);
+      return { ...state, currentCases, lastDateOfReporting, summary };
+    }
   }
 );
