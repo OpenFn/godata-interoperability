@@ -38,7 +38,7 @@ getCase(
 
     if (currentCases.length === 0) {
       console.log('No cases were found for', manualCursor);
-      return state;
+      return { ...state, summary: null };
     } else {
       const lastDateOfReporting = currentCases
         .filter(item => item.dateOfReporting)

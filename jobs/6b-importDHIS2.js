@@ -1,6 +1,5 @@
 alterState(state => {
-  console.log(state.summary);
-  if (state.summary !== undefined) {
+  if (state.summary) {
     const { dateOfReporting, value } = state.summary;
 
     const dataValue = {
