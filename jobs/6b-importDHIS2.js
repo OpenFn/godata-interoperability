@@ -1,4 +1,5 @@
 alterState(state => {
+  console.log(state.summary);
   if (state.summary !== undefined) {
     const { dateOfReporting, value } = state.summary;
 
