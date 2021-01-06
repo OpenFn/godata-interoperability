@@ -22,7 +22,7 @@ getCase(
     // set to null if we want to use manualCursor.
     // set to yesterDayDate() to use the date of yesterday.
     const yesterday = null;
-    const manualCursor = '2020-07-24T00:00:00.000Z';
+    const manualCursor = '2020-07-14T00:00:00.000Z';
 
     function is24(date) {
       // check if a given date fits in last 24 hours
