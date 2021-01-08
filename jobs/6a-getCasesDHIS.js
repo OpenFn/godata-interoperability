@@ -9,7 +9,6 @@ getCase(
         'LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_CONFIRMED',
     },
   },
-  {},
   state => {
     console.log(`Previous cursor: ${state.lastDateOfReporting}`);
     function yesterdayDate() {

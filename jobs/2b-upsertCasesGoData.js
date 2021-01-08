@@ -11,7 +11,7 @@ each(
         report.active == true
           ? 'LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_SUSPECT'
           : '',
-      //id: report.externalid,
+      id: report.externalid,
       visualId: report.identifier,
       age: {
         years:
@@ -35,7 +35,7 @@ each(
     return upsertCase(
       '3b5554d7-2c19-41d0-b9af-475ad25a382b', // the outbreak ID
       'visualId',
-      { data }
+      data
     )(state);
   })
 );

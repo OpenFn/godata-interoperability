@@ -21,6 +21,6 @@ alterState(state => {
   return upsertCase(
     '3b5554d7-2c19-41d0-b9af-475ad25a382b', // the outbreak ID
     'visualId',
-    { data }
+    data
   )(state);
 });

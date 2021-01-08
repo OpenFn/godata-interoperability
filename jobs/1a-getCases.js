@@ -1,7 +1,7 @@
 //Job to fetch Cases to sync to other system
 
 // Fetch cases from Go.Data matching a specific outbreak id
-listCases('3b5554d7-2c19-41d0-b9af-475ad25a382b', {}, state => {
+listCases('3b5554d7-2c19-41d0-b9af-475ad25a382b', state => {
   function yesterdayDate() {
     const date = new Date();
     date.setDate(date.getDate() - 1);

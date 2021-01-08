@@ -33,8 +33,6 @@ each(
 
     console.log(`Upserting location for ${data.name}`);
     console.log(data);
-    return upsertLocation('name', {
-      data,
-    })(state);
+    return upsertLocation('name', data)(state);
   })
 );
