@@ -11,7 +11,7 @@ each(
         report.active == true
           ? 'LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION_SUSPECT'
           : '',
-      id: report.externalid,
+      //id: report.externalid,
       visualId: report.identifier,
       age: {
         years:
