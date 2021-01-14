@@ -1,0 +1,20 @@
+{
+  "categoryId": "NG_REFERENCE_DATA_CATEGORY_CENTRE_NAME",
+  "value": "string",
+  "description": "string",
+  "iconId": "string",
+  "code": "string",
+  "colorCode": "string",
+  "readOnly": false,
+  "active": true,
+  "order": 0,
+  "id": "NEW_CENTRE_NAME",
+  "outbreakId": "string",
+  "createdAt": "2021-01-14T09:16:47.951Z",
+  "createdBy": "string",
+  "updatedAt": "2021-01-14T09:16:47.951Z",
+  "updatedBy": "string",
+  "createdOn": "string",
+  "deleted": false,
+  "deletedAt": "2021-01-14T09:16:47.951Z"
+}
