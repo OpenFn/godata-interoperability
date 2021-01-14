@@ -1,0 +1,20 @@
+{
+  "categoryId": "LNG_REFERENCE_DATA_CATEGORY_CASE_CLASSIFICATION",
+  "value": "string",
+  "description": "string",
+  "iconId": "string",
+  "code": "string",
+  "colorCode": "string",
+  "readOnly": false,
+  "active": true,
+  "order": 0,
+  "id": "string",
+  "outbreakId": "string",
+  "createdAt": "2021-01-14T09:16:48.013Z",
+  "createdBy": "string",
+  "updatedAt": "2021-01-14T09:16:48.013Z",
+  "updatedBy": "string",
+  "createdOn": "string",
+  "deleted": false,
+  "deletedAt": "2021-01-14T09:16:48.013Z"
+}
