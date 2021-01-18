@@ -18,21 +18,34 @@ alterState(state => {
 each(
   '$.locations[*]',
   alterState(state => {
-    const { attributes, centroid } = state.data;
-    const coordinates = centroid.coordinates;
+    function removeExtraUnderscore(object) {
+      for (var obj in object) {
+        if (object[obj] && typeof object[obj] !== 'boolean') {
+          object[obj] = object[obj].replace(/\_{2,}/g, '');
+          if (object[obj][object[obj].length - 1] === '_')
+            object[obj] = object[obj].substring(0, object[obj].length - 1);
+        }
+      }
+    }
+    const { attributes } = state.data;
+    let name = attributes.name.replace(/[^A-Za-z\s]/g, '');
+    name = name.split(' ').join('_').toUpperCase();
+
     const data = {
-      name: attributes.name,
-      // synonyms: [attributes.amenity],
-      identifiers: [{ description: 'uuid', code: attributes.uuid }],
-      geoLocation: { lat: coordinates[1], lng: coordinates[0] },
+      id: `LNG_REFERENCE_DATA_CATEGORY_CENTRE_NAME_${name}`,
+      categoryId: 'LNG_REFERENCE_DATA_CATEGORY_CENTRE_NAME',
+      value: attributes.name,
+      code: attributes.uuid,
       active: true,
-      parentLocationId: 'e86414e4-d91c-4ab8-be2a-720ae90b5106',
-      geographicalLevelId:
-        'LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_HOSPITAL_FACILITY',
+      readOnly: false,
+      outbreakId: '3b5554d7-2c19-41d0-b9af-475ad25a382b',
+      description: 'hospital',
+      name: attributes.name,
     };
+    removeExtraUnderscore(data);
 
     console.log(`Upserting location for ${data.name}`);
     console.log(data);
-    return upsertLocation('name', data)(state);
+    return upsertReferenceData('id', data)(state);
   })
 );
