@@ -8,9 +8,12 @@ alterState(state => {
     }
   });
 
-  const valid_locations = locations.filter(
-    location => location.attributes.name !== undefined
-  );
+  const removeThai = /^[A-Za-z\s\d-\.]+$/; // We ignore any Thai name
+
+  const valid_locations = locations
+    .filter(location => location.attributes.name !== undefined)
+    .filter(location => removeThai.test(location.attributes.name));
+
   return { ...state, locations: valid_locations };
 });
 
@@ -28,11 +31,15 @@ each(
       }
     }
     const { attributes } = state.data;
-    let name = attributes.name.replace(/[^A-Za-z\s]/g, '');
+    // let name = attributes.name.replace(/[^A-Za-z\s\d-\.]/g, ''); // Remove Thai characters
+    let name = attributes.name.replace(/,/g, '');
     name = name.split(' ').join('_').toUpperCase();
+    name = name.replace(/[-\.]/g, '_');
+
+    const outbreakId = '3B5554D7-2C19-41D0-B9AF-475AD25A382B';
 
     const data = {
-      id: `LNG_REFERENCE_DATA_CATEGORY_CENTRE_NAME_${name}`,
+      id: `LNG_OUTBREAK_${outbreakId}_LNG_REFERENCE_DATA_CATEGORY_CENTRE_NAME_${name}`,
       categoryId: 'LNG_REFERENCE_DATA_CATEGORY_CENTRE_NAME',
       value: attributes.name,
       code: attributes.uuid,
