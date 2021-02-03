@@ -27,7 +27,7 @@ alterState(state => {
     console.log('Importing data on DHIS2...');
     console.log(dataValue);
 
-    return createDataValues(dataValue)(state);
+    return dataValueSet(dataValue)(state);
   } else {
     console.log('No cases were imported to DHIS2...');
     return state;
