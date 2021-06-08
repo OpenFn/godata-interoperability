@@ -51,6 +51,8 @@ post(
   }
 );
 
+alterState(state => ({ ...state, data: [], references: [] }));
+
 /** 
  * Example HealthSite Endpoints
  *     
