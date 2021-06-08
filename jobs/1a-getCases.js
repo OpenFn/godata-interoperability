@@ -62,3 +62,5 @@ alterState(state => {
     return state;
   });
 });
+
+alterState(state => ({ ...state, data: [], references: [] }));
